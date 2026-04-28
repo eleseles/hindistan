@@ -1,0 +1,199 @@
+/* CAROUSEL
+=================================================================================*/
+.post56--carousel {
+  min-height: 100%;
+}
+
+/* NAV POSITION
+--------------------------- */
+.main-carousel.flickity-enabled {
+  position: static;
+}
+
+.flickity-button:disabled {
+  display: none !important;
+}
+.flickity-button:disabled + .flickity-page-dots {
+  display: none;
+}
+
+.main-carousel .flickity-button {
+  padding: 0;
+  box-shadow: none !important;
+}
+
+.nav--middle-inside .flickity-button {
+  top: 50%;
+}
+.nav--middle-inside .flickity-button.previous {
+  left: 30px;
+}
+.nav--middle-inside .flickity-button.next {
+  right: 30px;
+}
+
+.nav--middle-edge .flickity-button {
+  top: 50%;
+}
+.nav--middle-edge .flickity-button.previous {
+  left: 0;
+}
+.nav--middle-edge .flickity-button.next {
+  right: 0;
+}
+
+.nav--top-right .flickity-button {
+  top: 10px;
+  transform: none;
+}
+.nav--top-right .flickity-button.previous {
+  left: auto;
+  right: 56px;
+}
+.nav--top-right .flickity-button.next {
+  right: 10px;
+}
+
+/* NAV SHAPE
+--------------------------- */
+.nav--circle .flickity-button {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
+
+.nav--square .flickity-button {
+  width: 52px;
+  height: 52px;
+  border-radius: 1px;
+}
+
+.nav--high-square .flickity-button {
+  width: 40px;
+  height: 120px;
+  border-radius: 1px;
+}
+
+/* NAV STYLE
+--------------------------- */
+.nav--outline .flickity-button {
+  color: rgba(255, 255, 255, 0.7);
+  background: none;
+  border: 2px solid rgba(255, 255, 255, 0.6);
+  transition: all 0.15s;
+}
+.nav--outline .flickity-button:hover {
+  background: none;
+  color: rgba(255, 255, 255, 0.9);
+  border-color: rgba(255, 255, 255, 0.8);
+  box-shadow: 3px 3px 0 black;
+}
+
+.nav--fill .flickity-button {
+  color: rgba(255, 255, 255, 0.7);
+  background: none;
+  border: 2px solid rgba(255, 255, 255, 0.6);
+  transition: all 0.15s;
+}
+.nav--fill .flickity-button:hover {
+  background: white;
+  color: #111;
+  border-color: white;
+}
+
+.nav--primary .flickity-button {
+  color: rgba(255, 255, 255, 0.7);
+  background: none;
+  border: 2px solid rgba(255, 255, 255, 0.6);
+  transition: all 0.15s;
+}
+.nav--primary .flickity-button:hover {
+  background: var(--accent-color);
+  color: #fff;
+  border-color: var(--accent-color);
+}
+
+.nav--dark .flickity-button {
+  color: rgba(255, 255, 255, 0.7);
+  background: rgba(0, 0, 0, 0.4);
+  transition: all 0.15s;
+}
+.nav--dark .flickity-button:hover {
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+}
+
+/* COMBINATION FIXES
+--------------------------- */
+.nav--top-right.nav--circle .flickity-button.previous {
+  right: 44px;
+}
+
+.nav--top-right.nav--square .flickity-button.previous {
+  right: 64px;
+}
+
+.nav--circle.nav--outline .flickity-button:hover {
+  box-shadow: none;
+}
+
+/* PAGER
+--------------------------- */
+.main-carousel .flickity-page-dots {
+  position: absolute;
+  bottom: 10%;
+  z-index: 30;
+}
+.main-carousel .flickity-page-dots .dot {
+  background: none;
+  border: 1px solid white;
+  opacity: 1;
+  transition: all 0.2s ease-out;
+}
+.main-carousel .flickity-page-dots .dot:hover {
+  background: white;
+}
+.main-carousel .flickity-page-dots .dot.is-selected {
+  background: white;
+}
+
+.pager--circle .flickity-page-dots .dot {
+  width: 14px;
+  height: 14px;
+}
+
+.pager--big-circle .flickity-page-dots .dot {
+  width: 20px;
+  height: 20px;
+}
+
+.pager--square .flickity-page-dots .dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 0;
+}
+
+.pager--big-square .flickity-page-dots .dot {
+  width: 20px;
+  height: 20px;
+  border-radius: 0;
+}
+
+/* TEXT INNER, only for slider
+====================================== */
+.post56--ontop .post56__text__inner {
+  display: block;
+  max-width: 100%;
+  padding: 40px;
+  margin: 0 auto;
+}
+@media only screen and (max-width: 840px) {
+  .post56--ontop .post56__text__inner {
+    padding: 20px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .post56--ontop .post56__text__inner {
+    padding: 10px;
+  }
+}/*# sourceMappingURL=carousel.css.map */

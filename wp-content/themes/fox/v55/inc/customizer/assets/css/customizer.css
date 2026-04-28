@@ -1,0 +1,1290 @@
+/**
+ * foxdocs link
+ * @since 4.5
+ */
+.foxdocs-link {
+  background: #188ec1 !important;
+  color: white !important;
+  text-decoration: none;
+  padding: 4px 10px;
+  display: table;
+  border-radius: 2px;
+}
+
+a.foxdocs-link:hover,
+a.foxdocs-link:active,
+a.foxdocs-link:focus {
+  background: #188ec1 !important;
+  color: white !important;
+}
+
+.foxdocs-link i {
+  font-size: 14px;
+  vertical-align: middle;
+  margin: 0;
+  width: auto;
+  height: auto;
+  line-height: 1.5;
+}
+
+.li-hide {
+  height: 0;
+  overflow: hidden;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+}
+
+#customize-header-actions .goto {
+  position: absolute;
+  height: 45px;
+  border: 0;
+  border-radius: 0;
+  outline: 0;
+  z-index: 0;
+  background: transparent;
+  top: 0;
+  left: 45px;
+  right: 100px;
+  width: calc(100% - 145px);
+  box-shadow: none;
+  transition: all 0.1s ease-out;
+  color: black;
+  border: 2px solid #08c;
+}
+#customize-header-actions .goto::-webkit-input-placeholder {
+  color: #777;
+  opacity: 1;
+}
+#customize-header-actions .goto::-moz-placeholder {
+  color: #777;
+  opacity: 1;
+}
+#customize-header-actions .goto:-moz-placeholder {
+  color: #777;
+  opacity: 1;
+}
+#customize-header-actions .goto:-ms-input-placeholder {
+  color: #777;
+  opacity: 1;
+}
+#customize-header-actions .goto:focus {
+  left: 0;
+  right: 1px;
+  width: calc(100% - 1px);
+  outline: 0;
+  border: 0;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  background: white;
+  z-index: 999;
+}
+#customize-header-actions .goto:focus::-webkit-input-placeholder {
+  color: #999;
+  opacity: 1;
+}
+#customize-header-actions .goto:focus::-moz-placeholder {
+  color: #999;
+  opacity: 1;
+}
+#customize-header-actions .goto:focus:-moz-placeholder {
+  color: #999;
+  opacity: 1;
+}
+#customize-header-actions .goto:focus:-ms-input-placeholder {
+  color: #999;
+  opacity: 1;
+}
+
+body .ui-state-hover, body .ui-widget-content .ui-state-hover, body .ui-widget-header .ui-state-hover, body .ui-state-focus, body .ui-widget-content .ui-state-focus, body .ui-widget-header .ui-state-focus, body .ui-button:hover, body .ui-button:focus {
+  background: #bad0e6;
+}
+
+/* ------------------------------------
+ * Add Icon To Panels
+ * ------------------------------------ */
+.accordion-section-title:before {
+  font-family: dashicons;
+  margin-right: 4px;
+  color: #ccc;
+  display: none;
+}
+
+#accordion-section-title_tagline .accordion-section-title:before {
+  content: "\f507";
+}
+
+#accordion-panel-wi_header .accordion-section-title:before {
+  content: "\f343";
+}
+
+#accordion-panel-wi_footer .accordion-section-title:before {
+  content: "\f347";
+}
+
+#accordion-panel-wi_blog .accordion-section-title:before {
+  content: "\f509";
+}
+
+#accordion-panel-wi_single .accordion-section-title:before {
+  content: "\f491";
+}
+
+#accordion-section-wi_page .accordion-section-title:before {
+  content: "\f498";
+}
+
+#accordion-panel-wi_design .accordion-section-title:before {
+  content: "\f100";
+}
+
+#accordion-section-wi_mobile .accordion-section-title:before {
+  content: "\f470";
+}
+
+#accordion-section-wi_social .accordion-section-title:before {
+  content: "\f237";
+}
+
+#accordion-panel-wi_homepage .accordion-section-title:before {
+  content: "\f102";
+}
+
+#accordion-panel-wi_ad .accordion-section-title:before {
+  content: "\f488";
+}
+
+#accordion-section-wi_performance .accordion-section-title:before {
+  content: "\f531";
+}
+
+#accordion-panel-wi_misc .accordion-section-title:before {
+  content: "\f107";
+}
+
+#accordion-section-wi_translation .accordion-section-title:before {
+  content: "\f326";
+}
+
+#accordion-section-custom_css .accordion-section-title:before {
+  content: "\f540";
+}
+
+#accordion-panel-woocommerce .accordion-section-title:before {
+  content: "\f174";
+}
+
+/* ------------------------------------
+ * Homepage Builder Sections
+ * ------------------------------------ */
+.control-section[data-index] .accordion-section-title {
+  cursor: move !important;
+}
+
+[id^=sub-accordion-section-wi_bf] .customize-control {
+  padding-left: 10px;
+  padding-right: 10px;
+  box-sizing: border-box;
+}
+[id^=sub-accordion-section-wi_bf] .customize-control-heading {
+  padding-left: 0;
+  padding-right: 0;
+}
+[id^=sub-accordion-section-wi_bf] .customize-control-heading .fox-customize-heading > h2 {
+  background: #018ec2;
+  color: white;
+  border: 0;
+  padding: 8px;
+  font-weight: normal;
+  position: relative;
+}
+[id^=sub-accordion-section-wi_bf] .customize-control-heading .fox-customize-heading > h2:before {
+  content: "\f345";
+  -webkit-font-smoothing: antialiased;
+  font: normal 20px/30px dashicons;
+  color: white;
+  display: block;
+  position: absolute;
+  right: 5px;
+  top: 50%;
+  bottom: 0;
+  z-index: 20;
+  width: 24px;
+  height: 24px;
+  margin-top: -12px;
+  line-height: 24px;
+  text-align: center;
+}
+[id^=sub-accordion-section-wi_bf] .customize-control-heading.active .fox-customize-heading > h2:before {
+  content: "\f347";
+}
+
+#accordion-panel-widgets {
+  display: none !important;
+}
+
+pre {
+  border: 1px dashed #bbb;
+  padding: 5px;
+  background: #e0e0e0;
+}
+
+.customize-control {
+  float: none;
+}
+
+.customize-control select {
+  width: 100%;
+}
+
+.use-hint {
+  line-height: 1.3;
+  display: block;
+  color: brown;
+}
+
+.customize-section-description {
+  background: #ffd;
+  padding: 10px;
+  font-size: 12px;
+  border: 1px solid #d8d8a7;
+}
+
+/* DESIGN PANEL */
+/* ------------------------------------
+ * Placeholder
+ * ------------------------------------ */
+::-webkit-input-placeholder {
+  color: #bababa;
+}
+
+:-moz-placeholder {
+  color: #bababa;
+}
+
+::-moz-placeholder {
+  color: #bababa;
+  opacity: 1;
+  /* Since FF19 lowers the opacity of the placeholder by default */
+}
+
+:-ms-input-placeholder {
+  color: #bababa;
+}
+
+/**
+ * Customizer Loading 
+ */
+#customize-preview.wp-full-overlay-main:before,
+.customize-loading #customize-container:before,
+.theme-install-overlay .wp-full-overlay-main:before {
+  z-index: 1;
+}
+
+/** 
+ * Message
+ */
+.fox-message {
+  padding: 20px;
+  font-size: 12px;
+  background: white;
+  border: 3px solid #d5e4f7;
+}
+
+.fox-info {
+  padding: 5px;
+  font-size: 12px;
+  line-height: 1.4;
+  color: black;
+  border: 1px solid #79b4d2;
+  background: #e6f2f5;
+}
+
+/** 
+ * Image Radio
+ */
+.customize-control-image_radio {
+  box-sizing: border-box;
+}
+.customize-control-image_radio *, .customize-control-image_radio *:before, .customize-control-image_radio *:after {
+  box-sizing: inherit;
+}
+
+.customize-control-image_radio label {
+  display: block;
+  position: relative;
+  margin: 0 10px 10px 0;
+  overflow: hidden;
+  width: 45%;
+}
+.customize-control-image_radio label img {
+  display: block;
+}
+.customize-control-image_radio label small {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.3);
+  color: white;
+  padding: 2px 10px;
+  display: block;
+  z-index: 20;
+  font-size: 10px;
+  line-height: 1.3;
+  transition: all 0.3s ease;
+  transform: translate(0, 100%);
+}
+.customize-control-image_radio label:hover small {
+  transform: translate(0, 0);
+}
+
+.customize-control-image_radio label input[type=radio] {
+  display: none;
+}
+
+.control-image-radio {
+  overflow: hidden;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+}
+
+.control-image-radio label input[type=radio] + img,
+.control-image-radio label input[type=radio] + .html-img {
+  opacity: 0.5;
+  background: white;
+  border: 2px solid #aaa;
+}
+
+.control-image-radio label:hover input[type=radio] + img,
+.control-image-radio label:hover input[type=radio] + .html-img {
+  opacity: 0.8;
+}
+
+.control-image-radio label input[type=radio]:checked + img,
+.control-image-radio label input[type=radio]:checked + .html-img {
+  opacity: 1;
+  border-color: #08c;
+}
+
+/** 
+ * Typekit Status
+ */
+.typekit-loading-status {
+  display: block;
+  margin-top: 10px;
+}
+
+.typekit-loading-status.error {
+  color: red;
+}
+
+.typekit-loading-status.success {
+  color: green;
+}
+
+.typekit-loading-status.loading {
+  font-style: italic;
+}
+
+.typekit-loading-status .newfonts {
+  margin: 10px 0 0 10px;
+}
+
+/* ------------------------------------
+ * Slide
+ * ------------------------------------ */
+.slide-container {
+  display: flex;
+  align-items: center;
+  padding: 7px 7px 7px 0;
+}
+
+.slide-input-area {
+  width: 70px;
+  display: flex;
+  align-items: center;
+}
+.slide-input-area input {
+  width: 48px;
+  box-shadow: none;
+  background: #fcfcfc;
+  text-align: center;
+}
+.slide-input-area .unit {
+  width: 22px;
+  text-align: right;
+  color: #999;
+}
+
+.slide-control {
+  width: calc(100% - 90px);
+  margin-left: auto;
+  height: 2px;
+  background: #ccc;
+  position: relative;
+}
+.slide-control .ui-slider-handle {
+  display: block;
+  border-radius: 50%;
+  background: #333;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translate(-50%, -50%);
+  transition: width 0.2s, height 0.2s;
+  cursor: ew-resize;
+}
+.slide-control .ui-slider-handle.ui-state-active {
+  width: 24px;
+  height: 24px;
+}
+
+/* ------------------------------------
+ * Custom Control / since 4.0
+ * ------------------------------------ */
+.fox-control-row {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0 -10px;
+  box-sizing: border-box;
+}
+.fox-control-row *,
+.fox-control-row *:before,
+.fox-control-row *:after {
+  box-sizing: inherit;
+}
+
+.fox-control-col {
+  display: block;
+  width: 100%;
+  padding: 5px 10px;
+  margin: 0;
+}
+.fox-control-col.col-1-2 {
+  width: 50%;
+}
+
+/*
+li[id^="customize-control-wi_social"] {
+    > label {
+        display: inline-block;
+        width: 80px;
+    }
+    > input {
+        display: inline-block;
+        width: 180px !important;
+    }
+}
+*/
+/* ------------------------------------
+ * Import Export
+ * ------------------------------------ */
+.import-wrapper .file-holder,
+.import-wrapper .file-name {
+  display: none;
+}
+
+.import-wrapper.has-file .file-holder,
+.import-wrapper.has-file .file-name {
+  display: block;
+}
+
+.file-icon i {
+  font-size: 60px;
+  line-height: 1.2;
+  display: block;
+  margin: 10px 0;
+  width: auto;
+  height: auto;
+  text-align: left;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+/* ------------------------------------
+ * Reset All Options to Default
+ * ------------------------------------ */
+.no-weights-styles {
+  opacity: 0.5;
+  font-style: normal;
+  display: block;
+}
+
+/**
+ * Heading
+ */
+.fox-customize-heading > h2 {
+  background: #008ec2;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 2px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.3;
+  margin: 0;
+}
+
+.heading-desc {
+  font-size: 12px;
+  margin-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #ccc;
+}
+
+/* ------------------------------------
+ * Header Builder
+ * ------------------------------------ */
+#sub-accordion-section-sidebar-widgets-header-builder .customize-section-description {
+  display: none;
+}
+
+#customize-control-wi_header_builder_info {
+  margin-top: 60px;
+}
+
+/* ------------------------------------
+ * FONT SELECT
+ * ------------------------------------ */
+.fox-select-font {
+  display: none;
+}
+.fox-select-font.show {
+  display: block;
+}
+
+.ui-autocomplete {
+  z-index: 999999;
+  border: 1px solid #e0e0e0;
+  box-shadow: 3px 5px 20px rgba(0, 0, 0, 0.3);
+}
+.ui-autocomplete li {
+  border: 0;
+  margin: 0;
+}
+
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus, .ui-button:hover, .ui-button:focus {
+  border-color: transparent;
+  background: #f0f0f0;
+  margin: 0;
+  border: 0;
+}
+
+.font-weights {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.font-weight {
+  width: 50%;
+  flex: none;
+  display: none;
+}
+.font-weight.hide {
+  display: none;
+}
+.font-weight.show {
+  display: block;
+}
+
+/* ------------------------------------
+ * TYPOGRAPHY
+ * ------------------------------------ */
+.fox-typography {
+  border: 1px solid #ddd;
+  padding: 0.5em;
+  background: white;
+  margin: 0.5em 0;
+}
+
+.fox-control-row {
+  display: flex;
+  align-items: flex-start;
+  flex-flow: row wrap;
+  margin: 0 -5px;
+  box-sizing: border-box;
+}
+.fox-control-row * {
+  box-sizing: inherit;
+}
+.fox-control-row + .fox-coltrol-row {
+  padding-top: 0.5em;
+  margin-top: 0.8em;
+  border-top: 1px solid #e9e9e9;
+}
+
+.fox-control-col {
+  display: block;
+  padding: 5px;
+  position: relative;
+}
+.fox-control-col.col-1-1 {
+  width: 100%;
+}
+.fox-control-col.col-1-2 {
+  width: 50%;
+}
+.fox-control-col.col-1-3 {
+  width: 33.33%;
+}
+.fox-control-col.col-2-3 {
+  width: 66.66%;
+}
+.fox-control-col.col-1-4 {
+  width: 25%;
+}
+.fox-control-col.col-3-4 {
+  width: 75%;
+}
+.fox-control-col i {
+  position: absolute;
+  top: 50%;
+  bottom: 0;
+  right: 5px;
+  z-index: 10;
+  width: 20px;
+  height: 20px;
+  margin-top: -10px;
+  text-align: center;
+  display: block;
+  line-height: 20px;
+  color: #ccc;
+  font-size: 12px;
+}
+
+.fox-typo-input-size {
+  padding-right: 20px !important;
+}
+
+/* ------------------------------------
+ * BOX
+ * ------------------------------------ */
+.fox-box-control {
+  border: 1px solid #ddd;
+  padding: 0.5em;
+  background: white;
+}
+
+.customize-control .fox-control-row select {
+  height: 22px;
+  line-height: 22px;
+  border-radius: 0;
+  border-color: #ccc;
+}
+.customize-control .fox-control-row select:focus {
+  border-color: #999;
+}
+.customize-control .fox-control-row input[type=color], .customize-control .fox-control-row input[type=date], .customize-control .fox-control-row input[type=datetime], .customize-control .fox-control-row input[type=datetime-local], .customize-control .fox-control-row input[type=email], .customize-control .fox-control-row input[type=month], .customize-control .fox-control-row input[type=number], .customize-control .fox-control-row input[type=password], .customize-control .fox-control-row input[type=search], .customize-control .fox-control-row input[type=tel], .customize-control .fox-control-row input[type=text], .customize-control .fox-control-row input[type=time], .customize-control .fox-control-row input[type=url], .customize-control .fox-control-row input[type=week], .customize-control .fox-control-row input:not([type]), .customize-control .fox-control-row textarea {
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 22px;
+  border-radius: 0;
+  border-color: #ccc;
+  transition: all 0.1s;
+}
+.customize-control .fox-control-row input[type=color]:focus, .customize-control .fox-control-row input[type=date]:focus, .customize-control .fox-control-row input[type=datetime]:focus, .customize-control .fox-control-row input[type=datetime-local]:focus, .customize-control .fox-control-row input[type=email]:focus, .customize-control .fox-control-row input[type=month]:focus, .customize-control .fox-control-row input[type=number]:focus, .customize-control .fox-control-row input[type=password]:focus, .customize-control .fox-control-row input[type=search]:focus, .customize-control .fox-control-row input[type=tel]:focus, .customize-control .fox-control-row input[type=text]:focus, .customize-control .fox-control-row input[type=time]:focus, .customize-control .fox-control-row input[type=url]:focus, .customize-control .fox-control-row input[type=week]:focus, .customize-control .fox-control-row input:not([type]):focus, .customize-control .fox-control-row textarea:focus {
+  border-color: #007cba;
+}
+
+.fox-box-section + .fox-box-section {
+  margin-top: 1em;
+  padding-top: 1em;
+  border-top: 1px solid #ddd;
+}
+
+.fox-control-label {
+  font-size: 0.9em;
+}
+
+.fox-control-col .small-label {
+  color: #999;
+  font-size: 0.8em;
+}
+
+.fox-box-control {
+  display: none;
+}
+.fox-box-control.active {
+  display: block;
+}
+
+.fox-box-control-tabs {
+  display: block;
+}
+.fox-box-control-tabs ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: flex-end;
+}
+.fox-box-control-tabs li {
+  display: block;
+  color: #ccc;
+  cursor: pointer;
+  padding: 5px 10px;
+  margin: 0;
+  width: 33.33%;
+  text-align: center;
+  border-bottom: 3px solid transparent;
+}
+.fox-box-control-tabs li:hover, .fox-box-control-tabs li.active {
+  color: #999;
+}
+.fox-box-control-tabs li.active {
+  cursor: default;
+  border-bottom-color: currentColor;
+}
+.fox-box-control-tabs li i {
+  display: block;
+  text-align: center;
+  width: 100%;
+  margin: 0;
+  font-size: 20px;
+  line-height: inherit;
+}
+
+/* ------------------------------------
+ * BACKGROUND
+ * ------------------------------------ */
+.fox-background-control {
+  padding: 0.5em;
+  border: 1px solid #ddd;
+  background: white;
+}
+
+/* ------------------------------------
+ * MULTIPLE TEXT
+ * ------------------------------------ */
+.fox-multiple-text-control {
+  box-sizing: border-box;
+}
+.fox-multiple-text-control * {
+  box-sizing: inherit;
+}
+
+.fox-text-row {
+  display: flex;
+  align-content: center;
+  align-items: center;
+}
+.fox-text-row + .fox-text-row {
+  margin-top: 1em;
+}
+
+.text-row-label {
+  display: block;
+  width: 90px;
+  flex: none;
+}
+
+.text-row-input {
+  display: block;
+  width: calc(100% - 90px);
+}
+
+/* ------------------------------------------------------------------------------------------------------------
+ * 4.5 Homepage Builder
+ * ------------------------------------------------------------------------------------------------------------ */
+#sub-accordion-section-wi_homepage_builder {
+  overflow: visible;
+}
+
+/* Layout
+--------------------------- */
+.builder-section {
+  position: relative;
+  z-index: 0;
+}
+.builder-section + .builder-section, .builder-section + .sortable-placeholder {
+  margin-top: 10px;
+}
+
+.section-builder-inner {
+  position: relative;
+  background: white;
+  border: 1px solid #ccd0d4;
+}
+
+.add-section-button-area {
+  display: none;
+}
+
+.section-norm .add-section-button-area {
+  display: block;
+}
+
+.section-sample {
+  display: none;
+}
+
+.section-description {
+  display: none;
+  padding: 10px;
+}
+.section-description p {
+  margin: 0;
+  padding: 8px;
+  font-size: 12px;
+  line-height: 1.5;
+  background: #f0f0f0;
+  border-radius: 1px;
+}
+
+.section-norm .section-action-menu {
+  display: none;
+}
+.section-norm .section-description {
+  display: block;
+}
+
+.wp-core-ui button.add-section {
+  display: block;
+  border-radius: 0;
+  margin-left: auto;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.1s;
+}
+.wp-core-ui button.add-section i {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 4px;
+}
+
+.sortable-placeholder {
+  border: 1px dashed #999;
+  background: #e9f1f6;
+  height: 50px;
+  display: block;
+}
+
+/* Section top
+--------------------------- */
+.section-name {
+  font-size: 14px;
+  font-weight: 600;
+  background: #fff;
+  cursor: move;
+  height: 54px;
+  line-height: 54px;
+  position: relative;
+}
+.section-name:hover {
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.section-name:before {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  content: "";
+  display: block;
+}
+.section-name.inedit:before {
+  display: none;
+}
+
+a.section-action-menu-btn {
+  display: block;
+  width: 54px;
+  height: 54px;
+  line-height: 54px;
+  text-align: center;
+  margin: 0;
+  font-size: 16px;
+  cursor: pointer;
+  text-decoration: none;
+  outline: 0;
+  color: #333;
+}
+a.section-action-menu-btn i {
+  display: block;
+  width: auto;
+  height: auto;
+  line-height: inherit;
+  margin: 0;
+}
+
+.section-action-menu {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 30;
+}
+.section-action-menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: -1px;
+  width: 200px;
+  background: white;
+  z-index: 10;
+  border: 1px solid #999;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+}
+.section-action-menu ul:before, .section-action-menu ul:after {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #fff transparent;
+  display: block;
+  position: absolute;
+  left: 20px;
+  top: -9px;
+  z-index: 20;
+  content: "";
+}
+.section-action-menu ul:after {
+  border-color: transparent transparent #777 transparent;
+  left: 20px;
+  top: -10px;
+  z-index: 10;
+}
+.section-action-menu ul a {
+  display: block;
+  color: #333;
+  padding: 0 16px;
+  line-height: 40px;
+  text-decoration: none;
+  outline: 0;
+  border: 0;
+}
+.section-action-menu ul a:hover {
+  color: #007cba;
+}
+.section-action-menu ul .section-delete {
+  color: red;
+}
+.section-action-menu ul .section-delete:hover {
+  color: red;
+}
+.section-action-menu li {
+  display: block;
+  margin: 0;
+}
+
+.section-name-icon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  height: 54px;
+  width: 40px;
+  line-height: 54px;
+  text-align: center;
+  font-size: 16px;
+}
+.section-name-icon i {
+  display: block;
+  line-height: inherit;
+  text-align: center;
+  width: auto;
+  height: auto;
+}
+.section-name-icon .dashicons-arrow-up {
+  display: none;
+}
+
+.builder-section.active .dashicons-arrow-up {
+  display: block;
+}
+.builder-section.active .dashicons-arrow-down {
+  display: none;
+}
+
+#customize-controls .section-name-h {
+  margin: 0;
+  border: 1px solid transparent;
+  background: none;
+  box-shadow: none;
+  outline: 0;
+  width: 100%;
+  padding: 0 40px 0 54px;
+  line-height: 54px;
+  cursor: inherit;
+}
+
+#customize-controls .section-name.inedit .section-name-h {
+  background: #fff;
+  box-shadow: 0 0 10px #98a2ad;
+  cursor: auto;
+  font-weight: 400;
+}
+
+.section-actions {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 40;
+  background: white;
+  border-top: 1px solid #ccd0d4;
+  display: none;
+}
+
+.section-action-text {
+  text-decoration: none;
+  display: none;
+}
+.section-action-text i {
+  margin-left: 4px;
+  font-size: 14px;
+  width: auto;
+  height: auto;
+  vertical-align: middle;
+}
+.section-action-text span {
+  vertical-align: middle;
+}
+
+.section-action-icon {
+  color: inherit;
+  text-decoration: none;
+  font-size: 16px;
+  margin-left: 6px;
+  color: #bababa;
+}
+.section-action-icon i {
+  width: auto;
+  height: auto;
+}
+
+.section-action-icons {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.section-duplicate {
+  display: block;
+}
+
+.section-delete:hover {
+  color: red;
+}
+
+/* Tabs
+--------------------------- */
+.section-content {
+  display: none;
+  border-top: 1px solid #ccd0d4;
+}
+
+.section-tabs ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: relative;
+  padding: 5px 5px 0;
+}
+.section-tabs ul:before {
+  position: absolute;
+  content: "";
+  display: block;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-top: 1px solid #aaa;
+  z-index: 1;
+}
+.section-tabs li {
+  display: block;
+  float: left;
+  margin: 0;
+}
+.section-tabs a {
+  display: block;
+  margin: 0;
+  text-decoration: none;
+  padding: 12px 5px;
+  color: inherit;
+  font-weight: 400;
+  border: 1px solid transparent;
+  position: relative;
+  z-index: 20;
+  margin-bottom: -1px;
+  color: #999;
+  outline: 0;
+}
+.section-tabs a:hover {
+  color: black;
+}
+.section-tabs .active > a {
+  border-color: #aaa #aaa white #aaa;
+  background: white;
+  color: black;
+}
+
+/* Fields
+--------------------------- */
+.section-fields {
+  padding: 10px;
+}
+
+.section-field {
+  display: none;
+}
+.section-field.section-name {
+  display: block;
+}
+.section-field.intab {
+  display: block;
+}
+.section-field.outvalue {
+  display: none !important;
+}
+
+.section-content .section-field {
+  border-top: 1px solid #d0d0d0;
+  padding: 14px 0;
+}
+.section-content .section-field-name {
+  margin: 0 0 5px;
+}
+.section-content textarea {
+  width: 100%;
+  height: 60px;
+}
+
+.section-field-description {
+  line-height: 1.4;
+  color: #777;
+  margin: 5px 0 0;
+}
+.section-field-description small {
+  display: block;
+}
+
+/** 
+ * Radio
+ */
+.section-field-radio label {
+  display: block;
+}
+
+/**
+ * Multicheckbox
+ */
+.section-field-multicheckbox label {
+  display: block;
+}
+
+/**
+ * Heading
+ */
+.section-content .section-field-heading {
+  padding: 0;
+}
+
+.section-content .section-field-heading,
+.section-content .section-field-heading + .section-field {
+  border: 0;
+}
+
+.section-field-heading .section-field-name {
+  background: #008ec2;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 2px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.3;
+  margin: 0;
+}
+
+/** 
+ * Image Radio
+ */
+.section-field-image_radio {
+  box-sizing: border-box;
+}
+.section-field-image_radio *, .section-field-image_radio *:before, .section-field-image_radio *:after {
+  box-sizing: inherit;
+}
+
+.section-field-image_radio label {
+  display: block;
+  position: relative;
+  margin: 0 10px 10px 0;
+  overflow: hidden;
+}
+.section-field-image_radio label img {
+  display: block;
+}
+.section-field-image_radio label small {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.3);
+  color: white;
+  padding: 2px 10px;
+  display: block;
+  z-index: 20;
+  font-size: 10px;
+  line-height: 1.3;
+  transition: all 0.3s ease;
+  transform: translate(0, 100%);
+}
+.section-field-image_radio label:hover small {
+  transform: translate(0, 0);
+}
+
+.section-field-image_radio label input[type=radio] {
+  display: none;
+}
+
+.control-image-radio {
+  overflow: hidden;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+}
+
+.control-image-radio label input[type=radio] + img {
+  opacity: 0.5;
+  background: white;
+  border: 2px solid #aaa;
+}
+
+.control-image-radio label:hover input[type=radio] + img {
+  opacity: 0.8;
+}
+
+.control-image-radio label input[type=radio]:checked + img {
+  opacity: 1;
+  border-color: #08c;
+}
+
+/* since 4.9
+------------------------- */
+label[for=_customize-input-wi_header_builder-radio-elementor],
+label[for=_customize-input-wi_footer_builder-radio-true] {
+  font-weight: bold;
+  color: darkgreen;
+}
+
+label[for=_customize-input-wi_header_builder-radio-true] {
+  color: #999;
+}/*# sourceMappingURL=customizer.css.map */

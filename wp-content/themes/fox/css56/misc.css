@@ -1,0 +1,86 @@
+#wpstats {
+  width: 0 !important;
+  height: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.wi-button {
+  display: table;
+  margin: 0 auto;
+  width: 50%;
+}
+.wi-button .wi-btn {
+  text-align: center;
+}
+
+/* MISC
+=================================================================================*/
+.single-fox_block .site-content {
+  min-height: 100vh;
+}
+
+.demonstration {
+  display: block;
+  background: #000;
+  color: #fc0;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  padding: 10px;
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+}
+.demonstration p {
+  margin: 0;
+}
+
+.fox-library-modal-btn {
+  margin-left: 5px;
+  background: #000;
+  color: white;
+  vertical-align: top;
+}
+
+.fox-library-modal-btn:before {
+  content: "";
+  width: 24px;
+  height: 24px;
+  background-image: url(/wp-content/themes/fox/images/foxhead.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 10px;
+}
+
+.elementor-add-new-section .elementor-add-section-area-button.fox-library-modal-btn {
+  width: auto;
+  font-size: 14px;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  background: #006ba1;
+  color: white;
+  border-radius: 0;
+  padding: 0 10px;
+  display: flex;
+  align-items: center;
+}
+
+/* TEMPLATE BUILDER PROBLEM
+---------------------------------------------------------------------------------------------------------------------------- */
+@media only screen and (max-width: 600px) {
+  .archive-builder .container,
+  .single-builder .container {
+    max-width: 100%;
+  }
+}
+/* IMAGEBOX
+-------------------------------------------------------------------------------------- */
+.elementor-image-box-title {
+  margin-top: 0;
+}/*# sourceMappingURL=misc.css.map */

@@ -1,0 +1,332 @@
+/* CONTACT FORM 7
+----------------------------------------------------------------------------------------------------------------- */
+/*	Main Layout
+-------------------------------- */
+.wpcf7 {
+  display: block;
+  clear: both;
+  margin: 0 0 1em;
+}
+.wpcf7 input[type=text],
+.wpcf7 input[type=email],
+.wpcf7 input[type=url],
+.wpcf7 input[type=date],
+.wpcf7 select,
+.wpcf7 textarea {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+}
+.wpcf7 .input {
+  display: block;
+  width: 48%;
+  float: left;
+  margin-right: 4%;
+}
+.wpcf7 .textarea {
+  display: block;
+  overflow: hidden;
+}
+.wpcf7 p,
+.wpcf7 .row {
+  margin-bottom: 20px;
+}
+.wpcf7 p:last-of-type,
+.wpcf7 .row:last-of-type {
+  margin-bottom: 0;
+}
+.wpcf7 textarea {
+  height: 149px;
+}
+
+span.wpcf7-form-control-wrap {
+  display: block;
+  margin-top: 0.3em;
+}
+
+.wpcf7-submit {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 33.33%;
+  min-width: 180px;
+}
+.wpcf7-submit:hover {
+  background: var(--accent-color);
+}
+
+/*	Response
+-------------------------------- */
+div.wpcf7-response-output {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding: 0.3em 1em !important;
+  font-size: 0.9em;
+  margin: 0 0 2em;
+}
+div.wpcf7-response-output.wpcf7-validation-errors {
+  background: #fff7cb;
+  border: 1px solid #ffe40f;
+  color: #956824;
+}
+div.wpcf7-response-output.wpcf7-mail-sent-ng {
+  border: 1px solid #e1c4c4;
+  color: #bb6a6a;
+  background: #fff4f2;
+}
+div.wpcf7-response-output.wpcf7-mail-sent-ok {
+  border: 1px solid #bdddbd;
+  color: #71a971;
+  background: #ebffeb;
+}
+
+span.wpcf7-not-valid-tip {
+  padding: 2px 8px !important;
+  border: none !important;
+  color: #ab5c5c !important;
+  background: #efd0d0 !important;
+  font-size: 0.9em;
+}
+
+span.wpcf7-not-valid-tip-no-ajax {
+  display: block;
+  margin-top: 6px !important;
+}
+
+/* MAILCHIMP since 2.4
+ * @since 4.2 we have subscribe form block
+-------------------------------------------------------------------------------------- */
+.mc4wp-form-fields p {
+  margin-bottom: 10px;
+}
+.mc4wp-form-fields input[type=text],
+.mc4wp-form-fields input[type=email],
+.mc4wp-form-fields input[type=url],
+.mc4wp-form-fields input[type=date],
+.mc4wp-form-fields select,
+.mc4wp-form-fields textarea {
+  width: 100%;
+}
+.mc4wp-form-fields input[type=text]::-webkit-input-placeholder,
+.mc4wp-form-fields input[type=email]::-webkit-input-placeholder,
+.mc4wp-form-fields input[type=url]::-webkit-input-placeholder,
+.mc4wp-form-fields input[type=date]::-webkit-input-placeholder,
+.mc4wp-form-fields select::-webkit-input-placeholder,
+.mc4wp-form-fields textarea::-webkit-input-placeholder {
+  color: inherit;
+  opacity: 1;
+}
+.mc4wp-form-fields input[type=text]::-moz-placeholder,
+.mc4wp-form-fields input[type=email]::-moz-placeholder,
+.mc4wp-form-fields input[type=url]::-moz-placeholder,
+.mc4wp-form-fields input[type=date]::-moz-placeholder,
+.mc4wp-form-fields select::-moz-placeholder,
+.mc4wp-form-fields textarea::-moz-placeholder {
+  color: inherit;
+  opacity: 1;
+}
+.mc4wp-form-fields input[type=text]:-moz-placeholder,
+.mc4wp-form-fields input[type=email]:-moz-placeholder,
+.mc4wp-form-fields input[type=url]:-moz-placeholder,
+.mc4wp-form-fields input[type=date]:-moz-placeholder,
+.mc4wp-form-fields select:-moz-placeholder,
+.mc4wp-form-fields textarea:-moz-placeholder {
+  color: inherit;
+  opacity: 1;
+}
+.mc4wp-form-fields input[type=text]:-ms-input-placeholder,
+.mc4wp-form-fields input[type=email]:-ms-input-placeholder,
+.mc4wp-form-fields input[type=url]:-ms-input-placeholder,
+.mc4wp-form-fields input[type=date]:-ms-input-placeholder,
+.mc4wp-form-fields select:-ms-input-placeholder,
+.mc4wp-form-fields textarea:-ms-input-placeholder {
+  color: inherit;
+  opacity: 1;
+}
+.mc4wp-form-fields button,
+.mc4wp-form-fields input[type=submit] {
+  width: 100%;
+}
+
+.fox-form {
+  display: block;
+  clear: both;
+}
+
+.form-inline .mc4wp-form-fields {
+  display: inline-flex;
+  align-items: center;
+}
+.form-inline .mc4wp-form-fields > * {
+  margin: 0;
+}
+.form-inline .mc4wp-form-fields > * + * {
+  margin-left: 5px;
+}
+.form-inline p {
+  margin: 0;
+}
+.form-inline input[type=text],
+.form-inline input[type=email],
+.form-inline input[type=url],
+.form-inline input[type=date],
+.form-inline select,
+.form-inline textarea {
+  width: 260px;
+}
+
+@media only screen and (max-width: 840px) {
+  .form-inline .mc4wp-form-fields {
+    display: block;
+  }
+  .form-inline .mc4wp-form-fields input[type=text],
+  .form-inline .mc4wp-form-fields input[type=email],
+  .form-inline .mc4wp-form-fields input[type=url],
+  .form-inline .mc4wp-form-fields input[type=date],
+  .form-inline .mc4wp-form-fields select,
+  .form-inline .mc4wp-form-fields textarea > * + * {
+    margin-left: 0;
+    margin-top: 1em;
+  }
+  .form-inline input[type=text],
+  .form-inline input[type=email],
+  .form-inline input[type=url],
+  .form-inline input[type=date],
+  .form-inline select,
+  .form-inline textarea,
+  .form-inline button,
+  .form-inline input[type=submit] {
+    width: 100%;
+  }
+}
+.fox-form-inline-wrapper {
+  display: table;
+  margin: 0 auto;
+}
+@media only screen and (max-width: 840px) {
+  .fox-form-inline-wrapper {
+    display: block;
+  }
+}
+
+.fox-form-inline {
+  display: flex;
+  align-content: center;
+  align-items: center;
+}
+.fox-form-inline input[type=text],
+.fox-form-inline input[type=email],
+.fox-form-inline input[type=url],
+.fox-form-inline input[type=date],
+.fox-form-inline select,
+.fox-form-inline textarea {
+  width: 300px;
+}
+@media only screen and (max-width: 840px) {
+  .fox-form-inline input[type=text],
+  .fox-form-inline input[type=email],
+  .fox-form-inline input[type=url],
+  .fox-form-inline input[type=date],
+  .fox-form-inline select,
+  .fox-form-inline textarea {
+    width: 100%;
+  }
+}
+.fox-form-inline > * + * {
+  margin-left: 10px;
+}
+.fox-form-inline > * + *:last-child {
+  margin-left: -1px;
+}
+.fox-form-inline button {
+  background: none;
+  padding: 0;
+  height: 44px;
+  text-decoration: none;
+}
+.fox-form-inline button:hover {
+  background: none;
+  color: inherit;
+}
+.fox-form-inline button .long-arrow {
+  width: 50px;
+}
+@media only screen and (max-width: 840px) {
+  .fox-form-inline {
+    display: block;
+  }
+  .fox-form-inline > * + * {
+    margin-left: 0;
+  }
+}
+
+.mc4wp-form-fields .fox-form-inline p {
+  margin-bottom: 0;
+}
+@media only screen and (max-width: 840px) {
+  .mc4wp-form-fields .fox-form-inline p {
+    margin-bottom: 10px;
+  }
+}
+
+.form-title {
+  margin: 0;
+}
+
+.form-subtitle {
+  margin: 5px 0 0;
+  font-size: 0.9em;
+}
+
+/* ELEMENTOR SECTION
+---------------------------------------- */
+/* eliminate padding 10px *
+.elementor-section:not(.elementor-section-stretched) {
+    .elementor-container {
+
+        &.elementor-column-gap-default {
+            margin:-10px !important;
+            // width: calc(100% + 20px);
+        }
+        &.elementor-column-gap-narrow {
+            margin:-5px !important;
+            width: calc(100% + 10px);
+        }
+
+        &.elementor-column-gap-extended {
+            margin:-15px !important;
+            width: calc(100% + 30px);
+        }   
+
+        &.elementor-column-gap-wide {
+            margin:-20px !important;
+            width: calc(100% + 40px);
+        }
+
+        &.elementor-column-gap-wider {
+            margin:-30px !important;
+            width: calc(100% + 60px);
+        }
+    }
+}
+
+// hide it until it's untilized
+.elementor-section-stretched {
+
+    // opacity: 0;
+    // visibility: hidden;
+
+    // note
+    // transition: opacity .2s ease, visibility .2s ease, background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s !important;
+}
+.elementor-section-stretched[style] {
+    // opacity: 1;
+    // visibility: visible;
+}
+*/
+/* STICKY SIDEBAR
+ * since 5.0
+--------------------------------------------------------------------------------------------------------------------- */
+.elementor-section.sticky-sidebar-effect .elementor-container {
+  align-items: flex-start !important;
+}/*# sourceMappingURL=plugins.css.map */

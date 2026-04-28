@@ -1,0 +1,102 @@
+/* GROUP
+=================================================================================*/
+/**
+ * SEP FOR GROUP
+ */
+.row56__col {
+  position: relative;
+}
+
+.row56__col .blog56__sep__line {
+  display: block !important;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+@media only screen and (max-width: 840px) {
+  .row56__col .blog56__sep__line {
+    height: 0;
+  }
+}
+
+.col--last .blog56__sep__line {
+  height: 0;
+}
+
+/**
+ * make sure that sep of post in group isn't beyond the col width
+ */
+.row56 .post56__sep__line {
+  left: 0 !important;
+  right: 0 !important;
+}
+
+.blog56--group {
+  overflow: hidden;
+}
+
+/* ----------------------------     CUSTOM POST GROUP CSS */
+/* translation: post big, grid 1 col, align center --> max width 600px */
+.row56__col--big .blog56--grid--1cols .align-center .post56__text {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* translation: text-gap for list layout of medium/small columns */
+body .builder56 .section56 .row56__col--medium .post56--list--thumb-right .thumbnail56,
+body .builder56 .section56 .row56__col--small .post56--list--thumb-right .thumbnail56 {
+  padding-left: 10px;
+}
+
+body .builder56 .section56 .row56__col--medium .post56--list--thumb-left .thumbnail56,
+body .builder56 .section56 .row56__col--small .post56--list--thumb-left .thumbnail56 {
+  padding-right: 10px;
+}
+
+.row56__col--medium .post56--list,
+.row56__col--small .post56--list {
+  align-items: flex-start;
+}
+.row56__col--medium .post56--list .thumbnail56,
+.row56__col--small .post56--list .thumbnail56 {
+  width: 100px;
+}
+.row56__col--medium .post56--list .thumbnail56 + .post56__text,
+.row56__col--small .post56--list .thumbnail56 + .post56__text {
+  width: calc(100% - 100px);
+}
+.row56__col--medium .post56--list--thumb-right .thumbnail56,
+.row56__col--small .post56--list--thumb-right .thumbnail56 {
+  padding-left: 12px;
+}
+.row56__col--medium .post56--list--thumb-left .thumbnail56,
+.row56__col--small .post56--list--thumb-left .thumbnail56 {
+  padding-right: 12px;
+}
+
+.row56__col--medium .title56 {
+  font-size: 1.3em;
+}
+@media only screen and (max-width: 600px) {
+  .row56__col--medium .title56 {
+    font-size: 1.1em;
+  }
+}
+.row56__col--medium .excerpt56 {
+  font-size: 1em;
+  line-height: 1.3;
+}
+
+.row56__col--small .title56 {
+  font-size: 1.15em;
+}
+@media only screen and (max-width: 600px) {
+  .row56__col--small .title56 {
+    font-size: 1em;
+  }
+}
+.row56__col--small .excerpt56 {
+  font-size: 0.94em;
+  line-height: 1.3;
+}/*# sourceMappingURL=group.css.map */

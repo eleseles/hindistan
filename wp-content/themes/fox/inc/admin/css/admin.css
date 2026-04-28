@@ -1,0 +1,1348 @@
+#adminmenu .wp-submenu a[href$=fox-updater] {
+  color: red;
+}
+
+.edit-post-layout .edit-post-meta-boxes-area #poststuff h2.hndle {
+  border-bottom: 0;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 1.3em;
+}
+
+#formatdiv {
+  display: none !important;
+}
+
+.tgmpa.wrap h1 {
+  display: block !important;
+}
+
+#wi-field-post-settings-_wi_format_gallery_style {
+  display: flex;
+}
+
+.hide {
+  display: none;
+}
+
+.tooltipster-sidetip .tooltipster-content {
+  font-size: 14px;
+  line-height: 1.3;
+}
+
+/* MENU
+-------------------------------------------------------------------------------------- */
+.dashicons-fox:before {
+  content: "";
+  display: block;
+  background: url(/wp-content/themes/fox/inc/admin/images/foxhead.png) center center no-repeat;
+  background-size: 18px;
+  width: 32px;
+  height: 32px;
+  padding: 0 !important;
+}
+
+.fox-welcome .nav-tab-wrapper {
+  display: flex;
+  flex-flow: row wrap;
+}
+.fox-welcome h1 {
+  display: block !important;
+}
+
+.fox-wrap .fox-welcome h1 {
+  text-align: left;
+}
+.fox-wrap h2 {
+  text-align: left;
+}
+.fox-wrap .headline-feature {
+  margin-left: 0;
+}
+
+.child-theme-message {
+  background: #f0f0f0;
+  font-size: 16px;
+  color: white;
+  background: #ffda88;
+  color: black;
+  font-size: 18px;
+  padding: 12px;
+  margin: 0 0 20px;
+}
+.child-theme-message p {
+  margin: 0;
+}
+
+.fox-welcome-boards {
+  display: flex;
+  align-items: stretch;
+  flex-flow: row wrap;
+  overflow: hidden;
+  margin-top: 20px;
+}
+
+.fox-welcome-board {
+  width: 44%;
+  margin-right: 16px;
+  margin-bottom: 16px;
+  flex: none;
+  background: white;
+  border: 1px solid #e0e0e0;
+  padding: 20px;
+  border-radius: 2px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.1);
+}
+.fox-welcome-board h3 {
+  margin: 0 0 16px;
+}
+.fox-welcome-board h3.green {
+  color: #1e751e;
+}
+.fox-welcome-board p {
+  margin: 0 0 5px;
+}
+.license-notice {
+  border: 1px solid #caedff;
+  padding: 5px;
+  margin: 0 0 10px;
+  border-radius: 4px;
+  background: #effcff;
+  color: #377493;
+}
+.license-notice p {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.board-input {
+  width: 100%;
+  width: calc(100% - 100px);
+  max-width: 100%;
+  height: 32px;
+  line-height: 32px;
+  padding: 0 8px;
+  border-radius: 2px;
+}
+
+/* FOX FORM
+---------------------------------------- */
+.fox-form {
+  padding: 8px 0;
+  position: relative;
+}
+.fox-form .board-input {
+  height: 40px;
+  line-height: 40px;
+}
+.fox-form .board-submit {
+  height: 40px;
+  line-height: 40px;
+}
+
+.loading-cover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 10;
+  content: "";
+  display: block;
+  background: white;
+  opacity: 0.5;
+  transition: all 0.1s ease;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.loading-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 32px;
+  height: 32px;
+  transform: translate(-50%, -50%);
+  background: url(/wp-content/themes/fox/inc/admin/images/loading.gif) center no-repeat;
+  background-size: contain;
+  z-index: 30;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.1s ease;
+}
+
+.fox-form.freeze {
+  position: relative;
+}
+.fox-form.freeze .loading-cover {
+  opacity: 0.8;
+  visibility: visible;
+}
+.fox-form.freeze .loading-icon {
+  opacity: 1;
+  visibility: visible;
+}
+
+.fox-form.success .board-input {
+  color: green;
+  background: #f1fff1;
+  border-color: #b0d5b0;
+}
+.fox-form.success .board-input:focus, .fox-form.success .board-input:active {
+  border-color: #b0d5b0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.fox-message p {
+  padding: 8px;
+  border: 1px solid #eaeaea;
+  background: #fff;
+  border-radius: 3px;
+}
+.fox-message.success {
+  color: #168d16;
+}
+.fox-message.success p {
+  background: #f7fff7;
+  border-color: #bddbbd;
+}
+.fox-message.fail {
+  color: #a80606;
+}
+.fox-message.fail p {
+  border-color: #f0cdcd;
+  background: #fff6f6;
+}
+.fox-notice.fox-demo-notice {
+  display: block;
+  padding: 20px;
+}
+.fox-notice.fox-demo-notice p {
+  font-size: 20px;
+  margin: 0;
+}
+
+.fox-not-registered .ocdi {
+  display: none;
+}
+
+/**
+ * system info
+ */
+.info-item {
+  margin: 0 0 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #d0d0d0;
+}
+.info-item strong {
+  float: right;
+  color: #00a300;
+}
+.info-item.info-item-warning strong {
+  color: orangered;
+}
+.info-item small {
+  color: orangered;
+  clear: both;
+  display: block;
+  background: #f0f0f0;
+  margin-top: 5px;
+}
+
+/* IMPORT ELEMENTOR MESSAGE
+-------------------------------------------------------------------------------------- */
+.import-elementor-message {
+  overflow: hidden;
+  padding: 10px;
+  background: #fff1f8;
+}
+.import-elementor-message p, .import-elementor-message ol, .import-elementor-message li {
+  color: #7a1d1d;
+}
+.import-elementor-message p, .import-elementor-message ul, .import-elementor-message ol {
+  font-size: 16px;
+}
+.import-elementor-message a {
+  color: #7a1d1d;
+  font-weight: bold;
+}
+.import-elementor-message img {
+  display: block;
+  max-width: 100%;
+  float: right;
+  margin: 0 0 0 30px;
+  width: 400px;
+  border: 1px solid;
+}
+
+/* IMPORT DEMO GUIDE
+-------------------------------------------------------------------------------------- */
+.import_settings_guide {
+  border-bottom: 1px solid #d0d0d0;
+}
+
+.import-settings-guide-header {
+  padding: 20px;
+}
+.import-settings-guide-header h1 {
+  margin: 0;
+}
+.import-settings-guide-header .row {
+  display: flex;
+  align-items: center;
+}
+.import-settings-guide-header .col {
+  display: block;
+  width: 50%;
+  flex: none;
+}
+.import-settings-guide-header .col-right {
+  text-align: right;
+}
+.import-settings-guide-header p {
+  margin: 0;
+  font-size: 14px;
+}
+.import-settings-guide-header button {
+  display: block;
+  margin-left: auto;
+  padding: 0 30px;
+  line-height: 40px;
+  height: 40px;
+  font-size: 16px !important;
+}
+
+.import-settings-guide-content {
+  border-top: 1px solid #d0d0d0;
+  background: white;
+  padding: 20px;
+  display: none;
+}
+.import-settings-guide-content h4 {
+  margin: 0 0 5px;
+  font-size: 20px;
+}
+.import-settings-guide-content p {
+  font-size: 16px;
+  margin: 0 0 10px;
+}
+
+.demo-settings-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+.demo-settings-list li {
+  display: inline-block;
+  margin: 0 10px 2px 0;
+}
+.demo-settings-list a:hover {
+  text-decoration: none;
+}
+
+/* IMPORT DEMO
+-------------------------------------------------------------------------------------- */
+.already-imported .ocdi__gl-item-buttons .button-primary {
+  display: none;
+}
+
+.uninstall-guide {
+  padding: 10px 20px;
+  border: 1px solid #d0d0d0;
+  border-width: 1px;
+  border-radius: 2px;
+  background: white;
+  margin: 0 20px 20px;
+}
+.uninstall-guide form {
+  text-align: center;
+}
+.uninstall-guide p {
+  margin: 0 0 10px;
+  font-size: 16px;
+  text-align: center;
+}
+.uninstall-guide button {
+  display: table;
+  margin: 0 auto;
+  border-color: #fff;
+  font-size: 16px !important;
+}
+
+/* IMPORT DEMO
+-------------------------------------------------------------------------------------- */
+.ocdi__theme-about-screenshots,
+.ocdi__theme-about-info .top-content {
+  display: none;
+}
+
+.ocdi__content-container-content .ocdi-install-plugins-content-footer,
+.ocdi__content-container-content .ocdi-create-content-footer {
+  background: white;
+  border: 0;
+}
+
+.plugin-item-all-in-one-seo-pack,
+.plugin-item-google-analytics-for-wordpress,
+.plugin-item-wpforms-lite,
+.ocdi-install-plugins-content-content .ocdi-content-notice--warning {
+  display: none !important;
+}
+
+/**
+ * manual import
+ */
+.ocdi__title-container {
+  display: none;
+}
+
+.ocdi__theme-about-info .ocdi-import-mode-switch {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.ocdi__gl-item {
+  padding: 5px;
+  transition: all 0.15s ease;
+}
+.ocdi__gl-item:hover {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.ocdi__gl-item-image-container::after {
+  padding-top: 90%;
+}
+
+.ocdi-importing-header p {
+  color: red;
+  font-weight: bold;
+}
+
+/* Modal Content
+------------------------ */
+.ocdi__modal-item-title {
+  margin-top: 0.5em;
+  font-weight: bold;
+}
+
+.ocdi__modal-image-container {
+  width: 100%;
+  height: 180px;
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid #ddd;
+}
+.ocdi__modal-image-container img {
+  width: 100%;
+}
+
+.ocdi__modal-notice {
+  margin: 20px 0 0;
+}
+.ocdi__modal-notice a {
+  outline: 0;
+  font-weight: bold;
+}
+.ocdi__modal-notice ul {
+  margin: 10px 0 0;
+  list-style: decimal;
+  padding: 0;
+  padding-left: 20px;
+}
+.ocdi__modal-notice ul li {
+  margin: 0 0 2px;
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+.ocdi-notice-uninstall {
+  color: red;
+  font-size: 1.2em;
+}
+
+/* Loading State
+------------------------ */
+.fox-loading i {
+  display: block;
+  animation: fa-spin 2s infinite linear;
+}
+
+@keyframes fa-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.loader {
+  width: 720px;
+  max-width: 100%;
+  display: none;
+  background: white;
+  margin: 1em 0;
+  padding: 1em;
+  font-size: 1.3em;
+  border: 1px solid #ddd;
+}
+.loader .loader-header {
+  display: flex;
+  align-items: center;
+  color: red;
+}
+.loader .loader-header h3 {
+  margin: 0;
+  color: inherit;
+  text-transform: uppercase;
+  font-size: 1.1em;
+}
+.loader .fox-loading {
+  margin: 0 10px 0 0;
+}
+.loader .loader-msg {
+  display: block;
+}
+.loader .loader-msg p {
+  font-size: 1em;
+  margin-bottom: 0;
+}
+
+/* Message
+------------------------------ */
+.demo-browser .message {
+  margin: 0 0 20px;
+  display: table;
+}
+.demo-browser .message .fox-notice {
+  padding: 10px 20px;
+}
+.demo-browser .message .notice-success {
+  background: green;
+  color: white;
+}
+.demo-browser .message .notice-success a {
+  color: white;
+  text-decoration: underline;
+}
+.demo-browser .message .notice-warning {
+  color: white;
+}
+.demo-browser .message p {
+  font-size: 1.2em;
+  margin: 0;
+}
+
+/*
+-------------------------------------------------------------------------------------- */
+.editor-post-format {
+  display: none;
+}
+
+.fox-column-thumbnail {
+  position: relative;
+}
+.fox-column-thumbnail img {
+  display: block;
+  width: 50px;
+}
+.fox-column-thumbnail i {
+  position: absolute;
+  top: 0;
+  right: 10px;
+  color: #aaa;
+  width: 24px;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
+  font-size: 16px;
+  display: block;
+}
+
+/* TGMA General
+--------------------- */
+#setting-error-tgmpa {
+  min-width: 800px;
+  display: block;
+}
+
+/* Input Placeholder
+--------------------- */
+::-webkit-input-placeholder {
+  color: #ccc;
+}
+
+:-moz-placeholder {
+  color: #ccc;
+}
+
+::-moz-placeholder {
+  color: #ccc;
+  opacity: 1;
+  /* Since FF19 lowers the opacity of the placeholder by default */
+}
+
+:-ms-input-placeholder {
+  color: #ccc;
+}
+
+/* Image Uploader
+-------------------------------------------------------------------------------------- */
+.image-holder {
+  max-width: 300px;
+  margin: 0 0 10px;
+  border: 1px dashed #ccc;
+  background: #edeff0;
+  padding: 5px;
+  position: relative;
+  min-height: 40px;
+}
+
+.image-holder img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.image-holder .remove-image-button {
+  display: none;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  text-decoration: none;
+  background: rgba(255, 255, 255, 0.9);
+  color: black;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.1s;
+  font-size: 20px;
+}
+
+.image-holder .remove-image-button:hover {
+  background: rgb(255, 255, 255);
+}
+
+.image-holder img + .remove-image-button {
+  display: block;
+}
+
+/* Multi-image
+-------------------------------------------------------------------------------------- */
+.images-holder {
+  margin: 0 -5px 10px;
+}
+
+.images-holder:after {
+  display: table;
+  content: "";
+  clear: both;
+}
+
+.images-holder .image-unit,
+.images-holder .image-unit-placeholder {
+  margin: 0;
+  display: block;
+  position: relative;
+  float: left;
+  box-sizing: border-box;
+  padding: 5px;
+  cursor: move;
+}
+
+.images-holder .image-unit-placeholder {
+  position: relative;
+  height: 98px;
+  width: 98px;
+}
+
+.images-holder .image-unit-placeholder:after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  bottom: 5px;
+  right: 5px;
+  border: 1px dashed #999;
+  background: #eaf7fd;
+}
+
+.images-holder .image-unit img {
+  width: 88px;
+  height: 88px;
+  display: block;
+}
+
+/* remove button */
+.images-holder .image-unit .remove-image-unit {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  text-decoration: none;
+  background: rgba(255, 255, 255, 0.9);
+  color: black;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.images-holder .image-unit:hover .remove-image-unit {
+  background: white;
+}
+
+/* Filer Uploader
+ * @since 4.0
+-------------------------------------------------------------------------------------- */
+/* File Holder
+--------------------- */
+.file-holder {
+  display: block;
+  max-width: 450px;
+  margin: 0 0 20px;
+  border: 2px dashed #ccc;
+  background: #fafafa;
+  padding: 10px;
+  position: relative;
+}
+.file-holder .file-icon {
+  font-size: 40px;
+  line-height: 40px;
+  height: 40px;
+}
+.file-holder .file-icon i {
+  display: block;
+  line-height: inherit;
+  font-size: inherit;
+}
+.file-holder .file-icon,
+.file-holder .file-name {
+  display: none;
+}
+.file-holder.has-file .file-icon,
+.file-holder.has-file .file-name {
+  display: block;
+}
+
+/* Remove Button */
+.file-holder .remove-file-button {
+  display: none;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  text-decoration: none;
+  background: rgba(255, 255, 255, 0.5);
+  color: black;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.1s;
+  font-size: 20px;
+}
+
+.file-holder .remove-file-button:hover {
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.file-holder.has-file .remove-file-button {
+  display: block;
+}
+
+/* Input Container
+--------------------- */
+.file-input-container h4 {
+  margin-bottom: 0;
+  font-weight: normal;
+  color: #872e47;
+  text-transform: uppercase;
+  font-size: 11px;
+}
+
+input[type=text].media-result-visible {
+  width: calc(100% - 230px);
+  font-size: 11px;
+  color: #999;
+  background: #f0f0f0;
+  height: 27px;
+}
+
+.upload-file-button {
+  width: 120px;
+  text-align: center;
+}
+
+.remove-file-button {
+  width: 100px;
+}
+
+/* Metabox
+-------------------------------------------------------------------------------------- */
+.wi-metabox {
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  align-items: stretch;
+  margin-bottom: 2em;
+}
+
+.wi-metabox * {
+  box-sizing: inherit;
+}
+
+.wi-metabox .button-primary {
+  box-sizing: content-box;
+}
+
+.wi-info {
+  padding: 10px;
+  padding: 10px;
+  color: #6b94c1;
+  border: 1px solid #cad7e0;
+  background: #f3faff;
+}
+
+/* ----- LAYOUT ------ */
+.metabox-tabs {
+  width: 140px;
+  float: left;
+}
+
+.metabox-fields {
+  padding: 10px 20px;
+  width: calc(100% - 140px);
+  float: left;
+}
+
+#poststuff #page-settings .inside,
+#poststuff #post-settings .inside {
+  margin: 0;
+  padding: 0;
+}
+
+/* ----- TABS ------ */
+.metabox-tabs {
+  border: 1px solid #eaeaea;
+  border-width: 0 1px;
+}
+.metabox-tabs ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.metabox-tabs ul li {
+  display: block;
+  margin: 0 5px;
+}
+.metabox-tabs ul li + li {
+  border-top: 1px solid #ccc;
+}
+.metabox-tabs ul li a {
+  display: block;
+  color: #000;
+  text-decoration: none;
+  padding: 10px 5px;
+  font-size: 14px;
+  position: relative;
+  z-index: 20;
+  outline: 0;
+  box-shadow: none;
+  margin: 4px 0;
+  transition: all 0.1s ease;
+}
+.metabox-tabs ul li:hover a {
+  background: #f2fbff;
+}
+.metabox-tabs ul li.active a {
+  font-weight: bold;
+  background: #f2fbff;
+}
+
+.fox-tab-content {
+  display: none;
+}
+
+/* Metabox Layout
+--------------------- */
+.wi-metabox {
+  box-sizing: border-box;
+}
+
+.wi-metabox * {
+  box-sizing: inherit;
+}
+
+.wi-metabox .button-primary {
+  box-sizing: content-box;
+}
+
+.metabox-fields {
+  padding: 0 20px;
+}
+
+.wi-metabox-field {
+  padding: 10px 0;
+  border-top: 1px solid #d0d0d0;
+}
+
+.wi-metabox-field:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.wi-metabox-field:first-child {
+  border-top: none;
+  padding-top: 0;
+}
+
+.wi-metabox-field > .label-wrapper {
+  width: 40%;
+  max-width: 250px;
+  padding-right: 20px;
+  float: left;
+}
+
+.field-image_radio > .label-wrapper {
+  display: block;
+  float: none;
+  width: auto;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.field-review > .label-wrapper {
+  max-width: 110px;
+}
+
+.wi-metabox-field > .input-wrapper {
+  overflow: hidden;
+  padding-top: 5px;
+}
+
+.wi-metabox-field .description {
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 10px;
+}
+
+/* Color picker
+--------------------- */
+.wi-colorpicker * {
+  box-sizing: content-box;
+}
+
+.wp-color-result {
+  margin-bottom: 0;
+}
+
+/* Heading
+--------------------- */
+.metabox-heading h3 {
+  margin: 0;
+  text-transform: uppercase;
+  background: rgba(0, 0, 0, 0.05);
+  padding: 10px 20px;
+  margin: 10px 0;
+}
+
+/* Radio
+--------------------- */
+.radio-wrapper {
+  overflow: hidden;
+  display: block;
+}
+
+/* Image Radio
+--------------------- */
+.field-image_radio .radio-wrapper {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.field-image_radio input[type=radio] {
+  display: none;
+}
+
+.field-image_radio input[type=radio] + img,
+.field-image_radio input[type=radio] + .html-img {
+  background: white;
+  border: 3px solid transparent;
+  opacity: 0.6;
+  width: 80px;
+}
+
+.field-image_radio input[type=radio] + img:hover,
+.field-image_radio input[type=radio] + .html-img:hover {
+  opacity: 0.8;
+}
+
+.field-image_radio input[type=radio]:checked + img,
+.field-image_radio input[type=radio]:checked + .html-img {
+  border-color: #f9ce8d;
+  opacity: 1;
+}
+
+.html-img {
+  position: relative;
+  overflow: hidden;
+}
+.html-img:hover .html-img-title {
+  transform: translate(0, 0);
+}
+
+.html-img-title {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 3px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  font-size: 11px;
+  transition: all 0.2s;
+  transform: translate(0, 100%);
+}
+
+/* Review
+--------------------- */
+.review,
+.review-placeholder {
+  display: block;
+  margin-bottom: 15px;
+  background: #f9f9f9;
+  border: 1px solid #f0f0f0;
+  padding: 15px;
+  cursor: move;
+}
+
+.review:hover {
+  border-color: #e0e0e0;
+}
+
+.review-placeholder {
+  position: relative;
+  height: 60px;
+}
+
+.review-placeholder:after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  border: 1px dashed #999;
+  background: #eaf7fd;
+}
+
+.review:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.review .review-criterion {
+  width: 40%;
+  float: left;
+  margin-right: 4%;
+}
+
+.review .review-score {
+  width: 40%;
+  margin-right: 4%;
+  float: left;
+}
+
+.review .remove-review {
+  display: block;
+  width: 12%;
+  float: left;
+}
+
+.review .review-criterion input,
+.review .review-score input {
+  display: block;
+  width: 100%;
+}
+
+/* Clonable Metabox
+--------------------- */
+.cover-metabox.clonable {
+  margin: -6px -12px -12px;
+}
+
+.cover-metabox.clonable .metabox-fields {
+  padding: 0;
+}
+
+.cover-metabox.clonable .cover-metabox-field {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.clone-button-wrapper {
+  padding: 0;
+}
+
+.clone-button {
+  color: inherit;
+  text-align: center;
+  padding: 14px 20px;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: block;
+  border-top: 1px solid #e9e9e9;
+  font-weight: 400;
+  font-size: 14px;
+  background: #f9f9f9;
+}
+
+.clone-button:hover {
+  color: inherit;
+  background: #f2f2f2;
+}
+
+/* Navigation
+-------------------------------------------------------------------------------------- */
+.description.field-image {
+  float: none;
+  clear: both;
+}
+
+#customize-preview {
+  overflow: hidden;
+}
+
+/* Import Demo
+-------------------------------------------------------------------------------------- */
+p.ocdi__ajax-loader {
+  position: fixed;
+  z-index: 9999;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  color: black;
+  padding: 32px;
+  border-radius: 5px;
+  box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.1);
+  border: 1px solid #d0d0d0;
+  font-size: 1.3em;
+}
+
+/* Elementor Switcher
+-------------------------------------------------------------------------------------- */
+#elementor-mode-switcher {
+  width: 28px !important;
+  border-radius: 0 5px 5px 0;
+  background: white;
+}
+
+/* Message
+-------------------------------------------------------------------------------------- */
+.fox-notice {
+  padding: 5px 10px;
+}
+.fox-notice.fox-success {
+  background: #f6fff9;
+  border: 1px solid #a9d4af;
+  color: #569b56;
+}
+.fox-notice.fox-error {
+  border: 1px solid #ffd9d9;
+  color: #b55252;
+  background: #fdf2f2;
+}
+.fox-notice.fox-info {
+  border: 1px solid;
+  color: #5ca8ce;
+  background: #f2faff;
+}
+
+.fox-wrap .fox-notice p {
+  font-size: 16px;
+  margin: 0;
+}
+
+div[class*=term-_wi_sidebar_] {
+  display: flex;
+  align-items: center;
+}
+div[class*=term-_wi_sidebar_] label {
+  width: 200px;
+}
+div[class*=term-_wi_sidebar_] select {
+  width: 150px;
+}
+
+/* single layout
+ * since 5.5.4
+-------------------------------------------------------------------------------------- */
+.field-layout > .label-wrapper {
+  float: none;
+  display: block;
+  width: auto;
+  text-transform: uppercase;
+  font-weight: bold;
+  max-width: none;
+}
+
+.field-layout img {
+  width: 100%;
+  border: 2px solid transparent;
+  outline: 1px solid #999;
+}
+.field-layout .radio-wrapper {
+  overflow: visible;
+  position: relative;
+}
+.field-layout .radio-wrapper input[type=radio] {
+  display: none;
+}
+.field-layout .radio-wrapper label {
+  display: block;
+  position: relative;
+}
+.field-layout .radio-wrapper label:before, .field-layout .radio-wrapper label:after {
+  position: absolute;
+  top: 3px;
+  right: 3px;
+  background: white;
+  border-radius: 50%;
+  width: 4px;
+  height: 4px;
+  z-index: 9;
+  content: "";
+  display: block;
+}
+.field-layout .radio-wrapper label:after {
+  right: 10px;
+}
+
+.field-layout .radio-wrapper:hover img {
+  outline-color: #006ba1;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+.field-layout input[type=radio]:checked + img {
+  opacity: 1;
+  outline-color: #006ba1;
+}
+
+.metabox-item-header {
+  display: flex;
+  align-items: center;
+  margin: 0 0 15px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+.metabox-item-header h3 {
+  margin: 0;
+  font-size: 1.4em;
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 1.2;
+  color: #006ba1;
+}
+.metabox-item-header i {
+  display: block;
+  font-size: 18px;
+  cursor: pointer;
+  margin-left: 4px;
+}
+
+.metabox-item-main {
+  display: flex;
+  align-items: stretch;
+  flex-flow: row wrap;
+  margin: -10px -4px 0;
+}
+.metabox-item-main .radio-wrapper {
+  display: block;
+  width: 25%;
+  padding: 10px 5px 0;
+  position: relative;
+}
+.metabox-item-main .radio-wrapper.loading {
+  cursor: not-allowed;
+}
+.metabox-item-main .radio-wrapper.loading label {
+  cursor: not-allowed;
+}
+.metabox-item-main .radio-wrapper.loading img {
+  opacity: 0.15 !important;
+}
+.metabox-item-main .radio-wrapper.loading label i {
+  display: none !important;
+}
+.metabox-item-main .radio-wrapper label i {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  color: #00a300;
+  font-size: 30px;
+  z-index: 99;
+  display: none;
+}
+.metabox-item-main .radio-wrapper input:checked ~ .dashicons-yes-alt {
+  display: block;
+}
+.metabox-item-main .radio-wrapper input:checked ~ .layout-item-title {
+  font-weight: bold;
+}
+
+.downloading {
+  position: absolute;
+  top: 40%;
+  left: 0;
+  right: 0;
+  text-align: center;
+  transform: translate(0, -50%);
+  color: #006ba1;
+  font-weight: bold;
+  font-size: 16px;
+  background: url(/wp-content/themes/fox/inc/admin/images/loading.gif) top center no-repeat;
+  background-size: 32px;
+  padding-top: 40px;
+}
+
+.layouts-classic .metabox-item-main .radio-wrapper {
+  width: 12.5%;
+}
+
+.metabox-item-section {
+  margin: 0 0 30px;
+}
+
+.layout-item-title {
+  display: block;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: #006ba1;
+  font-size: 13px;
+}
+
+.layout-item-actions {
+  margin: 10px 0 0;
+}
+.layout-item-actions .sep {
+  color: #aaa;
+  margin: 0 4px;
+}
+.layout-item-actions i {
+  color: #aaa;
+}
+.layout-item-actions i.green {
+  color: #00a300;
+}/*# sourceMappingURL=admin.css.map */
