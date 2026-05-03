@@ -53,3 +53,23 @@ To https://github.com/eleseles/hindistan.git
    83e4480..2d04541  main -> main
 
 ---
+[2026-05-03 17:43:49]
+[main 09b1381] Auto-update site: 2026-05-03 17:43:45
+ 101 files changed, 2856 insertions(+), 951 deletions(-)
+ create mode 100644 delhi-yonetiminden-yapay-zeka-adimi-kamu-hizmetlerinde-dijital-donusum-basliyor/index.html
+ create mode 100644 tag/delhi/index.html
+ create mode 100644 wp-content/uploads/2026/05/Ekran-Resmi-2026-05-03-20.42.40-1024x580.png
+ create mode 100644 wp-content/uploads/2026/05/Ekran-Resmi-2026-05-03-20.42.40-150x150.png
+ create mode 100644 wp-content/uploads/2026/05/Ekran-Resmi-2026-05-03-20.42.40-1536x870.png
+ create mode 100644 wp-content/uploads/2026/05/Ekran-Resmi-2026-05-03-20.42.40-300x170.png
+ create mode 100644 wp-content/uploads/2026/05/Ekran-Resmi-2026-05-03-20.42.40-480x384.png
+ create mode 100644 wp-content/uploads/2026/05/Ekran-Resmi-2026-05-03-20.42.40-480x480.png
+ create mode 100644 wp-content/uploads/2026/05/Ekran-Resmi-2026-05-03-20.42.40-480x600.png
+ create mode 100644 wp-content/uploads/2026/05/Ekran-Resmi-2026-05-03-20.42.40-60x34.png
+ create mode 100644 wp-content/uploads/2026/05/Ekran-Resmi-2026-05-03-20.42.40-720x480.png
+ create mode 100644 wp-content/uploads/2026/05/Ekran-Resmi-2026-05-03-20.42.40-768x435.png
+ create mode 100644 wp-content/uploads/2026/05/Ekran-Resmi-2026-05-03-20.42.40.png
+To https://github.com/eleseles/hindistan.git
+   2d04541..09b1381  main -> main
+
+---
