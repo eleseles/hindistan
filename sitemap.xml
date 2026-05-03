@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://hindistan.in/</loc>
+    <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://hindistan.in/fact-check/</loc>
+    <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hindistan.in/politika/</loc>
+    <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hindistan.in/seyahat/</loc>
+    <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hindistan.in/ekonomi/</loc>
+    <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hindistan.in/teknoloji/</loc>
+    <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+    <priority>0.80</priority>
+  </url>
+</urlset>
