@@ -133,3 +133,21 @@ To https://github.com/eleseles/hindistan.git
    8e8c2e6..49345ab  main -> main
 
 ---
+[2026-05-08 11:33:43]
+[main 6af81c6] Auto-update site: 2026-05-08 11:33:38
+ 106 files changed, 14634 insertions(+), 4948 deletions(-)
+ create mode 100644 6g-pilot-uygulamalari-basladi-hindistan-teknolojide-yeni-bir-caga-giriyor/index.html
+ create mode 100644 archive/page/5/index.html
+ create mode 100644 bollywoodun-kuresel-erisimi-hint-bilim-kurgusu-dunyayi-salliyor/index.html
+ create mode 100644 category/kultur/index.html
+ create mode 100644 dijital-odeme-upi-rekoru-aylik-20-milyar-islem-siniri-asildi/index.html
+ create mode 100644 egitimde-dijital-esitlik-en-ucra-koylere-yuksek-hizli-internet/index.html
+ create mode 100644 kadin-girisimciligi-tesviki-5-milyon-yeni-mikro-isletme/index.html
+ create mode 100644 latest/page/4/index.html
+ create mode 100644 startup-ekosisteminde-canlanma-unicorn-sayisinda-buyuk-artis/index.html
+ create mode 100644 unesco-gururu-antik-tapinaklara-ozel-surdurulebilirlik-odulu/index.html
+ create mode 100644 yerli-cip-uretiminde-milat-ilk-yuksek-performansli-islemciler-banttan-indi/index.html
+To https://github.com/eleseles/hindistan.git
+   49345ab..6af81c6  main -> main
+
+---
