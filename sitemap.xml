@@ -21,6 +21,11 @@
     <priority>0.80</priority>
   </url>
   <url>
+    <loc>https://hindistan.in/category/surdurulebilirlik/</loc>
+    <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>https://hindistan.in/ekonomi/</loc>
     <lastmod><?php echo date('Y-m-d'); ?></lastmod>
     <priority>0.80</priority>
