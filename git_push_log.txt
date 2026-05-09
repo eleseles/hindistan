@@ -229,3 +229,73 @@ To https://github.com/eleseles/hindistan.git
    d692691..56b6ca2  main -> main
 
 ---
+[2026-05-09 08:29:19]
+[main 751dd12] Auto-update site: 2026-05-09 08:29:04
+ 171 files changed, 11198 insertions(+), 1896 deletions(-)
+ create mode 100644 akshaya-tritiya-hazirliklari-hindistanda-altin-ve-bereket-gunu/index.html
+ create mode 100644 archive/page/6/index.html
+ create mode 100644 category/teknoloji/page/2/index.html
+ create mode 100644 chandrayaan-4-icin-geri-sayim-aydan-ornek-getirme-misyonu/index.html
+ create mode 100644 dis-ticaret-rakamlari-buyuyor-ihracatta-akilli-telefon-ve-muhendislik-etkisi/index.html
+ create mode 100644 latest/page/5/index.html
+ create mode 100644 rabindra-jayanti-kutlamalari-nobel-odullu-tagoreun-mirasi-yasatiliyor/index.html
+ create mode 100644 tekstil-ihracatinda-buyuk-basari-mayis-ayinda-959-buyume/index.html
+ create mode 100644 wp-content/uploads/2026/05/akshaya_tritiya_gold_shopping_1778314322128-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/akshaya_tritiya_gold_shopping_1778314322128-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/akshaya_tritiya_gold_shopping_1778314322128-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/akshaya_tritiya_gold_shopping_1778314322128-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/akshaya_tritiya_gold_shopping_1778314322128-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/akshaya_tritiya_gold_shopping_1778314322128-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/akshaya_tritiya_gold_shopping_1778314322128-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/akshaya_tritiya_gold_shopping_1778314322128-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/akshaya_tritiya_gold_shopping_1778314322128.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandrayaan_4_isro_mission_1778314344093-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandrayaan_4_isro_mission_1778314344093-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandrayaan_4_isro_mission_1778314344093-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandrayaan_4_isro_mission_1778314344093-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandrayaan_4_isro_mission_1778314344093-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandrayaan_4_isro_mission_1778314344093-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandrayaan_4_isro_mission_1778314344093-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandrayaan_4_isro_mission_1778314344093-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandrayaan_4_isro_mission_1778314344093.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_defense_robotics_tech_1778314361838-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_defense_robotics_tech_1778314361838-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_defense_robotics_tech_1778314361838-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_defense_robotics_tech_1778314361838-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_defense_robotics_tech_1778314361838-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_defense_robotics_tech_1778314361838-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_defense_robotics_tech_1778314361838-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_defense_robotics_tech_1778314361838-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_defense_robotics_tech_1778314361838.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_global_trade_export_growth_1778314392029-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_global_trade_export_growth_1778314392029-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_global_trade_export_growth_1778314392029-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_global_trade_export_growth_1778314392029-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_global_trade_export_growth_1778314392029-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_global_trade_export_growth_1778314392029-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_global_trade_export_growth_1778314392029-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_global_trade_export_growth_1778314392029-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_global_trade_export_growth_1778314392029.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_textile_export_boom_2026_1778314376604-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_textile_export_boom_2026_1778314376604-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_textile_export_boom_2026_1778314376604-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_textile_export_boom_2026_1778314376604-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_textile_export_boom_2026_1778314376604-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_textile_export_boom_2026_1778314376604-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_textile_export_boom_2026_1778314376604-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_textile_export_boom_2026_1778314376604-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_textile_export_boom_2026_1778314376604.jpg
+ create mode 100644 wp-content/uploads/2026/05/rabindra_jayanti_celebrations_1778314300865-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/rabindra_jayanti_celebrations_1778314300865-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/rabindra_jayanti_celebrations_1778314300865-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/rabindra_jayanti_celebrations_1778314300865-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/rabindra_jayanti_celebrations_1778314300865-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/rabindra_jayanti_celebrations_1778314300865-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/rabindra_jayanti_celebrations_1778314300865-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/rabindra_jayanti_celebrations_1778314300865-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/rabindra_jayanti_celebrations_1778314300865.jpg
+ create mode 100644 yerli-robot-teknolojisinde-stratejik-ortaklik-savunma-sanayiinde-robotik-devrim/index.html
+To https://github.com/eleseles/hindistan.git
+   56b6ca2..751dd12  main -> main
+
+---
