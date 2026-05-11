@@ -369,3 +369,11 @@ To https://github.com/eleseles/hindistan.git
    751dd12..ae2783e  main -> main
 
 ---
+[2026-05-09 09:21:55]
+[main 7e3b30b] Auto-update site: 2026-05-09 09:21:48
+ 118 files changed, 2939 insertions(+), 2779 deletions(-)
+ create mode 100644 category/surdurulebilirlik/index.html
+To https://github.com/eleseles/hindistan.git
+   d981136..7e3b30b  main -> main
+
+---
