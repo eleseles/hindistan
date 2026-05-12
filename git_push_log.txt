@@ -514,3 +514,102 @@ To https://github.com/eleseles/hindistan.git
    26e9f42..8d66931  main -> main
 
 ---
+[2026-05-12 11:42:21]
+[main 99843a5] Auto-update site: 2026-05-12 11:42:04
+ 227 files changed, 17534 insertions(+), 6013 deletions(-)
+ create mode 100644 akoode-technologiesin-global-yukselisi-yapay-zekada-hint-imzasi/index.html
+ create mode 100644 aktor-suriyanin-hayraniyla-yasadigi-olay-viral-olan-nezaket/index.html
+ create mode 100644 archive/page/8/index.html
+ create mode 100644 basbakan-modiden-tasarruf-cagrisi-kuresel-krize-karsi-ekonomik-direnc/index.html
+ create mode 100644 berger-paintsten-guclu-buyume-net-karda-artis/index.html
+ create mode 100644 elektrikli-araclara-acil-gecis-cagrisi-akaryakit-bagimliligina-son/index.html
+ create mode 100644 latest/page/7/index.html
+ create mode 100644 raja-shivaji-gisede-firtina-estiriyor-marathi-sinemasinin-zaferi/index.html
+ create mode 100644 sessiz-istifa-ekonomiyi-vuruyor-351-milyar-dolarlik-kayip/index.html
+ create mode 100644 sinir-guvenligi-icin-stratejik-hamle-bsfye-arazi-devri-onaylandi/index.html
+ create mode 100644 varanasi-hizli-tren-projesi-yeni-delhi-ile-lucknow-arasi-2-saate-iniyor/index.html
+ create mode 100644 wp-content/uploads/2026/05/actor_suriya_fan_moment_viral_1778585558649-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/actor_suriya_fan_moment_viral_1778585558649-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/actor_suriya_fan_moment_viral_1778585558649-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/actor_suriya_fan_moment_viral_1778585558649-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/actor_suriya_fan_moment_viral_1778585558649-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/actor_suriya_fan_moment_viral_1778585558649-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/actor_suriya_fan_moment_viral_1778585558649-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/actor_suriya_fan_moment_viral_1778585558649-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/actor_suriya_fan_moment_viral_1778585558649.jpg
+ create mode 100644 wp-content/uploads/2026/05/akoode_technologies_ai_excellence_1778585464527-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/akoode_technologies_ai_excellence_1778585464527-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/akoode_technologies_ai_excellence_1778585464527-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/akoode_technologies_ai_excellence_1778585464527-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/akoode_technologies_ai_excellence_1778585464527-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/akoode_technologies_ai_excellence_1778585464527-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/akoode_technologies_ai_excellence_1778585464527-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/akoode_technologies_ai_excellence_1778585464527-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/akoode_technologies_ai_excellence_1778585464527.jpg
+ create mode 100644 wp-content/uploads/2026/05/berger_paints_financial_success_1778585446096-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/berger_paints_financial_success_1778585446096-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/berger_paints_financial_success_1778585446096-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/berger_paints_financial_success_1778585446096-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/berger_paints_financial_success_1778585446096-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/berger_paints_financial_success_1778585446096-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/berger_paints_financial_success_1778585446096-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/berger_paints_financial_success_1778585446096-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/berger_paints_financial_success_1778585446096.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_bangladesh_border_fencing_1778585411086-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_bangladesh_border_fencing_1778585411086-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_bangladesh_border_fencing_1778585411086-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_bangladesh_border_fencing_1778585411086-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_bangladesh_border_fencing_1778585411086-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_bangladesh_border_fencing_1778585411086-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_bangladesh_border_fencing_1778585411086-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_bangladesh_border_fencing_1778585411086-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_bangladesh_border_fencing_1778585411086.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ev_transition_urgency_1778585479973-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ev_transition_urgency_1778585479973-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ev_transition_urgency_1778585479973-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ev_transition_urgency_1778585479973-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ev_transition_urgency_1778585479973-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ev_transition_urgency_1778585479973-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ev_transition_urgency_1778585479973-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ev_transition_urgency_1778585479973-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ev_transition_urgency_1778585479973.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_saving_call_economy_1778585376841-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_saving_call_economy_1778585376841-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_saving_call_economy_1778585376841-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_saving_call_economy_1778585376841-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_saving_call_economy_1778585376841-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_saving_call_economy_1778585376841-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_saving_call_economy_1778585376841-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_saving_call_economy_1778585376841-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_saving_call_economy_1778585376841.jpg
+ create mode 100644 wp-content/uploads/2026/05/quiet_quitting_india_economy_impact_1778585426127-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/quiet_quitting_india_economy_impact_1778585426127-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/quiet_quitting_india_economy_impact_1778585426127-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/quiet_quitting_india_economy_impact_1778585426127-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/quiet_quitting_india_economy_impact_1778585426127-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/quiet_quitting_india_economy_impact_1778585426127-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/quiet_quitting_india_economy_impact_1778585426127-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/quiet_quitting_india_economy_impact_1778585426127-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/quiet_quitting_india_economy_impact_1778585426127.jpg
+ create mode 100644 wp-content/uploads/2026/05/raja_shivaji_movie_box_office_hit_1778585523117-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/raja_shivaji_movie_box_office_hit_1778585523117-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/raja_shivaji_movie_box_office_hit_1778585523117-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/raja_shivaji_movie_box_office_hit_1778585523117-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/raja_shivaji_movie_box_office_hit_1778585523117-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/raja_shivaji_movie_box_office_hit_1778585523117-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/raja_shivaji_movie_box_office_hit_1778585523117-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/raja_shivaji_movie_box_office_hit_1778585523117-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/raja_shivaji_movie_box_office_hit_1778585523117.jpg
+ create mode 100644 wp-content/uploads/2026/05/varanasi_bullet_train_project_1778585391615-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/varanasi_bullet_train_project_1778585391615-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/varanasi_bullet_train_project_1778585391615-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/varanasi_bullet_train_project_1778585391615-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/varanasi_bullet_train_project_1778585391615-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/varanasi_bullet_train_project_1778585391615-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/varanasi_bullet_train_project_1778585391615-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/varanasi_bullet_train_project_1778585391615-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/varanasi_bullet_train_project_1778585391615.jpg
+To https://github.com/eleseles/hindistan.git
+   8d66931..99843a5  main -> main
+
+---
