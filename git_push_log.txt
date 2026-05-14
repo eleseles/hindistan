@@ -623,3 +623,21 @@ To https://github.com/eleseles/hindistan.git
    99843a5..165b589  main -> main
 
 ---
+[2026-05-14 10:57:52]
+[main 3cdcc6b] Auto-update site: 2026-05-14 10:57:47
+ 159 files changed, 6141 insertions(+), 6002 deletions(-)
+ create mode 100644 wp-content/uploads/2026/05/turkiye-hindistan-iliskileri-1024x576.jpg
+ create mode 100644 wp-content/uploads/2026/05/turkiye-hindistan-iliskileri-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/turkiye-hindistan-iliskileri-1536x864.jpg
+ create mode 100644 wp-content/uploads/2026/05/turkiye-hindistan-iliskileri-300x169.jpg
+ create mode 100644 wp-content/uploads/2026/05/turkiye-hindistan-iliskileri-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/turkiye-hindistan-iliskileri-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/turkiye-hindistan-iliskileri-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/turkiye-hindistan-iliskileri-60x34.jpg
+ create mode 100644 wp-content/uploads/2026/05/turkiye-hindistan-iliskileri-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/turkiye-hindistan-iliskileri-768x432.jpg
+ create mode 100644 wp-content/uploads/2026/05/turkiye-hindistan-iliskileri.jpg
+To https://github.com/eleseles/hindistan.git
+   165b589..3cdcc6b  main -> main
+
+---
