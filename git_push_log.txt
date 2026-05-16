@@ -812,3 +812,103 @@ To https://github.com/eleseles/hindistan.git
    66bdc6e..f42ac3a  main -> main
 
 ---
+[2026-05-16 10:14:26]
+[main e5d0921] Auto-update site: 2026-05-16 10:14:13
+ 265 files changed, 20617 insertions(+), 8126 deletions(-)
+ create mode 100644 "altin-ve-gumuste-ithalat-vergisi-\025e-yukseltildi-piyasalar-hareketli/index.html"
+ create mode 100644 aravalli-daglarinda-cevreci-zaferi-maden-ruhsatlarina-engel/index.html
+ create mode 100644 archive/page/11/index.html
+ create mode 100644 basbakan-modi-hollandada-hint-diasporasina-coskulu-hitap/index.html
+ create mode 100644 biyoyakit-ve-etanol-karisim-teknolojileri-hizlandiriliyor/index.html
+ create mode 100644 category/kultur/page/2/index.html
+ create mode 100644 hindistan-ve-bae-arasinda-dev-petrol-anlasmasi/index.html
+ create mode 100644 hindistandan-irakin-yeni-basbakanina-stratejik-tebrik/index.html
+ create mode 100644 latest/page/9/index.html
+ create mode 100644 sualti-altyapi-guvenligi-icin-hindistan-ve-hollanda-isbirligi/index.html
+ create mode 100644 sun-pharmadan-12-milyar-dolarlik-dev-satin-alma-organon-hamlesi/index.html
+ create mode 100644 wp-content/uploads/2026/05/aravalli_hills_environmental_victory_2026_1778930400000_1778926143005-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/aravalli_hills_environmental_victory_2026_1778930400000_1778926143005-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/aravalli_hills_environmental_victory_2026_1778930400000_1778926143005-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/aravalli_hills_environmental_victory_2026_1778930400000_1778926143005-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/aravalli_hills_environmental_victory_2026_1778930400000_1778926143005-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/aravalli_hills_environmental_victory_2026_1778930400000_1778926143005-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/aravalli_hills_environmental_victory_2026_1778930400000_1778926143005-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/aravalli_hills_environmental_victory_2026_1778930400000_1778926143005-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/aravalli_hills_environmental_victory_2026_1778930400000_1778926143005.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_wfh_campaign_energy_saving_2026_1778926129102-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_wfh_campaign_energy_saving_2026_1778926129102-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_wfh_campaign_energy_saving_2026_1778926129102-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_wfh_campaign_energy_saving_2026_1778926129102-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_wfh_campaign_energy_saving_2026_1778926129102-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_wfh_campaign_energy_saving_2026_1778926129102-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_wfh_campaign_energy_saving_2026_1778926129102-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_wfh_campaign_energy_saving_2026_1778926129102-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_wfh_campaign_energy_saving_2026_1778926129102.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_biofuel_ethanol_tech_acceleration_1778926065349-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_biofuel_ethanol_tech_acceleration_1778926065349-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_biofuel_ethanol_tech_acceleration_1778926065349-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_biofuel_ethanol_tech_acceleration_1778926065349-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_biofuel_ethanol_tech_acceleration_1778926065349-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_biofuel_ethanol_tech_acceleration_1778926065349-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_biofuel_ethanol_tech_acceleration_1778926065349-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_biofuel_ethanol_tech_acceleration_1778926065349-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_biofuel_ethanol_tech_acceleration_1778926065349.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gold_tax_15_percent_impact_1778926027440-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gold_tax_15_percent_impact_1778926027440-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gold_tax_15_percent_impact_1778926027440-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gold_tax_15_percent_impact_1778926027440-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gold_tax_15_percent_impact_1778926027440-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gold_tax_15_percent_impact_1778926027440-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gold_tax_15_percent_impact_1778926027440-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gold_tax_15_percent_impact_1778926027440-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gold_tax_15_percent_impact_1778926027440.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_uae_strategic_oil_deal_2026_1778926114298-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_uae_strategic_oil_deal_2026_1778926114298-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_uae_strategic_oil_deal_2026_1778926114298-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_uae_strategic_oil_deal_2026_1778926114298-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_uae_strategic_oil_deal_2026_1778926114298-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_uae_strategic_oil_deal_2026_1778926114298-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_uae_strategic_oil_deal_2026_1778926114298-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_uae_strategic_oil_deal_2026_1778926114298-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_uae_strategic_oil_deal_2026_1778926114298.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_holland_diaspora_hague_2026_1778926079379-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_holland_diaspora_hague_2026_1778926079379-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_holland_diaspora_hague_2026_1778926079379-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_holland_diaspora_hague_2026_1778926079379-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_holland_diaspora_hague_2026_1778926079379-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_holland_diaspora_hague_2026_1778926079379-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_holland_diaspora_hague_2026_1778926079379-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_holland_diaspora_hague_2026_1778926079379-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_holland_diaspora_hague_2026_1778926079379.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_iraq_pm_congratulations_energy_1778926097812-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_iraq_pm_congratulations_energy_1778926097812-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_iraq_pm_congratulations_energy_1778926097812-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_iraq_pm_congratulations_energy_1778926097812-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_iraq_pm_congratulations_energy_1778926097812-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_iraq_pm_congratulations_energy_1778926097812-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_iraq_pm_congratulations_energy_1778926097812-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_iraq_pm_congratulations_energy_1778926097812-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_iraq_pm_congratulations_energy_1778926097812.jpg
+ create mode 100644 wp-content/uploads/2026/05/sun_pharma_organon_acquisition_12b_1778926040342-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/sun_pharma_organon_acquisition_12b_1778926040342-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/sun_pharma_organon_acquisition_12b_1778926040342-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/sun_pharma_organon_acquisition_12b_1778926040342-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/sun_pharma_organon_acquisition_12b_1778926040342-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/sun_pharma_organon_acquisition_12b_1778926040342-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/sun_pharma_organon_acquisition_12b_1778926040342-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/sun_pharma_organon_acquisition_12b_1778926040342-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/sun_pharma_organon_acquisition_12b_1778926040342.jpg
+ create mode 100644 wp-content/uploads/2026/05/underwater_cable_security_india_holland_1778926052892-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/underwater_cable_security_india_holland_1778926052892-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/underwater_cable_security_india_holland_1778926052892-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/underwater_cable_security_india_holland_1778926052892-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/underwater_cable_security_india_holland_1778926052892-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/underwater_cable_security_india_holland_1778926052892-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/underwater_cable_security_india_holland_1778926052892-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/underwater_cable_security_india_holland_1778926052892-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/underwater_cable_security_india_holland_1778926052892.jpg
+ create mode 100644 yeni-delhide-enerji-tasarrufu-icin-evden-calisma-karari/index.html
+To https://github.com/eleseles/hindistan.git
+   f42ac3a..e5d0921  main -> main
+
+---
