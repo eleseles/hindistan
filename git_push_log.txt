@@ -922,3 +922,103 @@ To https://github.com/eleseles/hindistan.git
    e5d0921..4bbf511  main -> main
 
 ---
+[2026-05-18 06:53:12]
+[main ca65bf9] Auto-update site: 2026-05-18 06:52:54
+ 280 files changed, 21309 insertions(+), 8937 deletions(-)
+ create mode 100644 ab-ve-hindistandan-hint-okyanusunda-ortak-guvenlik-hamlesi/index.html
+ create mode 100644 aditi-rao-hydari-cannes-film-festivalinde-buyuledi-neon-yesil-ruzgari/index.html
+ create mode 100644 archive/page/12/index.html
+ create mode 100644 archive/page/13/index.html
+ create mode 100644 bank-of-indiadan-faiz-artirimi-super-yasli-vatandaslara-7-60-firsati/index.html
+ create mode 100644 basbakan-modi-norvecte-43-yil-sonra-tarihi-ikili-zirve/index.html
+ create mode 100644 borsalarda-petrol-soku-sensex-ve-nifty-sert-dustu/index.html
+ create mode 100644 hindistan-ab-siber-guvenlik-ortakligi-genisliyor-kritik-altyapilar-korunacak/index.html
+ create mode 100644 huma-qureshiden-cannes-aciklamasi-koklerimizi-temsil-etmek-buyuk-gurur/index.html
+ create mode 100644 latest/page/10/index.html
+ create mode 100644 sam-altman-acikladi-hintli-kullanicilardan-chatgpt-gorsellerinde-dunya-rekoru/index.html
+ create mode 100644 tdconnexe-ulusal-inovasyon-odulu-tamil-nadunun-uretim-gururu/index.html
+ create mode 100644 wp-content/uploads/2026/05/aditi_rao_hydari_cannes_neon_1779086809602-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/aditi_rao_hydari_cannes_neon_1779086809602-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/aditi_rao_hydari_cannes_neon_1779086809602-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/aditi_rao_hydari_cannes_neon_1779086809602-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/aditi_rao_hydari_cannes_neon_1779086809602-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/aditi_rao_hydari_cannes_neon_1779086809602-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/aditi_rao_hydari_cannes_neon_1779086809602-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/aditi_rao_hydari_cannes_neon_1779086809602-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/aditi_rao_hydari_cannes_neon_1779086809602.jpg
+ create mode 100644 wp-content/uploads/2026/05/bank_of_india_senior_fd_rates_1779086708671-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/bank_of_india_senior_fd_rates_1779086708671-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/bank_of_india_senior_fd_rates_1779086708671-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/bank_of_india_senior_fd_rates_1779086708671-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/bank_of_india_senior_fd_rates_1779086708671-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/bank_of_india_senior_fd_rates_1779086708671-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/bank_of_india_senior_fd_rates_1779086708671-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/bank_of_india_senior_fd_rates_1779086708671-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/bank_of_india_senior_fd_rates_1779086708671.jpg
+ create mode 100644 wp-content/uploads/2026/05/huma_qureshi_cannes_culture_1779086824143-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/huma_qureshi_cannes_culture_1779086824143-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/huma_qureshi_cannes_culture_1779086824143-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/huma_qureshi_cannes_culture_1779086824143-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/huma_qureshi_cannes_culture_1779086824143-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/huma_qureshi_cannes_culture_1779086824143-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/huma_qureshi_cannes_culture_1779086824143-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/huma_qureshi_cannes_culture_1779086824143-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/huma_qureshi_cannes_culture_1779086824143.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_chatgpt_images_record_1779086727485-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_chatgpt_images_record_1779086727485-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_chatgpt_images_record_1779086727485-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_chatgpt_images_record_1779086727485-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_chatgpt_images_record_1779086727485-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_chatgpt_images_record_1779086727485-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_chatgpt_images_record_1779086727485-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_chatgpt_images_record_1779086727485-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_chatgpt_images_record_1779086727485.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_cybersecurity_partnership_1779086762331-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_cybersecurity_partnership_1779086762331-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_cybersecurity_partnership_1779086762331-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_cybersecurity_partnership_1779086762331-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_cybersecurity_partnership_1779086762331-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_cybersecurity_partnership_1779086762331-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_cybersecurity_partnership_1779086762331-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_cybersecurity_partnership_1779086762331-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_cybersecurity_partnership_1779086762331.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_indian_ocean_naval_exercise_1779086789425-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_indian_ocean_naval_exercise_1779086789425-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_indian_ocean_naval_exercise_1779086789425-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_indian_ocean_naval_exercise_1779086789425-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_indian_ocean_naval_exercise_1779086789425-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_indian_ocean_naval_exercise_1779086789425-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_indian_ocean_naval_exercise_1779086789425-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_indian_ocean_naval_exercise_1779086789425-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_eu_indian_ocean_naval_exercise_1779086789425.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_norway_oslo_summit_2026_1779086775343-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_norway_oslo_summit_2026_1779086775343-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_norway_oslo_summit_2026_1779086775343-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_norway_oslo_summit_2026_1779086775343-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_norway_oslo_summit_2026_1779086775343-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_norway_oslo_summit_2026_1779086775343-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_norway_oslo_summit_2026_1779086775343-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_norway_oslo_summit_2026_1779086775343-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/modi_norway_oslo_summit_2026_1779086775343.jpg
+ create mode 100644 wp-content/uploads/2026/05/mumbai_stock_exchange_oil_shock_1779086687980-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/mumbai_stock_exchange_oil_shock_1779086687980-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/mumbai_stock_exchange_oil_shock_1779086687980-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/mumbai_stock_exchange_oil_shock_1779086687980-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/mumbai_stock_exchange_oil_shock_1779086687980-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/mumbai_stock_exchange_oil_shock_1779086687980-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/mumbai_stock_exchange_oil_shock_1779086687980-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/mumbai_stock_exchange_oil_shock_1779086687980-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/mumbai_stock_exchange_oil_shock_1779086687980.jpg
+ create mode 100644 wp-content/uploads/2026/05/tdconnex_msme_innovation_award_1779086748725-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/tdconnex_msme_innovation_award_1779086748725-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/tdconnex_msme_innovation_award_1779086748725-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/tdconnex_msme_innovation_award_1779086748725-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/tdconnex_msme_innovation_award_1779086748725-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/tdconnex_msme_innovation_award_1779086748725-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/tdconnex_msme_innovation_award_1779086748725-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/tdconnex_msme_innovation_award_1779086748725-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/tdconnex_msme_innovation_award_1779086748725.jpg
+To https://github.com/eleseles/hindistan.git
+   4bbf511..ca65bf9  main -> main
+
+---
