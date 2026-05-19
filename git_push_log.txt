@@ -1022,3 +1022,106 @@ To https://github.com/eleseles/hindistan.git
    4bbf511..ca65bf9  main -> main
 
 ---
+[2026-05-18 14:09:22]
+[main c99ed08] Auto-update site: 2026-05-18 13:51:21
+ 293 files changed, 18118 insertions(+), 4246 deletions(-)
+ create mode 100644 archive/page/14/index.html
+ create mode 100644 author/admin/page/10/index.html
+ create mode 100644 hindistan-dini-cesitlilik-hosgoru-ve-ruhani-dogum-yeri/index.html
+ create mode 100644 hindistan-eyaletleri-28-eyalet-8-birlik-topragi-ve-kultur-mozaigi/index.html
+ create mode 100644 hindistan-hangi-kitada-yer-alir-cografi-konumu-ve-sinirlari/index.html
+ create mode 100644 hindistan-haritasi-cografi-konumu-sinirlari-ve-stratejik-onemi/index.html
+ create mode 100644 hindistan-musluman-nufusu-demografik-yapi-tarih-ve-kulturel-miras/index.html
+ create mode 100644 hindistan-nufusu-2026-demografik-firsatlar-ve-gelecegin-guc-dengesi/index.html
+ create mode 100644 hindistan-yoresel-kiyafetleri-renklerin-kumaslarin-ve-kulturun-dansi/index.html
+ create mode 100644 hindistan-zenginlik-kaynaklari-yeralti-ve-yerustu-dogal-zenginlikleri/index.html
+ create mode 100644 hindistanin-yonetim-sekli-dunyanin-en-buyuk-demokrasisi-nasil-yonetiliyor/index.html
+ create mode 100644 latest/page/11/index.html
+ create mode 100644 page/10/index.html
+ create mode 100644 wp-content/uploads/2026/05/india_beautiful_3d_map_1779111512773-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_beautiful_3d_map_1779111512773-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_beautiful_3d_map_1779111512773-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_beautiful_3d_map_1779111512773-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_beautiful_3d_map_1779111512773-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_beautiful_3d_map_1779111512773-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_beautiful_3d_map_1779111512773-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_beautiful_3d_map_1779111512773-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_beautiful_3d_map_1779111512773.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_continent_location_space_1779111547759-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_continent_location_space_1779111547759-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_continent_location_space_1779111547759-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_continent_location_space_1779111547759-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_continent_location_space_1779111547759-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_continent_location_space_1779111547759-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_continent_location_space_1779111547759-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_continent_location_space_1779111547759-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_continent_location_space_1779111547759.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_government_parliament_democracy_1779111582855-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_government_parliament_democracy_1779111582855-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_government_parliament_democracy_1779111582855-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_government_parliament_democracy_1779111582855-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_government_parliament_democracy_1779111582855-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_government_parliament_democracy_1779111582855-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_government_parliament_democracy_1779111582855-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_government_parliament_democracy_1779111582855-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_government_parliament_democracy_1779111582855.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_muslim_population_jama_masjid_1779111530846-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_muslim_population_jama_masjid_1779111530846-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_muslim_population_jama_masjid_1779111530846-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_muslim_population_jama_masjid_1779111530846-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_muslim_population_jama_masjid_1779111530846-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_muslim_population_jama_masjid_1779111530846-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_muslim_population_jama_masjid_1779111530846-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_muslim_population_jama_masjid_1779111530846-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_muslim_population_jama_masjid_1779111530846.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_natural_resources_wealth_1779111480282-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_natural_resources_wealth_1779111480282-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_natural_resources_wealth_1779111480282-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_natural_resources_wealth_1779111480282-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_natural_resources_wealth_1779111480282-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_natural_resources_wealth_1779111480282-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_natural_resources_wealth_1779111480282-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_natural_resources_wealth_1779111480282-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_natural_resources_wealth_1779111480282.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_population_2026_1779111496215-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_population_2026_1779111496215-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_population_2026_1779111496215-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_population_2026_1779111496215-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_population_2026_1779111496215-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_population_2026_1779111496215-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_population_2026_1779111496215-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_population_2026_1779111496215-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_population_2026_1779111496215.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_religions_diversity_harmony_1779111562142-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_religions_diversity_harmony_1779111562142-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_religions_diversity_harmony_1779111562142-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_religions_diversity_harmony_1779111562142-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_religions_diversity_harmony_1779111562142-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_religions_diversity_harmony_1779111562142-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_religions_diversity_harmony_1779111562142-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_religions_diversity_harmony_1779111562142-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_religions_diversity_harmony_1779111562142.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_states_cultural_diversity_1779111618290-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_states_cultural_diversity_1779111618290-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_states_cultural_diversity_1779111618290-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_states_cultural_diversity_1779111618290-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_states_cultural_diversity_1779111618290-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_states_cultural_diversity_1779111618290-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_states_cultural_diversity_1779111618290-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_states_cultural_diversity_1779111618290-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_states_cultural_diversity_1779111618290.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_traditional_clothing_culture_1779111601575-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_traditional_clothing_culture_1779111601575-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_traditional_clothing_culture_1779111601575-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_traditional_clothing_culture_1779111601575-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_traditional_clothing_culture_1779111601575-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_traditional_clothing_culture_1779111601575-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_traditional_clothing_culture_1779111601575-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_traditional_clothing_culture_1779111601575-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_traditional_clothing_culture_1779111601575.jpg
+error: RPC failed; curl 55 Recv failure: Connection reset by peer
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+
+---
