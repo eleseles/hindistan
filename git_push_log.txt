@@ -1133,3 +1133,126 @@ Your branch is ahead of 'origin/main' by 2 commits.
 nothing to commit, working tree clean
 
 ---
+[2026-05-20 12:15:44]
+On branch main
+Your branch is ahead of 'origin/main' by 3 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+---
+[2026-05-20 12:23:00]
+[main 8af0d5e] Auto-update site: 2026-05-20 12:14:21
+ 332 files changed, 27893 insertions(+), 11197 deletions(-)
+ create mode 100644 archive/page/16/index.html
+ create mode 100644 author/admin/page/12/index.html
+ create mode 100644 basbakan-modi-ve-isvec-basbakani-kristerssondan-ortak-makale-yeni-isbirligi-donemi/index.html
+ create mode 100644 category/ekonomi/page/3/index.html
+ create mode 100644 category/teknoloji/page/4/index.html
+ create mode 100644 chandigarh-sehri-24x7-gece-hayatina-kesintisiz-aciliyor/index.html
+ create mode 100644 delhide-45-dereceyi-asan-kavurucu-sicaklar-hukumetten-yaz-kitleri-mudahalesi/index.html
+ create mode 100644 hindistan-ve-italya-arasinda-yapay-zeka-ve-teknoloji-ittifaki-gundemi/index.html
+ create mode 100644 hindistanin-en-buyuk-petrokimya-tesisi-ihalesini-lt-kazandi/index.html
+ create mode 100644 kuresel-yetenek-merkezleri-gcc-rekor-kiriyor-ihracat-164-milyar-dolara-kosuyor/index.html
+ create mode 100644 latest/page/13/index.html
+ create mode 100644 maharashtranin-konkan-kiyisina-yeni-nesil-nukleer-enerji-projeleri-insa-edilecek/index.html
+ create mode 100644 meghalayada-13-ulkeli-dev-askeri-tatbikat-basladi-pragati-2026/index.html
+ create mode 100644 page/12/index.html
+ create mode 100644 pepsicodan-hindistana-591-milyon-dolarlik-dev-uretim-yatirimi/index.html
+ create mode 100644 visakhapatnama-dev-yatirim-adani-google-yapay-zeka-veri-merkezi-kuruluyor/index.html
+ create mode 100644 wp-content/uploads/2026/05/adani_google_ai_data_center_1779278370276-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/adani_google_ai_data_center_1779278370276-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/adani_google_ai_data_center_1779278370276-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/adani_google_ai_data_center_1779278370276-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/adani_google_ai_data_center_1779278370276-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/adani_google_ai_data_center_1779278370276-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/adani_google_ai_data_center_1779278370276-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/adani_google_ai_data_center_1779278370276-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/adani_google_ai_data_center_1779278370276.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandigarh_nightlife_24_7_1779278467539-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandigarh_nightlife_24_7_1779278467539-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandigarh_nightlife_24_7_1779278467539-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandigarh_nightlife_24_7_1779278467539-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandigarh_nightlife_24_7_1779278467539-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandigarh_nightlife_24_7_1779278467539-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandigarh_nightlife_24_7_1779278467539-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandigarh_nightlife_24_7_1779278467539-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/chandigarh_nightlife_24_7_1779278467539.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_heatwave_45_degrees_1779278450891-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_heatwave_45_degrees_1779278450891-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_heatwave_45_degrees_1779278450891-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_heatwave_45_degrees_1779278450891-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_heatwave_45_degrees_1779278450891-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_heatwave_45_degrees_1779278450891-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_heatwave_45_degrees_1779278450891-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_heatwave_45_degrees_1779278450891-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/delhi_heatwave_45_degrees_1779278450891.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gcc_tech_exports_1779278292632-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gcc_tech_exports_1779278292632-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gcc_tech_exports_1779278292632-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gcc_tech_exports_1779278292632-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gcc_tech_exports_1779278292632-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gcc_tech_exports_1779278292632-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gcc_tech_exports_1779278292632-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gcc_tech_exports_1779278292632-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_gcc_tech_exports_1779278292632.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_italy_ai_alliance_1779278352510-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_italy_ai_alliance_1779278352510-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_italy_ai_alliance_1779278352510-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_italy_ai_alliance_1779278352510-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_italy_ai_alliance_1779278352510-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_italy_ai_alliance_1779278352510-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_italy_ai_alliance_1779278352510-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_italy_ai_alliance_1779278352510-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_italy_ai_alliance_1779278352510.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_sweden_partnership_1779278392658-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_sweden_partnership_1779278392658-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_sweden_partnership_1779278392658-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_sweden_partnership_1779278392658-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_sweden_partnership_1779278392658-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_sweden_partnership_1779278392658-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_sweden_partnership_1779278392658-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_sweden_partnership_1779278392658-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_sweden_partnership_1779278392658.jpg
+ create mode 100644 wp-content/uploads/2026/05/konkan_nuclear_power_project_1779278436333-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/konkan_nuclear_power_project_1779278436333-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/konkan_nuclear_power_project_1779278436333-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/konkan_nuclear_power_project_1779278436333-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/konkan_nuclear_power_project_1779278436333-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/konkan_nuclear_power_project_1779278436333-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/konkan_nuclear_power_project_1779278436333-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/konkan_nuclear_power_project_1779278436333-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/konkan_nuclear_power_project_1779278436333.jpg
+ create mode 100644 wp-content/uploads/2026/05/lt_petrochemical_plant_india_1779278332601-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/lt_petrochemical_plant_india_1779278332601-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/lt_petrochemical_plant_india_1779278332601-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/lt_petrochemical_plant_india_1779278332601-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/lt_petrochemical_plant_india_1779278332601-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/lt_petrochemical_plant_india_1779278332601-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/lt_petrochemical_plant_india_1779278332601-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/lt_petrochemical_plant_india_1779278332601-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/lt_petrochemical_plant_india_1779278332601.jpg
+ create mode 100644 wp-content/uploads/2026/05/pepsico_india_investment_1779278313207-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/pepsico_india_investment_1779278313207-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/pepsico_india_investment_1779278313207-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/pepsico_india_investment_1779278313207-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/pepsico_india_investment_1779278313207-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/pepsico_india_investment_1779278313207-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/pepsico_india_investment_1779278313207-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/pepsico_india_investment_1779278313207-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/pepsico_india_investment_1779278313207.jpg
+ create mode 100644 wp-content/uploads/2026/05/pragati_2026_military_exercise_1779278419259-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/pragati_2026_military_exercise_1779278419259-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/pragati_2026_military_exercise_1779278419259-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/pragati_2026_military_exercise_1779278419259-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/pragati_2026_military_exercise_1779278419259-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/pragati_2026_military_exercise_1779278419259-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/pragati_2026_military_exercise_1779278419259-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/pragati_2026_military_exercise_1779278419259-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/pragati_2026_military_exercise_1779278419259.jpg
+error: RPC failed; curl 55 Send failure: Broken pipe
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+
+---
