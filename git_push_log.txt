@@ -1864,3 +1864,66 @@ To https://github.com/eleseles/hindistan.git
    24a7de5..305da20  main -> main
 
 ---
+[2026-05-24 12:49:40]
+[main 0964623] Auto-update site: 2026-05-24 12:48:27
+ 337 files changed, 25806 insertions(+), 13977 deletions(-)
+ create mode 100644 abd-hindistan-arasinda-yeni-ticaret-anlasmasi-cok-yakin/index.html
+ create mode 100644 archive/page/20/index.html
+ create mode 100644 author/admin/page/16/index.html
+ create mode 100644 category/ekonomi/page/4/index.html
+ create mode 100644 category/genel/page/2/index.html
+ create mode 100644 category/teknoloji/page/5/index.html
+ create mode 100644 gelecegin-bilim-insanlari-japonya-yolcusu-sakura-bilim-programi/index.html
+ create mode 100644 iran-israil-savasi-icin-tarihi-baris-umudu-marco-rubiodan-kritik-aciklama/index.html
+ create mode 100644 niti-aayogdan-2047-vizyonu-hindistan-arka-ofisten-cikip-yapay-zeka-lideri-olmali/index.html
+ create mode 100644 page/16/index.html
+ create mode 100644 rohit-sharmadan-yeni-nesil-vurgusu-hindistan-kriketin-guc-merkezi-olmali/index.html
+ create mode 100644 wp-content/uploads/2026/05/indian_students_japan_1779626339802-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_students_japan_1779626339802-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_students_japan_1779626339802-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_students_japan_1779626339802-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_students_japan_1779626339802-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_students_japan_1779626339802-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_students_japan_1779626339802-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_students_japan_1779626339802-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_students_japan_1779626339802.jpg
+ create mode 100644 wp-content/uploads/2026/05/middle_east_diplomacy_rubio_1779626565347-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/middle_east_diplomacy_rubio_1779626565347-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/middle_east_diplomacy_rubio_1779626565347-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/middle_east_diplomacy_rubio_1779626565347-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/middle_east_diplomacy_rubio_1779626565347-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/middle_east_diplomacy_rubio_1779626565347-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/middle_east_diplomacy_rubio_1779626565347-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/middle_east_diplomacy_rubio_1779626565347-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/middle_east_diplomacy_rubio_1779626565347.jpg
+ create mode 100644 wp-content/uploads/2026/05/niti_aayog_deep_tech_1779626324351-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/niti_aayog_deep_tech_1779626324351-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/niti_aayog_deep_tech_1779626324351-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/niti_aayog_deep_tech_1779626324351-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/niti_aayog_deep_tech_1779626324351-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/niti_aayog_deep_tech_1779626324351-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/niti_aayog_deep_tech_1779626324351-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/niti_aayog_deep_tech_1779626324351-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/niti_aayog_deep_tech_1779626324351.jpg
+ create mode 100644 wp-content/uploads/2026/05/rohit_sharma_cricket_1779626354331-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/rohit_sharma_cricket_1779626354331-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/rohit_sharma_cricket_1779626354331-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/rohit_sharma_cricket_1779626354331-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/rohit_sharma_cricket_1779626354331-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/rohit_sharma_cricket_1779626354331-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/rohit_sharma_cricket_1779626354331-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/rohit_sharma_cricket_1779626354331-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/rohit_sharma_cricket_1779626354331.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_new_1779626309838-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_new_1779626309838-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_new_1779626309838-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_new_1779626309838-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_new_1779626309838-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_new_1779626309838-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_new_1779626309838-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_new_1779626309838-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_new_1779626309838.jpg
+To https://github.com/eleseles/hindistan.git
+   305da20..0964623  main -> main
+
+---
