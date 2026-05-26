@@ -1927,3 +1927,92 @@ To https://github.com/eleseles/hindistan.git
    305da20..0964623  main -> main
 
 ---
+[2026-05-25 11:23:52]
+[main 054eeb5] Auto-update site: 2026-05-25 11:22:19
+ 374 files changed, 25349 insertions(+), 14797 deletions(-)
+ create mode 100644 abdden-yeni-delhiye-diplomatik-guven-mesaji-hindistan-bizim-stratejik-onceligimizdir/index.html
+ create mode 100644 adaletin-hizlanmasi-icin-tarihi-karar-yuksek-mahkeme-yargic-sayisi-artirildi/index.html
+ create mode 100644 archive/page/21/index.html
+ create mode 100644 asustan-hindistan-pazarinda-bir-ilk-yapay-zeka-destekli-aio-bilgisayar/index.html
+ create mode 100644 hindistan-ekonomisine-guven-tam-yabanci-sirket-kayitlarinda-9-yilin-zirvesi/index.html
+ create mode 100644 hint-sanayisinde-devrim-uretimde-yapay-zeka-kullanimi-hizla-buyuyor/index.html
+ create mode 100644 japonyadan-quad-oncesi-guclu-mesaj-kritik-mineraller-masada/index.html
+ create mode 100644 kanada-ile-ticaret-ve-enerjide-yeni-donem-dev-yatirimlar-yolda/index.html
+ create mode 100644 latest/page/17/index.html
+ create mode 100644 wp-content/uploads/2026/05/asus_aio_computer_1779706526468-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/asus_aio_computer_1779706526468-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/asus_aio_computer_1779706526468-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/asus_aio_computer_1779706526468-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/asus_aio_computer_1779706526468-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/asus_aio_computer_1779706526468-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/asus_aio_computer_1779706526468-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/asus_aio_computer_1779706526468-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/asus_aio_computer_1779706526468.jpg
+ create mode 100644 wp-content/uploads/2026/05/canada_india_energy_1779706476138-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/canada_india_energy_1779706476138-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/canada_india_energy_1779706476138-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/canada_india_energy_1779706476138-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/canada_india_energy_1779706476138-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/canada_india_energy_1779706476138-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/canada_india_energy_1779706476138-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/canada_india_energy_1779706476138-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/canada_india_energy_1779706476138.jpg
+ create mode 100644 wp-content/uploads/2026/05/foreign_companies_india_1779706491914-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/foreign_companies_india_1779706491914-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/foreign_companies_india_1779706491914-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/foreign_companies_india_1779706491914-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/foreign_companies_india_1779706491914-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/foreign_companies_india_1779706491914-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/foreign_companies_india_1779706491914-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/foreign_companies_india_1779706491914-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/foreign_companies_india_1779706491914.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_law_gavel_1779706559144-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_law_gavel_1779706559144-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_law_gavel_1779706559144-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_law_gavel_1779706559144-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_law_gavel_1779706559144-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_law_gavel_1779706559144-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_law_gavel_1779706559144-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_law_gavel_1779706559144-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_law_gavel_1779706559144.jpg
+ create mode 100644 wp-content/uploads/2026/05/japan_quad_motegi_1779706590936-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/japan_quad_motegi_1779706590936-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/japan_quad_motegi_1779706590936-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/japan_quad_motegi_1779706590936-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/japan_quad_motegi_1779706590936-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/japan_quad_motegi_1779706590936-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/japan_quad_motegi_1779706590936-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/japan_quad_motegi_1779706590936-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/japan_quad_motegi_1779706590936.jpg
+ create mode 100644 wp-content/uploads/2026/05/smart_manufacturing_ai_1779706509210-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/smart_manufacturing_ai_1779706509210-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/smart_manufacturing_ai_1779706509210-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/smart_manufacturing_ai_1779706509210-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/smart_manufacturing_ai_1779706509210-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/smart_manufacturing_ai_1779706509210-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/smart_manufacturing_ai_1779706509210-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/smart_manufacturing_ai_1779706509210-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/smart_manufacturing_ai_1779706509210.jpg
+ create mode 100644 wp-content/uploads/2026/05/supreme_court_india_1779706541992-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/supreme_court_india_1779706541992-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/supreme_court_india_1779706541992-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/supreme_court_india_1779706541992-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/supreme_court_india_1779706541992-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/supreme_court_india_1779706541992-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/supreme_court_india_1779706541992-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/supreme_court_india_1779706541992-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/supreme_court_india_1779706541992.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_reassurance_1779706576067-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_reassurance_1779706576067-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_reassurance_1779706576067-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_reassurance_1779706576067-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_reassurance_1779706576067-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_reassurance_1779706576067-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_reassurance_1779706576067-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_reassurance_1779706576067-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_reassurance_1779706576067.jpg
+ create mode 100644 yuksek-mahkemeden-karar-nefret-soylemi-yasalarinda-degisiklige-ret/index.html
+To https://github.com/eleseles/hindistan.git
+   0964623..054eeb5  main -> main
+
+---
