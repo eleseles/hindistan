@@ -2016,3 +2016,63 @@ To https://github.com/eleseles/hindistan.git
    0964623..054eeb5  main -> main
 
 ---
+[2026-05-26 12:15:19]
+[main 58cc917] Auto-update site: 2026-05-26 12:13:55
+ 355 files changed, 23472 insertions(+), 14795 deletions(-)
+ create mode 100644 abd-ve-hindistandan-tarihi-imza-cinin-tekelini-kiracak-kritik-mineraller-anlasmasi/index.html
+ create mode 100644 archive/page/22/index.html
+ create mode 100644 author/admin/page/17/index.html
+ create mode 100644 hindistan-celik-sanayisinde-tarihi-sicrama-ihracatta-9luk-dev-artis/index.html
+ create mode 100644 hindistan-ve-kanada-arasinda-ticaret-koprusu-cepa-muzakereleri-hizlaniyor/index.html
+ create mode 100644 page/17/index.html
+ create mode 100644 polisten-filmleri-aratmayacak-operasyon-11-yillik-pharma-dolandiricisi-yakalandi/index.html
+ create mode 100644 tarihi-dortlu-quad-zirvesi-yeni-delhide-basladi-gozler-hint-pasifikte/index.html
+ create mode 100644 wp-content/uploads/2026/05/canada_india_trade_deal_1779797240500-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/canada_india_trade_deal_1779797240500-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/canada_india_trade_deal_1779797240500-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/canada_india_trade_deal_1779797240500-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/canada_india_trade_deal_1779797240500-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/canada_india_trade_deal_1779797240500-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/canada_india_trade_deal_1779797240500-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/canada_india_trade_deal_1779797240500-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/canada_india_trade_deal_1779797240500.jpg
+ create mode 100644 wp-content/uploads/2026/05/critical_minerals_india_us_1779797189622-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/critical_minerals_india_us_1779797189622-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/critical_minerals_india_us_1779797189622-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/critical_minerals_india_us_1779797189622-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/critical_minerals_india_us_1779797189622-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/critical_minerals_india_us_1779797189622-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/critical_minerals_india_us_1779797189622-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/critical_minerals_india_us_1779797189622-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/critical_minerals_india_us_1779797189622.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_steel_exports_1779797267762-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_steel_exports_1779797267762-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_steel_exports_1779797267762-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_steel_exports_1779797267762-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_steel_exports_1779797267762-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_steel_exports_1779797267762-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_steel_exports_1779797267762-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_steel_exports_1779797267762-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_steel_exports_1779797267762.jpg
+ create mode 100644 wp-content/uploads/2026/05/pharma_fraud_arrest_1779797281498-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/pharma_fraud_arrest_1779797281498-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/pharma_fraud_arrest_1779797281498-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/pharma_fraud_arrest_1779797281498-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/pharma_fraud_arrest_1779797281498-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/pharma_fraud_arrest_1779797281498-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/pharma_fraud_arrest_1779797281498-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/pharma_fraud_arrest_1779797281498-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/pharma_fraud_arrest_1779797281498.jpg
+ create mode 100644 wp-content/uploads/2026/05/quad_summit_new_delhi_1779797222450-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/quad_summit_new_delhi_1779797222450-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/quad_summit_new_delhi_1779797222450-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/quad_summit_new_delhi_1779797222450-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/quad_summit_new_delhi_1779797222450-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/quad_summit_new_delhi_1779797222450-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/quad_summit_new_delhi_1779797222450-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/quad_summit_new_delhi_1779797222450-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/quad_summit_new_delhi_1779797222450.jpg
+To https://github.com/eleseles/hindistan.git
+   054eeb5..58cc917  main -> main
+
+---
