@@ -2290,3 +2290,83 @@ To https://github.com/eleseles/hindistan.git
    74ab29e..08fcf57  main -> main
 
 ---
+[2026-05-30 10:52:49]
+[main 0e2f315] Auto-update site: 2026-05-30 10:52:32
+ 412 files changed, 27848 insertions(+), 17517 deletions(-)
+ create mode 100644 abd-savas-bakanindan-ovgu-dolu-sozler-hindistan-ordusu-cag-atliyor/index.html
+ create mode 100644 archive/page/25/index.html
+ create mode 100644 category/teknoloji/page/6/index.html
+ create mode 100644 ciplere-dev-butce-hindistan-yari-iletken-misyonu-2-0-ism-2-0-resmen-onaylandi/index.html
+ create mode 100644 egitimde-krize-yargi-nesteri-yuksek-mahkemeden-ogretmenlere-sinav-icin-ek-sure-karari/index.html
+ create mode 100644 hindistandan-kara-kitaya-yasam-koprusu-afrikaya-ebola-yardimi-basladi/index.html
+ create mode 100644 latest/page/20/index.html
+ create mode 100644 maliye-bakanligindan-kritik-rapor-hindistan-ekonomisinde-temkinli-direnc-donemi/index.html
+ create mode 100644 silikon-vadisinden-yeni-delhiye-hindistan-dunyanin-en-buyuk-5-dijital-ekonomisi-konumunda/index.html
+ create mode 100644 tarihi-imza-cok-yakin-abd-hindistan-ticaret-anlasmasi-yolda/index.html
+ create mode 100644 wp-content/uploads/2026/05/india_digital_economy_5th_1780138119315-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_digital_economy_5th_1780138119315-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_digital_economy_5th_1780138119315-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_digital_economy_5th_1780138119315-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_digital_economy_5th_1780138119315-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_digital_economy_5th_1780138119315-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_digital_economy_5th_1780138119315-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_digital_economy_5th_1780138119315-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_digital_economy_5th_1780138119315.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ebola_aid_africa_1780138088263-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ebola_aid_africa_1780138088263-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ebola_aid_africa_1780138088263-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ebola_aid_africa_1780138088263-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ebola_aid_africa_1780138088263-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ebola_aid_africa_1780138088263-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ebola_aid_africa_1780138088263-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ebola_aid_africa_1780138088263-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_ebola_aid_africa_1780138088263.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_economy_resilience_1780138103754-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_economy_resilience_1780138103754-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_economy_resilience_1780138103754-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_economy_resilience_1780138103754-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_economy_resilience_1780138103754-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_economy_resilience_1780138103754-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_economy_resilience_1780138103754-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_economy_resilience_1780138103754-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_economy_resilience_1780138103754.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_military_javelin_1780138074033-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_military_javelin_1780138074033-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_military_javelin_1780138074033-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_military_javelin_1780138074033-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_military_javelin_1780138074033-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_military_javelin_1780138074033-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_military_javelin_1780138074033-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_military_javelin_1780138074033-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_military_javelin_1780138074033.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_semiconductor_ism2_1780138133706-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_semiconductor_ism2_1780138133706-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_semiconductor_ism2_1780138133706-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_semiconductor_ism2_1780138133706-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_semiconductor_ism2_1780138133706-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_semiconductor_ism2_1780138133706-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_semiconductor_ism2_1780138133706-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_semiconductor_ism2_1780138133706-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/india_semiconductor_ism2_1780138133706.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_teachers_exam_1780138149352-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_teachers_exam_1780138149352-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_teachers_exam_1780138149352-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_teachers_exam_1780138149352-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_teachers_exam_1780138149352-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_teachers_exam_1780138149352-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_teachers_exam_1780138149352-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_teachers_exam_1780138149352-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/indian_teachers_exam_1780138149352.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_deal_1780138061036-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_deal_1780138061036-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_deal_1780138061036-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_deal_1780138061036-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_deal_1780138061036-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_deal_1780138061036-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_deal_1780138061036-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_deal_1780138061036-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/05/us_india_trade_deal_1780138061036.jpg
+To https://github.com/eleseles/hindistan.git
+   08fcf57..0e2f315  main -> main
+
+---
