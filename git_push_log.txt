@@ -2481,3 +2481,44 @@ To https://github.com/eleseles/hindistan.git
    0e2f315..a788507  main -> main
 
 ---
+[2026-06-01 14:22:02]
+[main 8a64978] Auto-update site: 2026-06-01 14:21:52
+ 397 files changed, 25246 insertions(+), 17712 deletions(-)
+ create mode 100644 author/admin/page/21/index.html
+ create mode 100644 category/ekonomi/page/5/index.html
+ create mode 100644 category/politika/page/6/index.html
+ create mode 100644 diplomaside-pragmatizm-faydacilik-on-planda-myanmar-cunta-lideri-min-aung-hlaing-yeni-delhide/index.html
+ create mode 100644 enerji-piyasalarina-nester-akaryakit-ihracat-vergilerinde-yeniden-indirim-karari/index.html
+ create mode 100644 milyonlarca-ogrencinin-bekledigi-karar-cikti-yuksek-mahkeme-neet-ug-iptal-talebini-reddetti/index.html
+ create mode 100644 page/21/index.html
+ create mode 100644 wp-content/uploads/2026/06/fuel_export_tax_june_1780323494620-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/fuel_export_tax_june_1780323494620-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/fuel_export_tax_june_1780323494620-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/fuel_export_tax_june_1780323494620-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/fuel_export_tax_june_1780323494620-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/fuel_export_tax_june_1780323494620-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/fuel_export_tax_june_1780323494620-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/fuel_export_tax_june_1780323494620-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/fuel_export_tax_june_1780323494620.jpg
+ create mode 100644 wp-content/uploads/2026/06/myanmar_junta_india_visit_1780323533401-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/myanmar_junta_india_visit_1780323533401-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/myanmar_junta_india_visit_1780323533401-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/myanmar_junta_india_visit_1780323533401-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/myanmar_junta_india_visit_1780323533401-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/myanmar_junta_india_visit_1780323533401-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/myanmar_junta_india_visit_1780323533401-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/myanmar_junta_india_visit_1780323533401-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/myanmar_junta_india_visit_1780323533401.jpg
+ create mode 100644 wp-content/uploads/2026/06/neet_ug_supreme_court_1780323515046-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/neet_ug_supreme_court_1780323515046-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/neet_ug_supreme_court_1780323515046-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/neet_ug_supreme_court_1780323515046-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/neet_ug_supreme_court_1780323515046-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/neet_ug_supreme_court_1780323515046-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/neet_ug_supreme_court_1780323515046-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/neet_ug_supreme_court_1780323515046-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/neet_ug_supreme_court_1780323515046.jpg
+To https://github.com/eleseles/hindistan.git
+   a788507..8a64978  main -> main
+
+---
