@@ -2985,3 +2985,94 @@ To https://github.com/eleseles/hindistan.git
    a1204f95..b5fa2f9c  main -> main
 
 ---
+[2026-06-05 09:58:58]
+[main 4ff30a25] Auto-update site: 2026-06-05 09:58:35
+ 518 files changed, 35259 insertions(+), 22400 deletions(-)
+ create mode 100644 altinci-the-hindu-huddle-zirvesi-bengaluruda-basladi-kuresel-diplomasi-masaya-yatirildi/index.html
+ create mode 100644 archive/page/33/index.html
+ create mode 100644 author/admin/page/26/index.html
+ create mode 100644 basbakan-modiden-5-haziran-cevre-gunu-mesaji-ek-ped-maa-ke-naam-kampanyasi-basladi/index.html
+ create mode 100644 gujaratta-mega-altyapi-hamlesi-surat-ve-daman-bolgesinde-yeni-otoyollar-hizmete-acildi/index.html
+ create mode 100644 hava-kirliligiyle-mucadelede-dev-butce-delhi-ncr-bolgesine-9-585-crore-rupi-destek/index.html
+ create mode 100644 hindistan-merkez-bankasi-rbi-politika-faizini-yuzde-5-25-seviyesinde-sabit-birakti/index.html
+ create mode 100644 hindistan-ve-ingiltere-kritik-mineraller-kuresel-tedarik-zinciri-gozlemevini-kurdu/index.html
+ create mode 100644 latest/page/26/index.html
+ create mode 100644 nepal-disisleri-bakani-shisir-khanal-stratejik-gorusmeler-icin-yeni-delhiye-geldi/index.html
+ create mode 100644 page/26/index.html
+ create mode 100644 wp-content/uploads/2026/06/delhi_clean_mobility_budget_1780653213840-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/delhi_clean_mobility_budget_1780653213840-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/delhi_clean_mobility_budget_1780653213840-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/delhi_clean_mobility_budget_1780653213840-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/delhi_clean_mobility_budget_1780653213840-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/delhi_clean_mobility_budget_1780653213840-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/delhi_clean_mobility_budget_1780653213840-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/delhi_clean_mobility_budget_1780653213840-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/delhi_clean_mobility_budget_1780653213840.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_uk_critical_minerals_1780653124487-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_uk_critical_minerals_1780653124487-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_uk_critical_minerals_1780653124487-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_uk_critical_minerals_1780653124487-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_uk_critical_minerals_1780653124487-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_uk_critical_minerals_1780653124487-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_uk_critical_minerals_1780653124487-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_uk_critical_minerals_1780653124487-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_uk_critical_minerals_1780653124487.jpg
+ create mode 100644 wp-content/uploads/2026/06/indian_rupee_appreciation_june_1780653090291-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/indian_rupee_appreciation_june_1780653090291-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/indian_rupee_appreciation_june_1780653090291-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/indian_rupee_appreciation_june_1780653090291-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/indian_rupee_appreciation_june_1780653090291-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/indian_rupee_appreciation_june_1780653090291-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/indian_rupee_appreciation_june_1780653090291-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/indian_rupee_appreciation_june_1780653090291-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/indian_rupee_appreciation_june_1780653090291.jpg
+ create mode 100644 wp-content/uploads/2026/06/nepal_india_meeting_june_1780653106572-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/nepal_india_meeting_june_1780653106572-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/nepal_india_meeting_june_1780653106572-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/nepal_india_meeting_june_1780653106572-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/nepal_india_meeting_june_1780653106572-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/nepal_india_meeting_june_1780653106572-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/nepal_india_meeting_june_1780653106572-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/nepal_india_meeting_june_1780653106572-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/nepal_india_meeting_june_1780653106572.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_interest_rate_june_2026_1780653074237-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_interest_rate_june_2026_1780653074237-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_interest_rate_june_2026_1780653074237-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_interest_rate_june_2026_1780653074237-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_interest_rate_june_2026_1780653074237-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_interest_rate_june_2026_1780653074237-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_interest_rate_june_2026_1780653074237-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_interest_rate_june_2026_1780653074237-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_interest_rate_june_2026_1780653074237.jpg
+ create mode 100644 wp-content/uploads/2026/06/surat_daman_infrastructure_opening_1780653190537-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/surat_daman_infrastructure_opening_1780653190537-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/surat_daman_infrastructure_opening_1780653190537-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/surat_daman_infrastructure_opening_1780653190537-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/surat_daman_infrastructure_opening_1780653190537-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/surat_daman_infrastructure_opening_1780653190537-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/surat_daman_infrastructure_opening_1780653190537-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/surat_daman_infrastructure_opening_1780653190537-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/surat_daman_infrastructure_opening_1780653190537.jpg
+ create mode 100644 wp-content/uploads/2026/06/the_hindu_huddle_2026_1780653146142-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/the_hindu_huddle_2026_1780653146142-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/the_hindu_huddle_2026_1780653146142-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/the_hindu_huddle_2026_1780653146142-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/the_hindu_huddle_2026_1780653146142-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/the_hindu_huddle_2026_1780653146142-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/the_hindu_huddle_2026_1780653146142-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/the_hindu_huddle_2026_1780653146142-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/the_hindu_huddle_2026_1780653146142.jpg
+ create mode 100644 wp-content/uploads/2026/06/world_environment_day_india_2026_1780653167489-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/world_environment_day_india_2026_1780653167489-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/world_environment_day_india_2026_1780653167489-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/world_environment_day_india_2026_1780653167489-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/world_environment_day_india_2026_1780653167489-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/world_environment_day_india_2026_1780653167489-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/world_environment_day_india_2026_1780653167489-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/world_environment_day_india_2026_1780653167489-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/world_environment_day_india_2026_1780653167489.jpg
+ create mode 100644 yabanci-portfoy-yatirimlarinda-kisitlamalar-gevsetildi-hindistan-rupisi-deger-kazandi/index.html
+To https://github.com/eleseles/hindistan.git
+   b5fa2f9c..4ff30a25  main -> main
+
+---
