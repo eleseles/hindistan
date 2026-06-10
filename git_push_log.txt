@@ -3076,3 +3076,61 @@ To https://github.com/eleseles/hindistan.git
    b5fa2f9c..4ff30a25  main -> main
 
 ---
+[2026-06-06 11:08:06]
+[main e64ada0f] Auto-update site: 2026-06-06 11:07:51
+ 497 files changed, 18560 insertions(+), 12148 deletions(-)
+ create mode 100644 avustralya-merkezli-airtrunktan-hindistana-30-milyar-dolarlik-veri-merkezi-yatirimi/index.html
+ create mode 100644 cceadan-4-eyaleti-kapsayan-24-249-crore-rupilik-dev-otoyol-projelerine-onay/index.html
+ create mode 100644 devlet-tahvillerine-yabanci-yatirimi-artiracak-dev-vergi-reformu-aciklandi/index.html
+ create mode 100644 hindistan-ekonomisi-beklentileri-asarak-yuzde-7-7-oraninda-buyudu/index.html
+ create mode 100644 hindistan-siber-guvenlik-altyapisini-korumak-icin-anthropic-ile-is-birligi-yapti/index.html
+ create mode 100644 latest/page/27/index.html
+ create mode 100644 wp-content/uploads/2026/06/airtrunk_data_center_india_1780743623457-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/airtrunk_data_center_india_1780743623457-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/airtrunk_data_center_india_1780743623457-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/airtrunk_data_center_india_1780743623457-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/airtrunk_data_center_india_1780743623457-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/airtrunk_data_center_india_1780743623457-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/airtrunk_data_center_india_1780743623457-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/airtrunk_data_center_india_1780743623457-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/airtrunk_data_center_india_1780743623457.jpg
+ create mode 100644 wp-content/uploads/2026/06/cybersecurity_project_glasswing_1780743657572-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/cybersecurity_project_glasswing_1780743657572-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/cybersecurity_project_glasswing_1780743657572-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/cybersecurity_project_glasswing_1780743657572-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/cybersecurity_project_glasswing_1780743657572-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/cybersecurity_project_glasswing_1780743657572-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/cybersecurity_project_glasswing_1780743657572-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/cybersecurity_project_glasswing_1780743657572-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/cybersecurity_project_glasswing_1780743657572.jpg
+ create mode 100644 wp-content/uploads/2026/06/fpi_gsec_tax_reform_1780743543050-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/fpi_gsec_tax_reform_1780743543050-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/fpi_gsec_tax_reform_1780743543050-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/fpi_gsec_tax_reform_1780743543050-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/fpi_gsec_tax_reform_1780743543050-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/fpi_gsec_tax_reform_1780743543050-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/fpi_gsec_tax_reform_1780743543050-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/fpi_gsec_tax_reform_1780743543050-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/fpi_gsec_tax_reform_1780743543050.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_gdp_growth_june_2026_1780743512337-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_gdp_growth_june_2026_1780743512337-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_gdp_growth_june_2026_1780743512337-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_gdp_growth_june_2026_1780743512337-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_gdp_growth_june_2026_1780743512337-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_gdp_growth_june_2026_1780743512337-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_gdp_growth_june_2026_1780743512337-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_gdp_growth_june_2026_1780743512337-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_gdp_growth_june_2026_1780743512337.jpg
+ create mode 100644 wp-content/uploads/2026/06/national_highway_investment_india_1780743582936-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/national_highway_investment_india_1780743582936-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/national_highway_investment_india_1780743582936-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/national_highway_investment_india_1780743582936-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/national_highway_investment_india_1780743582936-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/national_highway_investment_india_1780743582936-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/national_highway_investment_india_1780743582936-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/national_highway_investment_india_1780743582936-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/national_highway_investment_india_1780743582936.jpg
+To https://github.com/eleseles/hindistan.git
+   4ff30a25..e64ada0f  main -> main
+
+---
