@@ -3134,3 +3134,74 @@ To https://github.com/eleseles/hindistan.git
    4ff30a25..e64ada0f  main -> main
 
 ---
+[2026-06-10 10:22:27]
+[main 6f20050d] Auto-update site: 2026-06-10 10:22:11
+ 515 files changed, 33842 insertions(+), 23238 deletions(-)
+ create mode 100644 air-india-ve-suudi-arabistanin-riyadh-air-havayolu-dev-ortakliga-imza-atti/index.html
+ create mode 100644 archive/page/34/index.html
+ create mode 100644 author/admin/page/27/index.html
+ create mode 100644 category/ekonomi/page/7/index.html
+ create mode 100644 disisleri-bakani-jaishankar-cakartada-hint-pasifik-guvenligini-gorustu/index.html
+ create mode 100644 dunya-bankasi-hindistan-ekonomisi-petrol-soklarina-ragmen-yuzde-8in-uzerinde-buyuyor/index.html
+ create mode 100644 gunes-patlamasi-sonrasi-ladakh-semalarinda-nadir-kutup-isiklari-gorsel-soleni/index.html
+ create mode 100644 indiaai-misyonunun-basina-uidai-ceosu-saurabh-vijay-atandi/index.html
+ create mode 100644 page/27/index.html
+ create mode 100644 uttar-pradesteki-surha-taal-sulak-alani-hindistanin-100-ramsar-alani-ilan-edildi/index.html
+ create mode 100644 wp-content/uploads/2026/06/air_india_riyadh_air_partnership_1780912416919-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/air_india_riyadh_air_partnership_1780912416919-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/air_india_riyadh_air_partnership_1780912416919-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/air_india_riyadh_air_partnership_1780912416919-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/air_india_riyadh_air_partnership_1780912416919-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/air_india_riyadh_air_partnership_1780912416919-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/air_india_riyadh_air_partnership_1780912416919-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/air_india_riyadh_air_partnership_1780912416919-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/air_india_riyadh_air_partnership_1780912416919.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_100th_ramsar_surha_taal_1780912461924-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_100th_ramsar_surha_taal_1780912461924-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_100th_ramsar_surha_taal_1780912461924-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_100th_ramsar_surha_taal_1780912461924-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_100th_ramsar_surha_taal_1780912461924-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_100th_ramsar_surha_taal_1780912461924-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_100th_ramsar_surha_taal_1780912461924-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_100th_ramsar_surha_taal_1780912461924-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_100th_ramsar_surha_taal_1780912461924.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_ai_mission_ceo_2026_1780912310803-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_ai_mission_ceo_2026_1780912310803-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_ai_mission_ceo_2026_1780912310803-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_ai_mission_ceo_2026_1780912310803-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_ai_mission_ceo_2026_1780912310803-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_ai_mission_ceo_2026_1780912310803-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_ai_mission_ceo_2026_1780912310803-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_ai_mission_ceo_2026_1780912310803-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_ai_mission_ceo_2026_1780912310803.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_growth_world_bank_2026_1780912278526-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_growth_world_bank_2026_1780912278526-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_growth_world_bank_2026_1780912278526-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_growth_world_bank_2026_1780912278526-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_growth_world_bank_2026_1780912278526-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_growth_world_bank_2026_1780912278526-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_growth_world_bank_2026_1780912278526-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_growth_world_bank_2026_1780912278526-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_growth_world_bank_2026_1780912278526.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_indonesia_diplomatic_june_1780912380698-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_indonesia_diplomatic_june_1780912380698-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_indonesia_diplomatic_june_1780912380698-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_indonesia_diplomatic_june_1780912380698-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_indonesia_diplomatic_june_1780912380698-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_indonesia_diplomatic_june_1780912380698-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_indonesia_diplomatic_june_1780912380698-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_indonesia_diplomatic_june_1780912380698-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_indonesia_diplomatic_june_1780912380698.jpg
+ create mode 100644 wp-content/uploads/2026/06/ladakh_aurora_hanle_june_2026_1780912343430-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/ladakh_aurora_hanle_june_2026_1780912343430-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/ladakh_aurora_hanle_june_2026_1780912343430-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/ladakh_aurora_hanle_june_2026_1780912343430-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/ladakh_aurora_hanle_june_2026_1780912343430-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/ladakh_aurora_hanle_june_2026_1780912343430-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/ladakh_aurora_hanle_june_2026_1780912343430-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/ladakh_aurora_hanle_june_2026_1780912343430-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/ladakh_aurora_hanle_june_2026_1780912343430.jpg
+To https://github.com/eleseles/hindistan.git
+   e64ada0f..6f20050d  main -> main
+
+---
