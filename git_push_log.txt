@@ -3213,3 +3213,160 @@ Your branch is ahead of 'origin/main' by 1 commit.
 nothing to commit, working tree clean
 
 ---
+[2026-06-11 11:33:43]
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+---
+[2026-06-11 11:33:57]
+[main 4d2e5149] Auto-update site: 2026-06-11 11:32:22
+ 608 files changed, 41943 insertions(+), 24712 deletions(-)
+ create mode 100644 archive/page/35/index.html
+ create mode 100644 archive/page/36/index.html
+ create mode 100644 author/admin/page/28/index.html
+ create mode 100644 dijital-finans-devrimi-rbiden-hesap-toplayici-account-aggregator-ekosistemi-icin-yeni-kurallar/index.html
+ create mode 100644 enerji-tedarikinde-rota-degisimi-venezuela-hindistanin-en-buyuk-ucuncu-ham-petrol-tedarikcisi-oldu/index.html
+ create mode 100644 hindistan-merkez-bankasindan-doviz-girisini-hizlandirmak-icin-stratejik-hamle-cifte-takas-forex-swap-programi/index.html
+ create mode 100644 hindistan-sinirlarinda-devrim-yapay-zeka-destekli-vinimay-dijital-sinir-kapisi-sistemi-devrede/index.html
+ create mode 100644 hindistan-ve-nepal-arasinda-neighbourhood-first-once-komsu-kapsaminda-yeni-ikili-anlasmalar/index.html
+ create mode 100644 iklim-degisikligiyle-mucadelede-dev-adim-lucknowa-yeni-nesil-meteoroloji-merkezi-kuruluyor/index.html
+ create mode 100644 kriz-derinlesiyor-umman-korfezinde-hindistanli-denizcilerin-olumunun-ardindan-diplomatik-gerilim/index.html
+ create mode 100644 latest/page/29/index.html
+ create mode 100644 page/28/index.html
+ create mode 100644 savunmada-dev-teklif-rusyadan-hindistana-su-57-stealth-savas-ucagi-ortak-uretim-onerisi/index.html
+ create mode 100644 savunmada-yesil-donusum-askeri-araziye-250-mw-kapasiteli-dev-gunes-enerjisi-projesi/index.html
+ create mode 100644 sipri-raporu-aciklandi-hindistan-dunyanin-en-fazla-askeri-harcama-yapan-5-ulkesi-konumunu-saglamlastirdi/index.html
+ create mode 100644 teknoloji-devinden-stratejik-ortaklik-dixon-technologies-ve-gemtekten-optik-ag-ekipmanlari-uretim-hamlesi/index.html
+ create mode 100644 wp-content/uploads/2026/06/ayushman_bharat_west_bengal_1781176315859-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/ayushman_bharat_west_bengal_1781176315859-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/ayushman_bharat_west_bengal_1781176315859-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/ayushman_bharat_west_bengal_1781176315859-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/ayushman_bharat_west_bengal_1781176315859-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/ayushman_bharat_west_bengal_1781176315859-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/ayushman_bharat_west_bengal_1781176315859-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/ayushman_bharat_west_bengal_1781176315859-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/ayushman_bharat_west_bengal_1781176315859.jpg
+ create mode 100644 wp-content/uploads/2026/06/defence_solar_project_sitapur_1781176172728-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/defence_solar_project_sitapur_1781176172728-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/defence_solar_project_sitapur_1781176172728-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/defence_solar_project_sitapur_1781176172728-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/defence_solar_project_sitapur_1781176172728-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/defence_solar_project_sitapur_1781176172728-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/defence_solar_project_sitapur_1781176172728-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/defence_solar_project_sitapur_1781176172728-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/defence_solar_project_sitapur_1781176172728.jpg
+ create mode 100644 wp-content/uploads/2026/06/digital_bill_payment_bbps_1781176261728-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/digital_bill_payment_bbps_1781176261728-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/digital_bill_payment_bbps_1781176261728-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/digital_bill_payment_bbps_1781176261728-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/digital_bill_payment_bbps_1781176261728-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/digital_bill_payment_bbps_1781176261728-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/digital_bill_payment_bbps_1781176261728-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/digital_bill_payment_bbps_1781176261728-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/digital_bill_payment_bbps_1781176261728.jpg
+ create mode 100644 wp-content/uploads/2026/06/fifa_world_cup_2026_india_1781176730691-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/fifa_world_cup_2026_india_1781176730691-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/fifa_world_cup_2026_india_1781176730691-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/fifa_world_cup_2026_india_1781176730691-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/fifa_world_cup_2026_india_1781176730691-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/fifa_world_cup_2026_india_1781176730691-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/fifa_world_cup_2026_india_1781176730691-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/fifa_world_cup_2026_india_1781176730691-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/fifa_world_cup_2026_india_1781176730691.jpg
+ create mode 100644 wp-content/uploads/2026/06/foreign_universities_india_campus_1781176655496-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/foreign_universities_india_campus_1781176655496-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/foreign_universities_india_campus_1781176655496-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/foreign_universities_india_campus_1781176655496-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/foreign_universities_india_campus_1781176655496-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/foreign_universities_india_campus_1781176655496-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/foreign_universities_india_campus_1781176655496-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/foreign_universities_india_campus_1781176655496-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/foreign_universities_india_campus_1781176655496.jpg
+ create mode 100644 wp-content/uploads/2026/06/gulf_of_oman_tanker_attack_1781176147802-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/gulf_of_oman_tanker_attack_1781176147802-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/gulf_of_oman_tanker_attack_1781176147802-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/gulf_of_oman_tanker_attack_1781176147802-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/gulf_of_oman_tanker_attack_1781176147802-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/gulf_of_oman_tanker_attack_1781176147802-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/gulf_of_oman_tanker_attack_1781176147802-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/gulf_of_oman_tanker_attack_1781176147802-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/gulf_of_oman_tanker_attack_1781176147802.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_family_health_survey_nfhs_1781176690878-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_family_health_survey_nfhs_1781176690878-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_family_health_survey_nfhs_1781176690878-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_family_health_survey_nfhs_1781176690878-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_family_health_survey_nfhs_1781176690878-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_family_health_survey_nfhs_1781176690878-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_family_health_survey_nfhs_1781176690878-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_family_health_survey_nfhs_1781176690878-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_family_health_survey_nfhs_1781176690878.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_forex_reserves_growth_1781176236477-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_forex_reserves_growth_1781176236477-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_forex_reserves_growth_1781176236477-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_forex_reserves_growth_1781176236477-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_forex_reserves_growth_1781176236477-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_forex_reserves_growth_1781176236477-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_forex_reserves_growth_1781176236477-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_forex_reserves_growth_1781176236477-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_forex_reserves_growth_1781176236477.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_venezuela_oil_import_1781176184960-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_venezuela_oil_import_1781176184960-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_venezuela_oil_import_1781176184960-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_venezuela_oil_import_1781176184960-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_venezuela_oil_import_1781176184960-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_venezuela_oil_import_1781176184960-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_venezuela_oil_import_1781176184960-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_venezuela_oil_import_1781176184960-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_venezuela_oil_import_1781176184960.jpg
+ create mode 100644 wp-content/uploads/2026/06/meta_reliance_ai_data_center_1781176277561-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/meta_reliance_ai_data_center_1781176277561-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/meta_reliance_ai_data_center_1781176277561-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/meta_reliance_ai_data_center_1781176277561-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/meta_reliance_ai_data_center_1781176277561-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/meta_reliance_ai_data_center_1781176277561-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/meta_reliance_ai_data_center_1781176277561-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/meta_reliance_ai_data_center_1781176277561-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/meta_reliance_ai_data_center_1781176277561.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_gsec_bonds_trading_1781176249646-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_gsec_bonds_trading_1781176249646-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_gsec_bonds_trading_1781176249646-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_gsec_bonds_trading_1781176249646-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_gsec_bonds_trading_1781176249646-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_gsec_bonds_trading_1781176249646-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_gsec_bonds_trading_1781176249646-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_gsec_bonds_trading_1781176249646-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_gsec_bonds_trading_1781176249646.jpg
+ create mode 100644 wp-content/uploads/2026/06/rural_development_village_india_1781176197757-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/rural_development_village_india_1781176197757-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/rural_development_village_india_1781176197757-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/rural_development_village_india_1781176197757-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/rural_development_village_india_1781176197757-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/rural_development_village_india_1781176197757-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/rural_development_village_india_1781176197757-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/rural_development_village_india_1781176197757-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/rural_development_village_india_1781176197757.jpg
+ create mode 100644 wp-content/uploads/2026/06/varanasi_airport_easy_connect_1781176632286-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/varanasi_airport_easy_connect_1781176632286-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/varanasi_airport_easy_connect_1781176632286-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/varanasi_airport_easy_connect_1781176632286-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/varanasi_airport_easy_connect_1781176632286-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/varanasi_airport_easy_connect_1781176632286-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/varanasi_airport_easy_connect_1781176632286-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/varanasi_airport_easy_connect_1781176632286-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/varanasi_airport_easy_connect_1781176632286.jpg
+ create mode 100644 wp-content/uploads/2026/06/vinimay_digital_border_security_1781176159616-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/vinimay_digital_border_security_1781176159616-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/vinimay_digital_border_security_1781176159616-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/vinimay_digital_border_security_1781176159616-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/vinimay_digital_border_security_1781176159616-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/vinimay_digital_border_security_1781176159616-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/vinimay_digital_border_security_1781176159616-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/vinimay_digital_border_security_1781176159616-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/vinimay_digital_border_security_1781176159616.jpg
+To https://github.com/eleseles/hindistan.git
+   7393628b..4d2e5149  main -> main
+
+---
