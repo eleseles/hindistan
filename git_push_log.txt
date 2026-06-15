@@ -3392,3 +3392,107 @@ To https://github.com/eleseles/hindistan.git
    4d2e5149..a706f304  main -> main
 
 ---
+[2026-06-12 11:53:37]
+[main a944a99a] Auto-update site: 2026-06-12 11:52:33
+ 594 files changed, 32797 insertions(+), 25222 deletions(-)
+ create mode 100644 author/admin/page/30/index.html
+ create mode 100644 category/teknoloji/page/8/index.html
+ create mode 100644 enerji-finansmaninda-tarihi-birlesme-rec-ve-pfc-cumhurbaskani-onayiyla-tek-cati-altinda/index.html
+ create mode 100644 hindistandan-filistinli-multecilere-dev-destek-unrwaya-2-5-milyon-dolar-katki/index.html
+ create mode 100644 page/30/index.html
+ create mode 100644 slovakyaya-tarihi-ziyaret-basbakan-narendra-modi-bratislava-yolcusu/index.html
+ create mode 100644 tekstil-sektorunde-yatirim-patlamasi-hukumetten-pli-kapsaminda-22-yeni-basvuruya-onay/index.html
+ create mode 100644 wp-content/uploads/2026/06/ahmedabad_metro_airport_1781264872907-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/ahmedabad_metro_airport_1781264872907-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/ahmedabad_metro_airport_1781264872907-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/ahmedabad_metro_airport_1781264872907-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/ahmedabad_metro_airport_1781264872907-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/ahmedabad_metro_airport_1781264872907-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/ahmedabad_metro_airport_1781264872907-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/ahmedabad_metro_airport_1781264872907-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/ahmedabad_metro_airport_1781264872907.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_unrwa_donation_1781264718065-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_unrwa_donation_1781264718065-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_unrwa_donation_1781264718065-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_unrwa_donation_1781264718065-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_unrwa_donation_1781264718065-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_unrwa_donation_1781264718065-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_unrwa_donation_1781264718065-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_unrwa_donation_1781264718065-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_unrwa_donation_1781264718065.jpg
+ create mode 100644 wp-content/uploads/2026/06/kisaan_mitra_ai_1781264848233-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/kisaan_mitra_ai_1781264848233-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/kisaan_mitra_ai_1781264848233-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/kisaan_mitra_ai_1781264848233-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/kisaan_mitra_ai_1781264848233-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/kisaan_mitra_ai_1781264848233-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/kisaan_mitra_ai_1781264848233-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/kisaan_mitra_ai_1781264848233-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/kisaan_mitra_ai_1781264848233.jpg
+ create mode 100644 wp-content/uploads/2026/06/microfinance_guarantee_extension_1781264804447-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/microfinance_guarantee_extension_1781264804447-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/microfinance_guarantee_extension_1781264804447-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/microfinance_guarantee_extension_1781264804447-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/microfinance_guarantee_extension_1781264804447-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/microfinance_guarantee_extension_1781264804447-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/microfinance_guarantee_extension_1781264804447-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/microfinance_guarantee_extension_1781264804447-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/microfinance_guarantee_extension_1781264804447.jpg
+ create mode 100644 wp-content/uploads/2026/06/modi_slovakia_visit_1781264699925-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/modi_slovakia_visit_1781264699925-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/modi_slovakia_visit_1781264699925-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/modi_slovakia_visit_1781264699925-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/modi_slovakia_visit_1781264699925-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/modi_slovakia_visit_1781264699925-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/modi_slovakia_visit_1781264699925-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/modi_slovakia_visit_1781264699925-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/modi_slovakia_visit_1781264699925.jpg
+ create mode 100644 wp-content/uploads/2026/06/navy_jammer_system_1781264827309-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/navy_jammer_system_1781264827309-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/navy_jammer_system_1781264827309-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/navy_jammer_system_1781264827309-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/navy_jammer_system_1781264827309-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/navy_jammer_system_1781264827309-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/navy_jammer_system_1781264827309-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/navy_jammer_system_1781264827309-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/navy_jammer_system_1781264827309.jpg
+ create mode 100644 wp-content/uploads/2026/06/pmsma_anniversary_coin_1781264901842-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/pmsma_anniversary_coin_1781264901842-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/pmsma_anniversary_coin_1781264901842-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/pmsma_anniversary_coin_1781264901842-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/pmsma_anniversary_coin_1781264901842-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/pmsma_anniversary_coin_1781264901842-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/pmsma_anniversary_coin_1781264901842-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/pmsma_anniversary_coin_1781264901842-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/pmsma_anniversary_coin_1781264901842.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_reit_guidelines_1781264782486-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_reit_guidelines_1781264782486-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_reit_guidelines_1781264782486-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_reit_guidelines_1781264782486-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_reit_guidelines_1781264782486-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_reit_guidelines_1781264782486-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_reit_guidelines_1781264782486-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_reit_guidelines_1781264782486-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/rbi_reit_guidelines_1781264782486.jpg
+ create mode 100644 wp-content/uploads/2026/06/rec_pfc_merger_1781264743479-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/rec_pfc_merger_1781264743479-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/rec_pfc_merger_1781264743479-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/rec_pfc_merger_1781264743479-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/rec_pfc_merger_1781264743479-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/rec_pfc_merger_1781264743479-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/rec_pfc_merger_1781264743479-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/rec_pfc_merger_1781264743479-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/rec_pfc_merger_1781264743479.jpg
+ create mode 100644 wp-content/uploads/2026/06/textile_pli_scheme_1781264761283-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/textile_pli_scheme_1781264761283-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/textile_pli_scheme_1781264761283-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/textile_pli_scheme_1781264761283-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/textile_pli_scheme_1781264761283-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/textile_pli_scheme_1781264761283-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/textile_pli_scheme_1781264761283-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/textile_pli_scheme_1781264761283-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/textile_pli_scheme_1781264761283.jpg
+To https://github.com/eleseles/hindistan.git
+   a706f304..a944a99a  main -> main
+
+---
