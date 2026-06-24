@@ -3714,3 +3714,13 @@ To https://github.com/eleseles/hindistan.git
    9d8fcb51..7b68d62f  main -> main
 
 ---
+[2026-06-24 10:14:32]
+[main c6912e90] Auto-update site: 2026-06-24 10:14:01
+ 539 files changed, 30145 insertions(+), 26721 deletions(-)
+ create mode 100644 borsada-yukselis-trendi-ve-halka-arz-ipo-pazarinda-yeni-hareketlilik/index.html
+ create mode 100644 kuzeydogu-hindistanda-yeni-donem-act-east-politikasindan-act-fast-yaklasimina-gecis/index.html
+ create mode 100644 rakhigarhi-kazilarinda-buyuk-kesif-5-000-yillik-harappan-mezarligindan-yeni-bulgular/index.html
+To https://github.com/eleseles/hindistan.git
+   7b68d62f..c6912e90  main -> main
+
+---
