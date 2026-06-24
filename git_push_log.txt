@@ -3636,3 +3636,81 @@ To https://github.com/eleseles/hindistan.git
    9eabda30..9d8fcb51  main -> main
 
 ---
+[2026-06-23 11:11:39]
+[main 7b68d62f] Auto-update site: 2026-06-23 11:10:52
+ 599 files changed, 35054 insertions(+), 26691 deletions(-)
+ create mode 100644 archive/page/40/index.html
+ create mode 100644 author/admin/page/32/index.html
+ create mode 100644 category/savunma/index.html
+ create mode 100644 hindistan-brics-donem-baskani-olarak-nsa-toplantisina-ev-sahipligi-yapti/index.html
+ create mode 100644 hindistanin-uzay-vizyonu-insanli-uzay-ucusu-gaganyaan-2027de-gerceklesecek/index.html
+ create mode 100644 kalamkariden-kesmir-halisina-basbakan-modiden-fransa-ve-slovakyaya-kulturel-diplomasi-hediyeleri/index.html
+ create mode 100644 page/32/index.html
+ create mode 100644 tek-gunde-uc-savas-gemisi-hindistan-deniz-tarihinde-bir-ilk/index.html
+ create mode 100644 wp-content/uploads/2026/06/brics_nsa_meeting_1782212125821-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/brics_nsa_meeting_1782212125821-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/brics_nsa_meeting_1782212125821-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/brics_nsa_meeting_1782212125821-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/brics_nsa_meeting_1782212125821-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/brics_nsa_meeting_1782212125821-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/brics_nsa_meeting_1782212125821-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/brics_nsa_meeting_1782212125821-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/brics_nsa_meeting_1782212125821.jpg
+ create mode 100644 wp-content/uploads/2026/06/cultural_diplomacy_gifts_1782212253412-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/cultural_diplomacy_gifts_1782212253412-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/cultural_diplomacy_gifts_1782212253412-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/cultural_diplomacy_gifts_1782212253412-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/cultural_diplomacy_gifts_1782212253412-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/cultural_diplomacy_gifts_1782212253412-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/cultural_diplomacy_gifts_1782212253412-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/cultural_diplomacy_gifts_1782212253412-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/cultural_diplomacy_gifts_1782212253412.jpg
+ create mode 100644 wp-content/uploads/2026/06/gaganyaan_space_flight_1782212002976-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/gaganyaan_space_flight_1782212002976-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/gaganyaan_space_flight_1782212002976-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/gaganyaan_space_flight_1782212002976-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/gaganyaan_space_flight_1782212002976-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/gaganyaan_space_flight_1782212002976-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/gaganyaan_space_flight_1782212002976-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/gaganyaan_space_flight_1782212002976-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/gaganyaan_space_flight_1782212002976.jpg
+ create mode 100644 wp-content/uploads/2026/06/northeast_india_development_1782212455104-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/northeast_india_development_1782212455104-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/northeast_india_development_1782212455104-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/northeast_india_development_1782212455104-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/northeast_india_development_1782212455104-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/northeast_india_development_1782212455104-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/northeast_india_development_1782212455104-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/northeast_india_development_1782212455104-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/northeast_india_development_1782212455104.jpg
+ create mode 100644 wp-content/uploads/2026/06/rakhigarhi_harappan_archaeology_1782212348597-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/rakhigarhi_harappan_archaeology_1782212348597-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/rakhigarhi_harappan_archaeology_1782212348597-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/rakhigarhi_harappan_archaeology_1782212348597-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/rakhigarhi_harappan_archaeology_1782212348597-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/rakhigarhi_harappan_archaeology_1782212348597-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/rakhigarhi_harappan_archaeology_1782212348597-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/rakhigarhi_harappan_archaeology_1782212348597-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/rakhigarhi_harappan_archaeology_1782212348597.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_ipo_market_1782212637192-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_ipo_market_1782212637192-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_ipo_market_1782212637192-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_ipo_market_1782212637192-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_ipo_market_1782212637192-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_ipo_market_1782212637192-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_ipo_market_1782212637192-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_ipo_market_1782212637192-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_ipo_market_1782212637192.jpg
+ create mode 100644 wp-content/uploads/2026/06/three_naval_ships_1782211899263-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/three_naval_ships_1782211899263-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/three_naval_ships_1782211899263-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/three_naval_ships_1782211899263-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/three_naval_ships_1782211899263-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/three_naval_ships_1782211899263-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/three_naval_ships_1782211899263-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/three_naval_ships_1782211899263-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/three_naval_ships_1782211899263.jpg
+To https://github.com/eleseles/hindistan.git
+   9d8fcb51..7b68d62f  main -> main
+
+---
