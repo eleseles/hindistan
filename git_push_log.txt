@@ -3911,3 +3911,97 @@ To https://github.com/eleseles/hindistan.git
    d24c3dff..7c86cfb4  main -> main
 
 ---
+[2026-06-26 12:49:34]
+[main 899442b0] Auto-update site: 2026-06-26 12:49:20
+ 650 files changed, 21948 insertions(+), 15491 deletions(-)
+ create mode 100644 abdden-hindistanin-apache-ve-m777-filolarina-482-milyon-dolarlik-destek/index.html
+ create mode 100644 amazondan-tarihi-yatirim-hamlesi-hindistana-48-milyar-dolar-yatirim/index.html
+ create mode 100644 archive/page/43/index.html
+ create mode 100644 niti-aayog-raporu-hindistan-ilac-hammaddesinde-cine-bagimli/index.html
+ create mode 100644 sp-hindistanin-fy27-buyume-tahminini-yuzde-66ya-dusurdu/index.html
+ create mode 100644 wp-content/uploads/2026/06/amazon_india_investment_1782477330459-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/amazon_india_investment_1782477330459-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/amazon_india_investment_1782477330459-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/amazon_india_investment_1782477330459-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/amazon_india_investment_1782477330459-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/amazon_india_investment_1782477330459-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/amazon_india_investment_1782477330459-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/amazon_india_investment_1782477330459-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/amazon_india_investment_1782477330459.jpg
+ create mode 100644 wp-content/uploads/2026/06/apache_m777_deal_1782477560543-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/apache_m777_deal_1782477560543-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/apache_m777_deal_1782477560543-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/apache_m777_deal_1782477560543-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/apache_m777_deal_1782477560543-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/apache_m777_deal_1782477560543-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/apache_m777_deal_1782477560543-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/apache_m777_deal_1782477560543-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/apache_m777_deal_1782477560543.jpg
+ create mode 100644 wp-content/uploads/2026/06/hub_and_spoke_varanasi_1782477727057-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/hub_and_spoke_varanasi_1782477727057-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/hub_and_spoke_varanasi_1782477727057-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/hub_and_spoke_varanasi_1782477727057-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/hub_and_spoke_varanasi_1782477727057-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/hub_and_spoke_varanasi_1782477727057-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/hub_and_spoke_varanasi_1782477727057-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/hub_and_spoke_varanasi_1782477727057-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/hub_and_spoke_varanasi_1782477727057.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_iran_relations_1782477802529-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_iran_relations_1782477802529-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_iran_relations_1782477802529-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_iran_relations_1782477802529-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_iran_relations_1782477802529-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_iran_relations_1782477802529-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_iran_relations_1782477802529-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_iran_relations_1782477802529-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/india_iran_relations_1782477802529.jpg
+ create mode 100644 wp-content/uploads/2026/06/muharram_bank_holiday_1782477976109-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/muharram_bank_holiday_1782477976109-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/muharram_bank_holiday_1782477976109-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/muharram_bank_holiday_1782477976109-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/muharram_bank_holiday_1782477976109-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/muharram_bank_holiday_1782477976109-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/muharram_bank_holiday_1782477976109-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/muharram_bank_holiday_1782477976109-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/muharram_bank_holiday_1782477976109.jpg
+ create mode 100644 wp-content/uploads/2026/06/netra_aewc_foc_1782477636996-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/netra_aewc_foc_1782477636996-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/netra_aewc_foc_1782477636996-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/netra_aewc_foc_1782477636996-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/netra_aewc_foc_1782477636996-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/netra_aewc_foc_1782477636996-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/netra_aewc_foc_1782477636996-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/netra_aewc_foc_1782477636996-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/netra_aewc_foc_1782477636996.jpg
+ create mode 100644 wp-content/uploads/2026/06/niti_aayog_pharma_1782477482977-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/niti_aayog_pharma_1782477482977-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/niti_aayog_pharma_1782477482977-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/niti_aayog_pharma_1782477482977-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/niti_aayog_pharma_1782477482977-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/niti_aayog_pharma_1782477482977-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/niti_aayog_pharma_1782477482977-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/niti_aayog_pharma_1782477482977-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/niti_aayog_pharma_1782477482977.jpg
+ create mode 100644 wp-content/uploads/2026/06/project_hawk_eye_1782477882940-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/project_hawk_eye_1782477882940-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/project_hawk_eye_1782477882940-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/project_hawk_eye_1782477882940-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/project_hawk_eye_1782477882940-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/project_hawk_eye_1782477882940-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/project_hawk_eye_1782477882940-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/project_hawk_eye_1782477882940-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/project_hawk_eye_1782477882940.jpg
+ create mode 100644 wp-content/uploads/2026/06/sp_growth_prediction_1782477408726-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/sp_growth_prediction_1782477408726-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/sp_growth_prediction_1782477408726-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/sp_growth_prediction_1782477408726-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/sp_growth_prediction_1782477408726-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/sp_growth_prediction_1782477408726-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/sp_growth_prediction_1782477408726-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/sp_growth_prediction_1782477408726-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/sp_growth_prediction_1782477408726.jpg
+ create mode 100644 yerli-havadan-erken-uyari-sistemi-netraya-nihai-operasyonel-izin/index.html
+To https://github.com/eleseles/hindistan.git
+   7c86cfb4..899442b0  main -> main
+
+---
