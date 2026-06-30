@@ -4020,3 +4020,79 @@ To https://github.com/eleseles/hindistan.git
    899442b0..db903165  main -> main
 
 ---
+[2026-06-29 11:32:23]
+[main 0b7ee61e] Auto-update site: 2026-06-29 11:32:03
+ 646 files changed, 35884 insertions(+), 29557 deletions(-)
+ create mode 100644 archive/page/44/index.html
+ create mode 100644 borsa-iran-gerginligiyle-yeniden-dalgalandi-sensex-gune-dususle-basladi/index.html
+ create mode 100644 category/politika/page/10/index.html
+ create mode 100644 icisleri-bakani-amit-shah-2026-2029-narkotik-kontrol-vizyon-belgesini-acikladi/index.html
+ create mode 100644 japonya-basbakani-sanae-takaichi-1-temmuzda-hindistani-ziyaret-edecek/index.html
+ create mode 100644 kalpakkamda-dunya-tarihinde-bir-ilk-nukleer-isiyla-hidrojen-uretim-tesisi-acildi/index.html
+ create mode 100644 wp-content/uploads/2026/06/hcltech_sarvam_ai_1782732146863-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/hcltech_sarvam_ai_1782732146863-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/hcltech_sarvam_ai_1782732146863-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/hcltech_sarvam_ai_1782732146863-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/hcltech_sarvam_ai_1782732146863-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/hcltech_sarvam_ai_1782732146863-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/hcltech_sarvam_ai_1782732146863-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/hcltech_sarvam_ai_1782732146863-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/hcltech_sarvam_ai_1782732146863.jpg
+ create mode 100644 wp-content/uploads/2026/06/iit_madras_herbalife_coe_1782732123122-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/iit_madras_herbalife_coe_1782732123122-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/iit_madras_herbalife_coe_1782732123122-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/iit_madras_herbalife_coe_1782732123122-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/iit_madras_herbalife_coe_1782732123122-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/iit_madras_herbalife_coe_1782732123122-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/iit_madras_herbalife_coe_1782732123122-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/iit_madras_herbalife_coe_1782732123122-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/iit_madras_herbalife_coe_1782732123122.jpg
+ create mode 100644 wp-content/uploads/2026/06/japan_india_summit_takaichi_1782732083067-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/japan_india_summit_takaichi_1782732083067-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/japan_india_summit_takaichi_1782732083067-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/japan_india_summit_takaichi_1782732083067-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/japan_india_summit_takaichi_1782732083067-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/japan_india_summit_takaichi_1782732083067-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/japan_india_summit_takaichi_1782732083067-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/japan_india_summit_takaichi_1782732083067-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/japan_india_summit_takaichi_1782732083067.jpg
+ create mode 100644 wp-content/uploads/2026/06/narcotics_control_amit_shah_1782732100081-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/narcotics_control_amit_shah_1782732100081-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/narcotics_control_amit_shah_1782732100081-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/narcotics_control_amit_shah_1782732100081-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/narcotics_control_amit_shah_1782732100081-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/narcotics_control_amit_shah_1782732100081-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/narcotics_control_amit_shah_1782732100081-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/narcotics_control_amit_shah_1782732100081-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/narcotics_control_amit_shah_1782732100081.jpg
+ create mode 100644 wp-content/uploads/2026/06/nukleer_hidrojen_kalpakkam_1782732048573-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/nukleer_hidrojen_kalpakkam_1782732048573-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/nukleer_hidrojen_kalpakkam_1782732048573-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/nukleer_hidrojen_kalpakkam_1782732048573-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/nukleer_hidrojen_kalpakkam_1782732048573-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/nukleer_hidrojen_kalpakkam_1782732048573-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/nukleer_hidrojen_kalpakkam_1782732048573-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/nukleer_hidrojen_kalpakkam_1782732048573-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/nukleer_hidrojen_kalpakkam_1782732048573.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_market_iran_tension_1782732065632-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_market_iran_tension_1782732065632-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_market_iran_tension_1782732065632-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_market_iran_tension_1782732065632-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_market_iran_tension_1782732065632-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_market_iran_tension_1782732065632-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_market_iran_tension_1782732065632-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_market_iran_tension_1782732065632-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/sensex_market_iran_tension_1782732065632.jpg
+ create mode 100644 wp-content/uploads/2026/06/weekly_market_outlook_june_29_1782732170986-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/06/weekly_market_outlook_june_29_1782732170986-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/06/weekly_market_outlook_june_29_1782732170986-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/06/weekly_market_outlook_june_29_1782732170986-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/weekly_market_outlook_june_29_1782732170986-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/06/weekly_market_outlook_june_29_1782732170986-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/06/weekly_market_outlook_june_29_1782732170986-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/06/weekly_market_outlook_june_29_1782732170986-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/06/weekly_market_outlook_june_29_1782732170986.jpg
+To https://github.com/eleseles/hindistan.git
+   db903165..0b7ee61e  main -> main
+
+---
