@@ -4174,3 +4174,79 @@ To https://github.com/eleseles/hindistan.git
    db17a0df..25c5c4c3  main -> main
 
 ---
+[2026-07-01 13:17:53]
+[main f3313dca] Auto-update site: 2026-07-01 13:17:30
+ 664 files changed, 37863 insertions(+), 31165 deletions(-)
+ create mode 100644 basbakan-modi-ile-iran-cumhurbaskani-pezeshkian-arasinda-kritik-telefon-gorusmesi/index.html
+ create mode 100644 cip-sanayisinde-dev-yatirim-hindistan-yari-iletken-misyonu-2-0-icin-125-lakh-crore-rupi-onaylandi/index.html
+ create mode 100644 gst-sisteminin-9-yilinda-rekor-tahsilat-haziran-gelirleri-yuzde-139-artis-kaydetti/index.html
+ create mode 100644 hindistan-ordusu-drone-cagina-uyum-sagliyor-karsi-drone-yetenekli-baaz-taburlari-kuruluyor/index.html
+ create mode 100644 iiscden-cigir-acan-bulus-oda-sicakligina-yakin-manyetik-anahtarlama-malzemesi-gelistirildi/index.html
+ create mode 100644 japonya-basbakani-takaichi-yeni-delhide-16-hindistan-japonya-zirvesi-basladi/index.html
+ create mode 100644 wp-content/uploads/2026/07/gst_collection_india_record_1782911128582-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/gst_collection_india_record_1782911128582-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/gst_collection_india_record_1782911128582-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/gst_collection_india_record_1782911128582-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/gst_collection_india_record_1782911128582-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/gst_collection_india_record_1782911128582-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/gst_collection_india_record_1782911128582-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/gst_collection_india_record_1782911128582-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/gst_collection_india_record_1782911128582.jpg
+ create mode 100644 wp-content/uploads/2026/07/iisc_quantum_magnetic_switching_1782911208599-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/iisc_quantum_magnetic_switching_1782911208599-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/iisc_quantum_magnetic_switching_1782911208599-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/iisc_quantum_magnetic_switching_1782911208599-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/iisc_quantum_magnetic_switching_1782911208599-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/iisc_quantum_magnetic_switching_1782911208599-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/iisc_quantum_magnetic_switching_1782911208599-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/iisc_quantum_magnetic_switching_1782911208599-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/iisc_quantum_magnetic_switching_1782911208599.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_semiconductor_mission_2_1782911168964-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_semiconductor_mission_2_1782911168964-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_semiconductor_mission_2_1782911168964-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_semiconductor_mission_2_1782911168964-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_semiconductor_mission_2_1782911168964-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_semiconductor_mission_2_1782911168964-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_semiconductor_mission_2_1782911168964-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_semiconductor_mission_2_1782911168964-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_semiconductor_mission_2_1782911168964.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_army_baaz_drones_1782911247887-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_army_baaz_drones_1782911247887-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_army_baaz_drones_1782911247887-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_army_baaz_drones_1782911247887-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_army_baaz_drones_1782911247887-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_army_baaz_drones_1782911247887-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_army_baaz_drones_1782911247887-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_army_baaz_drones_1782911247887-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_army_baaz_drones_1782911247887.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_military_leadership_reform_1782911290885-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_military_leadership_reform_1782911290885-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_military_leadership_reform_1782911290885-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_military_leadership_reform_1782911290885-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_military_leadership_reform_1782911290885-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_military_leadership_reform_1782911290885-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_military_leadership_reform_1782911290885-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_military_leadership_reform_1782911290885-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_military_leadership_reform_1782911290885.jpg
+ create mode 100644 wp-content/uploads/2026/07/japan_india_summit_delhi_1782911048309-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/japan_india_summit_delhi_1782911048309-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/japan_india_summit_delhi_1782911048309-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/japan_india_summit_delhi_1782911048309-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/japan_india_summit_delhi_1782911048309-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/japan_india_summit_delhi_1782911048309-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/japan_india_summit_delhi_1782911048309-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/japan_india_summit_delhi_1782911048309-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/japan_india_summit_delhi_1782911048309.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_pezeshkian_call_1782911085071-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_pezeshkian_call_1782911085071-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_pezeshkian_call_1782911085071-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_pezeshkian_call_1782911085071-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_pezeshkian_call_1782911085071-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_pezeshkian_call_1782911085071-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_pezeshkian_call_1782911085071-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_pezeshkian_call_1782911085071-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_pezeshkian_call_1782911085071.jpg
+To https://github.com/eleseles/hindistan.git
+   25c5c4c3..f3313dca  main -> main
+
+---
