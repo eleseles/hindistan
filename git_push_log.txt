@@ -4250,3 +4250,15 @@ To https://github.com/eleseles/hindistan.git
    25c5c4c3..f3313dca  main -> main
 
 ---
+[2026-07-02 11:12:18]
+[main e101b143] Auto-update site: 2026-07-02 11:11:58
+ 606 files changed, 13676 insertions(+), 8623 deletions(-)
+ create mode 100644 archive/page/46/index.html
+ create mode 100644 author/admin/page/37/index.html
+ create mode 100644 hindistan-silahli-kuvvetleri-komuta-kademesinde-kapsamli-degisiklik-ve-yeniden-yapilanma/index.html
+ create mode 100644 latest/page/37/index.html
+ create mode 100644 page/37/index.html
+To https://github.com/eleseles/hindistan.git
+   f3313dca..e101b143  main -> main
+
+---
