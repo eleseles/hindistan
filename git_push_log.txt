@@ -4262,3 +4262,68 @@ To https://github.com/eleseles/hindistan.git
    f3313dca..e101b143  main -> main
 
 ---
+[2026-07-02 11:25:18]
+[main d02e0676] Auto-update site: 2026-07-02 11:25:01
+ 664 files changed, 35390 insertions(+), 30950 deletions(-)
+ create mode 100644 borsa-toparlandi-kotak-deutsche-bank-anlasmasi-piyasalari-ucurdu/index.html
+ create mode 100644 havacilikta-ucuz-bilet-donemi-indigo-lite-tarifesi-tanitildi/index.html
+ create mode 100644 hindistan-imalat-sektorunde-yavaslama-sinyali-haziran-pmi-542ye-dustu/index.html
+ create mode 100644 hindistan-japonya-zirvesi-125-milyar-dolarlik-yatirim-taahhudu-ve-yz-ortakligi/index.html
+ create mode 100644 wp-content/uploads/2026/07/el_nino_drought_india_1782991181078-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/el_nino_drought_india_1782991181078-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/el_nino_drought_india_1782991181078-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/el_nino_drought_india_1782991181078-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/el_nino_drought_india_1782991181078-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/el_nino_drought_india_1782991181078-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/el_nino_drought_india_1782991181078-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/el_nino_drought_india_1782991181078-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/el_nino_drought_india_1782991181078.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_japan_economic_cooperation_1782991010478-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_japan_economic_cooperation_1782991010478-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_japan_economic_cooperation_1782991010478-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_japan_economic_cooperation_1782991010478-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_japan_economic_cooperation_1782991010478-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_japan_economic_cooperation_1782991010478-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_japan_economic_cooperation_1782991010478-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_japan_economic_cooperation_1782991010478-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_japan_economic_cooperation_1782991010478.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_manufacturing_pmi_slowdown_1782991091649-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_manufacturing_pmi_slowdown_1782991091649-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_manufacturing_pmi_slowdown_1782991091649-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_manufacturing_pmi_slowdown_1782991091649-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_manufacturing_pmi_slowdown_1782991091649-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_manufacturing_pmi_slowdown_1782991091649-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_manufacturing_pmi_slowdown_1782991091649-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_manufacturing_pmi_slowdown_1782991091649-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_manufacturing_pmi_slowdown_1782991091649.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_sanctions_lifted_1782991226617-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_sanctions_lifted_1782991226617-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_sanctions_lifted_1782991226617-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_sanctions_lifted_1782991226617-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_sanctions_lifted_1782991226617-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_sanctions_lifted_1782991226617-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_sanctions_lifted_1782991226617-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_sanctions_lifted_1782991226617-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_sanctions_lifted_1782991226617.jpg
+ create mode 100644 wp-content/uploads/2026/07/indigo_lite_baggage_1782991138729-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/indigo_lite_baggage_1782991138729-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/indigo_lite_baggage_1782991138729-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/indigo_lite_baggage_1782991138729-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/indigo_lite_baggage_1782991138729-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/indigo_lite_baggage_1782991138729-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/indigo_lite_baggage_1782991138729-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/indigo_lite_baggage_1782991138729-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/indigo_lite_baggage_1782991138729.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_rise_july_2_1782991050133-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_rise_july_2_1782991050133-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_rise_july_2_1782991050133-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_rise_july_2_1782991050133-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_rise_july_2_1782991050133-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_rise_july_2_1782991050133-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_rise_july_2_1782991050133-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_rise_july_2_1782991050133-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_rise_july_2_1782991050133.jpg
+To https://github.com/eleseles/hindistan.git
+   e101b143..d02e0676  main -> main
+
+---
