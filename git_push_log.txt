@@ -4488,3 +4488,84 @@ To https://github.com/eleseles/hindistan.git
    f80ae175..50cd6e74  main -> main
 
 ---
+[2026-07-07 10:15:10]
+[main 1154ffc1] Auto-update site: 2026-07-07 10:14:44
+ 700 files changed, 44794 insertions(+), 33231 deletions(-)
+ create mode 100644 archive/page/48/index.html
+ create mode 100644 brics-ulkelerinin-uyusturucu-ajansi-baskanlari-hindistanda-bulustu/index.html
+ create mode 100644 category/teknoloji/page/10/index.html
+ create mode 100644 hindistan-bm-tuketici-koruma-toplantisina-baskanlik-etti/index.html
+ create mode 100644 hindistan-bmde-kuresel-guneyin-yapay-zeka-sesi-olmayi-hedefliyor/index.html
+ create mode 100644 hindistan-donanma-gemisi-ins-sudarshini-new-yorkta/index.html
+ create mode 100644 hindistan-savunmasinda-52-000-crore-rupilik-modernizasyon-paketi/index.html
+ create mode 100644 icmr-minds-yz-destekli-ruh-sagligi-platformuna-altin-odul/index.html
+ create mode 100644 latest/page/39/index.html
+ create mode 100644 modinin-endonezya-ziyareti-savunma-ve-stratejik-ortaklik/index.html
+ create mode 100644 muson-yagislari-tarim-hisselerine-toparlanma-sinyali-verdi/index.html
+ create mode 100644 wp-content/uploads/2026/07/ayurveda_digital_research_ccras_2026_1783418980672-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/ayurveda_digital_research_ccras_2026_1783418980672-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/ayurveda_digital_research_ccras_2026_1783418980672-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/ayurveda_digital_research_ccras_2026_1783418980672-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/ayurveda_digital_research_ccras_2026_1783418980672-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/ayurveda_digital_research_ccras_2026_1783418980672-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/ayurveda_digital_research_ccras_2026_1783418980672-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/ayurveda_digital_research_ccras_2026_1783418980672-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/ayurveda_digital_research_ccras_2026_1783418980672.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_diplomacy_2026_1783418990306-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_diplomacy_2026_1783418990306-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_diplomacy_2026_1783418990306-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_diplomacy_2026_1783418990306-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_diplomacy_2026_1783418990306-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_diplomacy_2026_1783418990306-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_diplomacy_2026_1783418990306-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_diplomacy_2026_1783418990306-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_diplomacy_2026_1783418990306.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_un_ai_dialogue_geneva_2026_1783418884078-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_un_ai_dialogue_geneva_2026_1783418884078-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_un_ai_dialogue_geneva_2026_1783418884078-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_un_ai_dialogue_geneva_2026_1783418884078-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_un_ai_dialogue_geneva_2026_1783418884078-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_un_ai_dialogue_geneva_2026_1783418884078-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_un_ai_dialogue_geneva_2026_1783418884078-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_un_ai_dialogue_geneva_2026_1783418884078-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_un_ai_dialogue_geneva_2026_1783418884078.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_campaign_2026_1783418970864-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_campaign_2026_1783418970864-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_campaign_2026_1783418970864-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_campaign_2026_1783418970864-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_campaign_2026_1783418970864-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_campaign_2026_1783418970864-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_campaign_2026_1783418970864-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_campaign_2026_1783418970864-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_campaign_2026_1783418970864.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_defense_modernization_2026_1783418893654-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_defense_modernization_2026_1783418893654-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_defense_modernization_2026_1783418893654-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_defense_modernization_2026_1783418893654-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_defense_modernization_2026_1783418893654-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_defense_modernization_2026_1783418893654-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_defense_modernization_2026_1783418893654-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_defense_modernization_2026_1783418893654-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_defense_modernization_2026_1783418893654.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_indonesia_bilateral_2026_1783418875104-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_indonesia_bilateral_2026_1783418875104-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_indonesia_bilateral_2026_1783418875104-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_indonesia_bilateral_2026_1783418875104-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_indonesia_bilateral_2026_1783418875104-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_indonesia_bilateral_2026_1783418875104-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_indonesia_bilateral_2026_1783418875104-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_indonesia_bilateral_2026_1783418875104-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_indonesia_bilateral_2026_1783418875104.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_floods_2026_1783418931146-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_floods_2026_1783418931146-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_floods_2026_1783418931146-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_floods_2026_1783418931146-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_floods_2026_1783418931146-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_floods_2026_1783418931146-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_floods_2026_1783418931146-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_floods_2026_1783418931146-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_floods_2026_1783418931146.jpg
+To https://github.com/eleseles/hindistan.git
+   50cd6e74..1154ffc1  main -> main
+
+---
