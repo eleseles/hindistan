@@ -4569,3 +4569,76 @@ To https://github.com/eleseles/hindistan.git
    50cd6e74..1154ffc1  main -> main
 
 ---
+[2026-07-08 11:23:13]
+[main f3f1b5b3] Auto-update site: 2026-07-08 11:22:55
+ 703 files changed, 46298 insertions(+), 33443 deletions(-)
+ create mode 100644 archive/page/49/index.html
+ create mode 100644 author/admin/page/39/index.html
+ create mode 100644 ayurveda-arastirmalarinda-yeni-hamle-ccrastan-uc-yeni-girisim/index.html
+ create mode 100644 hindistandan-aseana-egitim-koprusu-endonezyada-iim-kampusu/index.html
+ create mode 100644 hindistandan-bm-guvenlik-konseyi-icin-2028-29-kampanyasi/index.html
+ create mode 100644 ingiltere-karsisinda-sok-yenilgi-hindistan-t20-tarihinin-en-kotu-ikinci-skorunu-aldi/index.html
+ create mode 100644 latest/page/40/index.html
+ create mode 100644 modi-melbournede-hindistan-avustralya-zirvesi-basladi/index.html
+ create mode 100644 muson-felaketi-buyuyor-mumbai-ve-odishada-okullar-kapatildi/index.html
+ create mode 100644 muson-felaketi-buyuyor-su-baskinlari-ve-kameralara-yansiyan-leopar/index.html
+ create mode 100644 ozel-dosya-hindistan-turkiye-iliskilerinde-temkinli-normallesme/index.html
+ create mode 100644 page/39/index.html
+ create mode 100644 wp-content/uploads/2026/07/china_submarine_missile_test_pacific_2026_1783509288269-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/china_submarine_missile_test_pacific_2026_1783509288269-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/china_submarine_missile_test_pacific_2026_1783509288269-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/china_submarine_missile_test_pacific_2026_1783509288269-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/china_submarine_missile_test_pacific_2026_1783509288269-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/china_submarine_missile_test_pacific_2026_1783509288269-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/china_submarine_missile_test_pacific_2026_1783509288269-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/china_submarine_missile_test_pacific_2026_1783509288269-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/china_submarine_missile_test_pacific_2026_1783509288269.jpg
+ create mode 100644 wp-content/uploads/2026/07/iim_bangalore_indonesia_campus_2026_1783509226401-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/iim_bangalore_indonesia_campus_2026_1783509226401-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/iim_bangalore_indonesia_campus_2026_1783509226401-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/iim_bangalore_indonesia_campus_2026_1783509226401-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/iim_bangalore_indonesia_campus_2026_1783509226401-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/iim_bangalore_indonesia_campus_2026_1783509226401-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/iim_bangalore_indonesia_campus_2026_1783509226401-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/iim_bangalore_indonesia_campus_2026_1783509226401-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/iim_bangalore_indonesia_campus_2026_1783509226401.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_cricket_loss_england_2026_1783509236729-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_cricket_loss_england_2026_1783509236729-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_cricket_loss_england_2026_1783509236729-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_cricket_loss_england_2026_1783509236729-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_cricket_loss_england_2026_1783509236729-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_cricket_loss_england_2026_1783509236729-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_cricket_loss_england_2026_1783509236729-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_cricket_loss_england_2026_1783509236729-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_cricket_loss_england_2026_1783509236729.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_operation_dost_2026_1783509297378-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_operation_dost_2026_1783509297378-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_operation_dost_2026_1783509297378-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_operation_dost_2026_1783509297378-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_operation_dost_2026_1783509297378-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_operation_dost_2026_1783509297378-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_operation_dost_2026_1783509297378-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_operation_dost_2026_1783509297378-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_turkey_operation_dost_2026_1783509297378.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_australia_melbourne_2026_1783509217072-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_australia_melbourne_2026_1783509217072-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_australia_melbourne_2026_1783509217072-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_australia_melbourne_2026_1783509217072-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_australia_melbourne_2026_1783509217072-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_australia_melbourne_2026_1783509217072-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_australia_melbourne_2026_1783509217072-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_australia_melbourne_2026_1783509217072-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/modi_australia_melbourne_2026_1783509217072.jpg
+ create mode 100644 wp-content/uploads/2026/07/monsoon_damage_leopard_indore_2026_1783509280188-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/monsoon_damage_leopard_indore_2026_1783509280188-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/monsoon_damage_leopard_indore_2026_1783509280188-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/monsoon_damage_leopard_indore_2026_1783509280188-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/monsoon_damage_leopard_indore_2026_1783509280188-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/monsoon_damage_leopard_indore_2026_1783509280188-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/monsoon_damage_leopard_indore_2026_1783509280188-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/monsoon_damage_leopard_indore_2026_1783509280188-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/monsoon_damage_leopard_indore_2026_1783509280188.jpg
+To https://github.com/eleseles/hindistan.git
+   1154ffc1..f3f1b5b3  main -> main
+
+---
