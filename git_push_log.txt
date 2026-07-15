@@ -4902,3 +4902,68 @@ To https://github.com/eleseles/hindistan.git
    778878d1..bb011d6b  main -> main
 
 ---
+[2026-07-14 10:21:48]
+[main 6cb54c15] Auto-update site: 2026-07-14 10:21:31
+ 743 files changed, 39140 insertions(+), 34896 deletions(-)
+ create mode 100644 archive/page/53/index.html
+ create mode 100644 bmde-tarihi-shanti-kampanyasi-hindistanin-2028-29-guvenlik-konseyi-adayligi-resmen-basladi/index.html
+ create mode 100644 hurmuz-bogazinda-kriz-iran-fuzesi-bae-tankerini-vurdu-hintli-denizci-hayatini-kaybetti/index.html
+ create mode 100644 kuresel-kriz-piyasalari-vurdu-sensex-coktu-brent-petrol-85-dolara-dayandi/index.html
+ create mode 100644 wp-content/uploads/2026/07/hormuz_tanker_attack_2026_1784024092629-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/hormuz_tanker_attack_2026_1784024092629-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/hormuz_tanker_attack_2026_1784024092629-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/hormuz_tanker_attack_2026_1784024092629-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/hormuz_tanker_attack_2026_1784024092629-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/hormuz_tanker_attack_2026_1784024092629-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/hormuz_tanker_attack_2026_1784024092629-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/hormuz_tanker_attack_2026_1784024092629-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/hormuz_tanker_attack_2026_1784024092629.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_eu_tech_council_brussels_2026_1784024199177-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_eu_tech_council_brussels_2026_1784024199177-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_eu_tech_council_brussels_2026_1784024199177-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_eu_tech_council_brussels_2026_1784024199177-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_eu_tech_council_brussels_2026_1784024199177-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_eu_tech_council_brussels_2026_1784024199177-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_eu_tech_council_brussels_2026_1784024199177-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_eu_tech_council_brussels_2026_1784024199177-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_eu_tech_council_brussels_2026_1784024199177.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_shanti_campaign_2026_1784024111199-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_shanti_campaign_2026_1784024111199-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_shanti_campaign_2026_1784024111199-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_shanti_campaign_2026_1784024111199-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_shanti_campaign_2026_1784024111199-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_shanti_campaign_2026_1784024111199-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_shanti_campaign_2026_1784024111199-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_shanti_campaign_2026_1784024111199-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_unsc_shanti_campaign_2026_1784024111199.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_students_three_language_2026_1784024154607-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_students_three_language_2026_1784024154607-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_students_three_language_2026_1784024154607-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_students_three_language_2026_1784024154607-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_students_three_language_2026_1784024154607-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_students_three_language_2026_1784024154607-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_students_three_language_2026_1784024154607-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_students_three_language_2026_1784024154607-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_students_three_language_2026_1784024154607.jpg
+ create mode 100644 wp-content/uploads/2026/07/ladakh_mountains_special_status_2026_1784024210532-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/ladakh_mountains_special_status_2026_1784024210532-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/ladakh_mountains_special_status_2026_1784024210532-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/ladakh_mountains_special_status_2026_1784024210532-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/ladakh_mountains_special_status_2026_1784024210532-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/ladakh_mountains_special_status_2026_1784024210532-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/ladakh_mountains_special_status_2026_1784024210532-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/ladakh_mountains_special_status_2026_1784024210532-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/ladakh_mountains_special_status_2026_1784024210532.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_market_crash_2026_1784024102476-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_market_crash_2026_1784024102476-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_market_crash_2026_1784024102476-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_market_crash_2026_1784024102476-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_market_crash_2026_1784024102476-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_market_crash_2026_1784024102476-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_market_crash_2026_1784024102476-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_market_crash_2026_1784024102476-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_market_crash_2026_1784024102476.jpg
+To https://github.com/eleseles/hindistan.git
+   bb011d6b..6cb54c15  main -> main
+
+---
