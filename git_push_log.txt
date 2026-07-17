@@ -4977,3 +4977,71 @@ To https://github.com/eleseles/hindistan.git
    6cb54c15..326038c0  main -> main
 
 ---
+[2026-07-15 10:43:14]
+[main e7236854] Auto-update site: 2026-07-15 10:42:57
+ 753 files changed, 25806 insertions(+), 18564 deletions(-)
+ create mode 100644 abd-hindistan-ticaret-anlasmasi-son-duzlukte-imzalar-icin-gun-sayiliyor/index.html
+ create mode 100644 author/admin/page/43/index.html
+ create mode 100644 borsa-toparlandi-yatirimcilara-35-lakh-crore-rupi-geri-dondu-sensex-600-puan-yukseldi/index.html
+ create mode 100644 category/ekonomi/page/11/index.html
+ create mode 100644 latest/page/43/index.html
+ create mode 100644 page/43/index.html
+ create mode 100644 tarihin-en-buyuk-ftasi-bugun-yururluge-girdi-hindistan-ingiltere-serbest-ticaret-anlasmasi/index.html
+ create mode 100644 wp-content/uploads/2026/07/ge_f414_engine_india_manufacturing_2026_1784111869058-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/ge_f414_engine_india_manufacturing_2026_1784111869058-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/ge_f414_engine_india_manufacturing_2026_1784111869058-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/ge_f414_engine_india_manufacturing_2026_1784111869058-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/ge_f414_engine_india_manufacturing_2026_1784111869058-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/ge_f414_engine_india_manufacturing_2026_1784111869058-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/ge_f414_engine_india_manufacturing_2026_1784111869058-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/ge_f414_engine_india_manufacturing_2026_1784111869058-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/ge_f414_engine_india_manufacturing_2026_1784111869058.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_iran_diplomacy_crisis_2026_1784111878775-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_iran_diplomacy_crisis_2026_1784111878775-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_iran_diplomacy_crisis_2026_1784111878775-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_iran_diplomacy_crisis_2026_1784111878775-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_iran_diplomacy_crisis_2026_1784111878775-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_iran_diplomacy_crisis_2026_1784111878775-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_iran_diplomacy_crisis_2026_1784111878775-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_iran_diplomacy_crisis_2026_1784111878775-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_iran_diplomacy_crisis_2026_1784111878775.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_uk_fta_trade_2026_1784111789379-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_uk_fta_trade_2026_1784111789379-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_uk_fta_trade_2026_1784111789379-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_uk_fta_trade_2026_1784111789379-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_uk_fta_trade_2026_1784111789379-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_uk_fta_trade_2026_1784111789379-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_uk_fta_trade_2026_1784111789379-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_uk_fta_trade_2026_1784111789379-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_uk_fta_trade_2026_1784111789379.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_agreement_2026_1784111808380-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_agreement_2026_1784111808380-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_agreement_2026_1784111808380-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_agreement_2026_1784111808380-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_agreement_2026_1784111808380-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_agreement_2026_1784111808380-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_agreement_2026_1784111808380-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_agreement_2026_1784111808380-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_us_trade_agreement_2026_1784111808380.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_hydrogen_train_2026_1784111858204-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_hydrogen_train_2026_1784111858204-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_hydrogen_train_2026_1784111858204-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_hydrogen_train_2026_1784111858204-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_hydrogen_train_2026_1784111858204-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_hydrogen_train_2026_1784111858204-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_hydrogen_train_2026_1784111858204-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_hydrogen_train_2026_1784111858204-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_hydrogen_train_2026_1784111858204.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_recovery_2026_1784111797793-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_recovery_2026_1784111797793-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_recovery_2026_1784111797793-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_recovery_2026_1784111797793-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_recovery_2026_1784111797793-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_recovery_2026_1784111797793-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_recovery_2026_1784111797793-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_recovery_2026_1784111797793-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_market_recovery_2026_1784111797793.jpg
+To https://github.com/eleseles/hindistan.git
+   326038c0..e7236854  main -> main
+
+---
