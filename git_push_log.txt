@@ -5045,3 +5045,89 @@ To https://github.com/eleseles/hindistan.git
    326038c0..e7236854  main -> main
 
 ---
+[2026-07-17 08:59:26]
+[main 49c1b5b04] Auto-update site: 2026-07-17 08:59:05
+ 778 files changed, 43412 insertions(+), 36210 deletions(-)
+ create mode 100644 archive/page/54/index.html
+ create mode 100644 category/savunma/page/2/index.html
+ create mode 100644 category/teknoloji/page/11/index.html
+ create mode 100644 dunyanin-en-guclu-hidrojen-treni-namo-yesil-ray-jindden-yola-cikti/index.html
+ create mode 100644 ge-f414-motor-anlasmasi-yuzde-80-teknoloji-transferiyle-hal-uretecek/index.html
+ create mode 100644 hindistanin-ilk-hidrojen-treni-namo-yesil-ray-17-temmuzda-hizmete-giriyor/index.html
+ create mode 100644 kriz-takibi-hurmuz-gerginligi-suruyor-delhi-temas-hattini-acik-tutuyor/index.html
+ create mode 100644 wp-content/uploads/2026/07/bharat_tex_exhibition_delhi_2026_1784278120157-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/bharat_tex_exhibition_delhi_2026_1784278120157-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/bharat_tex_exhibition_delhi_2026_1784278120157-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/bharat_tex_exhibition_delhi_2026_1784278120157-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/bharat_tex_exhibition_delhi_2026_1784278120157-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/bharat_tex_exhibition_delhi_2026_1784278120157-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/bharat_tex_exhibition_delhi_2026_1784278120157-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/bharat_tex_exhibition_delhi_2026_1784278120157-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/bharat_tex_exhibition_delhi_2026_1784278120157.jpg
+ create mode 100644 wp-content/uploads/2026/07/delhivery_fintech_nbfc_license_2026_1784278235136-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/delhivery_fintech_nbfc_license_2026_1784278235136-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/delhivery_fintech_nbfc_license_2026_1784278235136-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/delhivery_fintech_nbfc_license_2026_1784278235136-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/delhivery_fintech_nbfc_license_2026_1784278235136-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/delhivery_fintech_nbfc_license_2026_1784278235136-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/delhivery_fintech_nbfc_license_2026_1784278235136-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/delhivery_fintech_nbfc_license_2026_1784278235136-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/delhivery_fintech_nbfc_license_2026_1784278235136.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_social_security_welfare_2026_1784278179589-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_social_security_welfare_2026_1784278179589-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_social_security_welfare_2026_1784278179589-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_social_security_welfare_2026_1784278179589-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_social_security_welfare_2026_1784278179589-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_social_security_welfare_2026_1784278179589-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_social_security_welfare_2026_1784278179589-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_social_security_welfare_2026_1784278179589-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_social_security_welfare_2026_1784278179589.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_vande_mataram_2026_1784278169784-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_vande_mataram_2026_1784278169784-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_vande_mataram_2026_1784278169784-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_vande_mataram_2026_1784278169784-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_vande_mataram_2026_1784278169784-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_vande_mataram_2026_1784278169784-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_vande_mataram_2026_1784278169784-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_vande_mataram_2026_1784278169784-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_vande_mataram_2026_1784278169784.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_inauguration_2026_1784278111227-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_inauguration_2026_1784278111227-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_inauguration_2026_1784278111227-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_inauguration_2026_1784278111227-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_inauguration_2026_1784278111227-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_inauguration_2026_1784278111227-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_inauguration_2026_1784278111227-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_inauguration_2026_1784278111227-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/namo_green_rail_inauguration_2026_1784278111227.jpg
+ create mode 100644 wp-content/uploads/2026/07/puri_rath_yatra_crowd_2026_1784278128925-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/puri_rath_yatra_crowd_2026_1784278128925-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/puri_rath_yatra_crowd_2026_1784278128925-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/puri_rath_yatra_crowd_2026_1784278128925-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/puri_rath_yatra_crowd_2026_1784278128925-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/puri_rath_yatra_crowd_2026_1784278128925-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/puri_rath_yatra_crowd_2026_1784278128925-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/puri_rath_yatra_crowd_2026_1784278128925-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/puri_rath_yatra_crowd_2026_1784278128925.jpg
+ create mode 100644 wp-content/uploads/2026/07/un_ai_report_global_map_2026_1784278188291-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/un_ai_report_global_map_2026_1784278188291-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/un_ai_report_global_map_2026_1784278188291-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/un_ai_report_global_map_2026_1784278188291-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/un_ai_report_global_map_2026_1784278188291-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/un_ai_report_global_map_2026_1784278188291-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/un_ai_report_global_map_2026_1784278188291-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/un_ai_report_global_map_2026_1784278188291-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/un_ai_report_global_map_2026_1784278188291.jpg
+ create mode 100644 wp-content/uploads/2026/07/unjha_gujarat_spices_cumin_fennel_2026_1784278242896-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/unjha_gujarat_spices_cumin_fennel_2026_1784278242896-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/unjha_gujarat_spices_cumin_fennel_2026_1784278242896-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/unjha_gujarat_spices_cumin_fennel_2026_1784278242896-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/unjha_gujarat_spices_cumin_fennel_2026_1784278242896-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/unjha_gujarat_spices_cumin_fennel_2026_1784278242896-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/unjha_gujarat_spices_cumin_fennel_2026_1784278242896-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/unjha_gujarat_spices_cumin_fennel_2026_1784278242896-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/unjha_gujarat_spices_cumin_fennel_2026_1784278242896.jpg
+To https://github.com/eleseles/hindistan.git
+   e7236854d..49c1b5b04  main -> main
+
+---
