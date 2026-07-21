@@ -5157,3 +5157,77 @@ To https://github.com/eleseles/hindistan.git
    19ab83d9d..fe494bce1  main -> main
 
 ---
+[2026-07-20 09:07:02]
+[main 39b65a311] Auto-update site: 2026-07-20 09:06:44
+ 785 files changed, 37802 insertions(+), 33384 deletions(-)
+ create mode 100644 author/admin/page/44/index.html
+ create mode 100644 borsada-sert-dusus-sensex-624-puan-geriledi-brent-petrol-90-dolari-asti/index.html
+ create mode 100644 firtinali-baslangic-parlamento-muson-oturumunda-8-kritik-yasa-gundemde/index.html
+ create mode 100644 page/44/index.html
+ create mode 100644 wp-content/uploads/2026/07/india_afghanistan_agriculture_diplomacy_2026_1784537937587-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_afghanistan_agriculture_diplomacy_2026_1784537937587-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_afghanistan_agriculture_diplomacy_2026_1784537937587-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_afghanistan_agriculture_diplomacy_2026_1784537937587-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_afghanistan_agriculture_diplomacy_2026_1784537937587-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_afghanistan_agriculture_diplomacy_2026_1784537937587-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_afghanistan_agriculture_diplomacy_2026_1784537937587-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_afghanistan_agriculture_diplomacy_2026_1784537937587-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_afghanistan_agriculture_diplomacy_2026_1784537937587.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_biogas_plant_clean_energy_2026_1784538047175-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_biogas_plant_clean_energy_2026_1784538047175-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_biogas_plant_clean_energy_2026_1784538047175-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_biogas_plant_clean_energy_2026_1784538047175-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_biogas_plant_clean_energy_2026_1784538047175-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_biogas_plant_clean_energy_2026_1784538047175-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_biogas_plant_clean_energy_2026_1784538047175-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_biogas_plant_clean_energy_2026_1784538047175-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_biogas_plant_clean_energy_2026_1784538047175.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_monsoon_session_2026_1784537866086-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_monsoon_session_2026_1784537866086-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_monsoon_session_2026_1784537866086-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_monsoon_session_2026_1784537866086-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_monsoon_session_2026_1784537866086-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_monsoon_session_2026_1784537866086-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_monsoon_session_2026_1784537866086-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_monsoon_session_2026_1784537866086-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/indian_parliament_monsoon_session_2026_1784537866086.jpg
+ create mode 100644 wp-content/uploads/2026/07/medical_drone_tb_diagnosis_india_2026_1784537945281-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/medical_drone_tb_diagnosis_india_2026_1784537945281-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/medical_drone_tb_diagnosis_india_2026_1784537945281-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/medical_drone_tb_diagnosis_india_2026_1784537945281-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/medical_drone_tb_diagnosis_india_2026_1784537945281-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/medical_drone_tb_diagnosis_india_2026_1784537945281-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/medical_drone_tb_diagnosis_india_2026_1784537945281-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/medical_drone_tb_diagnosis_india_2026_1784537945281-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/medical_drone_tb_diagnosis_india_2026_1784537945281.jpg
+ create mode 100644 wp-content/uploads/2026/07/nuclear_plant_cyber_attack_data_breach_2026_1784538102777-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/nuclear_plant_cyber_attack_data_breach_2026_1784538102777-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/nuclear_plant_cyber_attack_data_breach_2026_1784538102777-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/nuclear_plant_cyber_attack_data_breach_2026_1784538102777-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/nuclear_plant_cyber_attack_data_breach_2026_1784538102777-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/nuclear_plant_cyber_attack_data_breach_2026_1784538102777-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/nuclear_plant_cyber_attack_data_breach_2026_1784538102777-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/nuclear_plant_cyber_attack_data_breach_2026_1784538102777-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/nuclear_plant_cyber_attack_data_breach_2026_1784538102777.jpg
+ create mode 100644 wp-content/uploads/2026/07/semicon_india_chip_manufacturing_2026_1784537929289-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/semicon_india_chip_manufacturing_2026_1784537929289-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/semicon_india_chip_manufacturing_2026_1784537929289-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/semicon_india_chip_manufacturing_2026_1784537929289-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/semicon_india_chip_manufacturing_2026_1784537929289-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/semicon_india_chip_manufacturing_2026_1784537929289-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/semicon_india_chip_manufacturing_2026_1784537929289-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/semicon_india_chip_manufacturing_2026_1784537929289-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/semicon_india_chip_manufacturing_2026_1784537929289.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_2026_1784537876355-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_2026_1784537876355-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_2026_1784537876355-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_2026_1784537876355-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_2026_1784537876355-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_2026_1784537876355-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_2026_1784537876355-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_2026_1784537876355-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_2026_1784537876355.jpg
+To https://github.com/eleseles/hindistan.git
+   fe494bce1..39b65a311  main -> main
+
+---
