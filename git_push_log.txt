@@ -5314,3 +5314,74 @@ To https://github.com/eleseles/hindistan.git
    7f3d2b3d4..0a3566941  main -> main
 
 ---
+[2026-07-22 10:55:43]
+[main 5d569c305] Auto-update site: 2026-07-22 10:55:23
+ 801 files changed, 48159 insertions(+), 37905 deletions(-)
+ create mode 100644 archive/page/57/index.html
+ create mode 100644 assamda-sel-felaketi-agirlasiyor-olu-sayisi-31e-cikti-ordu-devrede/index.html
+ create mode 100644 category/bilim/index.html
+ create mode 100644 category/cevre/index.html
+ create mode 100644 category/hukuk/index.html
+ create mode 100644 ham-petrol-fiyatlari-hindistan-borsasini-vurdu-sensexte-sert-dusus/index.html
+ create mode 100644 nukleer-enerjide-yol-haritasi-ne-olmali-tartismalar-buyuyor/index.html
+ create mode 100644 siyasi-kriz-derinlesiyor-parlamento-ucuncu-gunde-de-protestolarla-kilitlendi/index.html
+ create mode 100644 ulke-genelinde-sari-alarm-delhi-yagmura-uyandi-guney-eyaletlerinde-uyari-var/index.html
+ create mode 100644 wp-content/uploads/2026/07/assam_flood_rescue_operation_2026_1784717082095-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/assam_flood_rescue_operation_2026_1784717082095-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/assam_flood_rescue_operation_2026_1784717082095-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/assam_flood_rescue_operation_2026_1784717082095-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/assam_flood_rescue_operation_2026_1784717082095-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/assam_flood_rescue_operation_2026_1784717082095-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/assam_flood_rescue_operation_2026_1784717082095-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/assam_flood_rescue_operation_2026_1784717082095-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/assam_flood_rescue_operation_2026_1784717082095.jpg
+ create mode 100644 wp-content/uploads/2026/07/chennai_sports_city_flood_risk_2026_1784717170828-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/chennai_sports_city_flood_risk_2026_1784717170828-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/chennai_sports_city_flood_risk_2026_1784717170828-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/chennai_sports_city_flood_risk_2026_1784717170828-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/chennai_sports_city_flood_risk_2026_1784717170828-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/chennai_sports_city_flood_risk_2026_1784717170828-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/chennai_sports_city_flood_risk_2026_1784717170828-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/chennai_sports_city_flood_risk_2026_1784717170828-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/chennai_sports_city_flood_risk_2026_1784717170828.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_orange_alert_2026_1784717159733-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_orange_alert_2026_1784717159733-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_orange_alert_2026_1784717159733-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_orange_alert_2026_1784717159733-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_orange_alert_2026_1784717159733-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_orange_alert_2026_1784717159733-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_orange_alert_2026_1784717159733-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_orange_alert_2026_1784717159733-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/mumbai_monsoon_orange_alert_2026_1784717159733.jpg
+ create mode 100644 wp-content/uploads/2026/07/parliament_monsoon_session_tense_2026_1784717090336-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/parliament_monsoon_session_tense_2026_1784717090336-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/parliament_monsoon_session_tense_2026_1784717090336-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/parliament_monsoon_session_tense_2026_1784717090336-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/parliament_monsoon_session_tense_2026_1784717090336-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/parliament_monsoon_session_tense_2026_1784717090336-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/parliament_monsoon_session_tense_2026_1784717090336-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/parliament_monsoon_session_tense_2026_1784717090336-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/parliament_monsoon_session_tense_2026_1784717090336.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_price_crash_2026_1784717100745-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_price_crash_2026_1784717100745-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_price_crash_2026_1784717100745-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_price_crash_2026_1784717100745-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_price_crash_2026_1784717100745-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_price_crash_2026_1784717100745-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_price_crash_2026_1784717100745-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_price_crash_2026_1784717100745-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_price_crash_2026_1784717100745.jpg
+ create mode 100644 wp-content/uploads/2026/07/tamil_nadu_bio_cng_plant_2026_1784717149897-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/tamil_nadu_bio_cng_plant_2026_1784717149897-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/tamil_nadu_bio_cng_plant_2026_1784717149897-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/tamil_nadu_bio_cng_plant_2026_1784717149897-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/tamil_nadu_bio_cng_plant_2026_1784717149897-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/tamil_nadu_bio_cng_plant_2026_1784717149897-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/tamil_nadu_bio_cng_plant_2026_1784717149897-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/tamil_nadu_bio_cng_plant_2026_1784717149897-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/tamil_nadu_bio_cng_plant_2026_1784717149897.jpg
+ create mode 100644 yuksek-mahkemeden-gocmen-uyarisi-vatandaslik-kararlari-adil-ve-gerekceli-olmali/index.html
+To https://github.com/eleseles/hindistan.git
+   0a3566941..5d569c305  main -> main
+
+---
