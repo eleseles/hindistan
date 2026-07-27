@@ -5456,3 +5456,63 @@ To https://github.com/eleseles/hindistan.git
    c1732f559..5d33b380a  main -> main
 
 ---
+[2026-07-24 11:10:50]
+[main ffc421d2e] Auto-update site: 2026-07-24 11:10:36
+ 812 files changed, 31582 insertions(+), 23276 deletions(-)
+ create mode 100644 author/admin/page/47/index.html
+ create mode 100644 basbakan-modi-sessizligini-bozdu-sinavlarda-hileye-karsi-kati-yasa-geliyor/index.html
+ create mode 100644 borsada-kara-cuma-sensex-cakildi-brent-petrol-101-dolari-asti/index.html
+ create mode 100644 category/ekonomi/page/12/index.html
+ create mode 100644 enerjide-cifte-sok-kizildenizde-saldiri-kazakistanda-ihracat-durdu/index.html
+ create mode 100644 glasgow-2026da-ikinci-gun-hintli-para-halterciler-ve-boksorler-sahada/index.html
+ create mode 100644 latest/page/47/index.html
+ create mode 100644 page/47/index.html
+ create mode 100644 wp-content/uploads/2026/07/exam_leak_strict_law_justice_2026_1784889806928-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/exam_leak_strict_law_justice_2026_1784889806928-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/exam_leak_strict_law_justice_2026_1784889806928-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/exam_leak_strict_law_justice_2026_1784889806928-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/exam_leak_strict_law_justice_2026_1784889806928-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/exam_leak_strict_law_justice_2026_1784889806928-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/exam_leak_strict_law_justice_2026_1784889806928-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/exam_leak_strict_law_justice_2026_1784889806928-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/exam_leak_strict_law_justice_2026_1784889806928.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_para_powerlifting_commonwealth_2026_1784889745321-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_para_powerlifting_commonwealth_2026_1784889745321-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_para_powerlifting_commonwealth_2026_1784889745321-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_para_powerlifting_commonwealth_2026_1784889745321-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_para_powerlifting_commonwealth_2026_1784889745321-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_para_powerlifting_commonwealth_2026_1784889745321-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_para_powerlifting_commonwealth_2026_1784889745321-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_para_powerlifting_commonwealth_2026_1784889745321-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/india_para_powerlifting_commonwealth_2026_1784889745321.jpg
+ create mode 100644 wp-content/uploads/2026/07/oil_tanker_supply_crisis_2026_1784889797243-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/oil_tanker_supply_crisis_2026_1784889797243-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/oil_tanker_supply_crisis_2026_1784889797243-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/oil_tanker_supply_crisis_2026_1784889797243-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/oil_tanker_supply_crisis_2026_1784889797243-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/oil_tanker_supply_crisis_2026_1784889797243-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/oil_tanker_supply_crisis_2026_1784889797243-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/oil_tanker_supply_crisis_2026_1784889797243-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/oil_tanker_supply_crisis_2026_1784889797243.jpg
+ create mode 100644 wp-content/uploads/2026/07/pm_modi_video_message_legislation_2026_1784889735216-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/pm_modi_video_message_legislation_2026_1784889735216-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/pm_modi_video_message_legislation_2026_1784889735216-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/pm_modi_video_message_legislation_2026_1784889735216-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/pm_modi_video_message_legislation_2026_1784889735216-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/pm_modi_video_message_legislation_2026_1784889735216-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/pm_modi_video_message_legislation_2026_1784889735216-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/pm_modi_video_message_legislation_2026_1784889735216-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/pm_modi_video_message_legislation_2026_1784889735216.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_101_dollars_2026_1784889723193-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_101_dollars_2026_1784889723193-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_101_dollars_2026_1784889723193-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_101_dollars_2026_1784889723193-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_101_dollars_2026_1784889723193-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_101_dollars_2026_1784889723193-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_101_dollars_2026_1784889723193-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_101_dollars_2026_1784889723193-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/07/sensex_oil_crash_101_dollars_2026_1784889723193.jpg
+To https://github.com/eleseles/hindistan.git
+   5d33b380a..ffc421d2e  main -> main
+
+---
