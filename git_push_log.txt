@@ -5735,3 +5735,89 @@ To https://github.com/eleseles/hindistan.git
    7f654ead8..f6b7d4ca6  main -> main
 
 ---
+[2026-08-13 12:09:16]
+[main 2e0b5e58e] Auto-update site: 2026-08-13 12:08:57
+ 864 files changed, 59602 insertions(+), 42366 deletions(-)
+ create mode 100644 archive/page/61/index.html
+ create mode 100644 arunachal-pradeshte-kesif-nadir-himalaya-arisi-hindistanda-ilk-kez-goruldu/index.html
+ create mode 100644 author/admin/page/49/index.html
+ create mode 100644 bagimsizlik-gunune-geri-sayim-har-ghar-tiranga-kampanyasi-zirvede/index.html
+ create mode 100644 basbakan-modi-baskanliginda-hindistan-brics-zirvesine-ev-sahipligi-yapmaya-hazirlaniyor/index.html
+ create mode 100644 enflasyon-verisi-beklenirken-borsada-temkinli-seyir-brent-petrol-88-dolar/index.html
+ create mode 100644 himachal-pradeshte-tarihi-uygulama-akaryakita-dul-ve-yetim-vergisi-geldi/index.html
+ create mode 100644 hint-para-bisikletciler-avrupada-sov-yapti-danimarkada-12-madalya/index.html
+ create mode 100644 hukumetten-deepfakee-karsi-onlem-meity-ve-meta-guvenlik-zirvesi-yapti/index.html
+ create mode 100644 kirsal-sagliga-guclu-destek-arunachal-pradeshte-72-yeni-uzman-gorevde/index.html
+ create mode 100644 latest/page/49/index.html
+ create mode 100644 muson-oturumu-sona-erdi-sinav-yasasi-gecti-verimlilik-hayal-kirikligi-yaratti/index.html
+ create mode 100644 page/49/index.html
+ create mode 100644 sanata-devlet-onuru-sangeet-natak-akademi-odulleri-sahiplerini-buldu/index.html
+ create mode 100644 sosyal-refaha-destek-hukumetten-smile-programina-kapsamli-genisletme/index.html
+ create mode 100644 wp-content/uploads/2026/08/arunachal_doctors_healthcare_2026_1786622554371-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/08/arunachal_doctors_healthcare_2026_1786622554371-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/08/arunachal_doctors_healthcare_2026_1786622554371-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/08/arunachal_doctors_healthcare_2026_1786622554371-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/08/arunachal_doctors_healthcare_2026_1786622554371-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/08/arunachal_doctors_healthcare_2026_1786622554371-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/08/arunachal_doctors_healthcare_2026_1786622554371-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/08/arunachal_doctors_healthcare_2026_1786622554371-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/08/arunachal_doctors_healthcare_2026_1786622554371.jpg
+ create mode 100644 wp-content/uploads/2026/08/bollywood_movie_haiwaan_teaser_2026_1786622565575-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/08/bollywood_movie_haiwaan_teaser_2026_1786622565575-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/08/bollywood_movie_haiwaan_teaser_2026_1786622565575-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/08/bollywood_movie_haiwaan_teaser_2026_1786622565575-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/08/bollywood_movie_haiwaan_teaser_2026_1786622565575-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/08/bollywood_movie_haiwaan_teaser_2026_1786622565575-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/08/bollywood_movie_haiwaan_teaser_2026_1786622565575-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/08/bollywood_movie_haiwaan_teaser_2026_1786622565575-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/08/bollywood_movie_haiwaan_teaser_2026_1786622565575.jpg
+ create mode 100644 wp-content/uploads/2026/08/brics_summit_diplomacy_2026_1786622625502-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/08/brics_summit_diplomacy_2026_1786622625502-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/08/brics_summit_diplomacy_2026_1786622625502-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/08/brics_summit_diplomacy_2026_1786622625502-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/08/brics_summit_diplomacy_2026_1786622625502-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/08/brics_summit_diplomacy_2026_1786622625502-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/08/brics_summit_diplomacy_2026_1786622625502-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/08/brics_summit_diplomacy_2026_1786622625502-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/08/brics_summit_diplomacy_2026_1786622625502.jpg
+ create mode 100644 wp-content/uploads/2026/08/har_ghar_tiranga_campaign_2026_1786622510383-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/08/har_ghar_tiranga_campaign_2026_1786622510383-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/08/har_ghar_tiranga_campaign_2026_1786622510383-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/08/har_ghar_tiranga_campaign_2026_1786622510383-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/08/har_ghar_tiranga_campaign_2026_1786622510383-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/08/har_ghar_tiranga_campaign_2026_1786622510383-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/08/har_ghar_tiranga_campaign_2026_1786622510383-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/08/har_ghar_tiranga_campaign_2026_1786622510383-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/08/har_ghar_tiranga_campaign_2026_1786622510383.jpg
+ create mode 100644 wp-content/uploads/2026/08/india_inflation_food_oil_2026_1786622577048-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/08/india_inflation_food_oil_2026_1786622577048-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/08/india_inflation_food_oil_2026_1786622577048-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/08/india_inflation_food_oil_2026_1786622577048-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/08/india_inflation_food_oil_2026_1786622577048-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/08/india_inflation_food_oil_2026_1786622577048-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/08/india_inflation_food_oil_2026_1786622577048-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/08/india_inflation_food_oil_2026_1786622577048-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/08/india_inflation_food_oil_2026_1786622577048.jpg
+ create mode 100644 wp-content/uploads/2026/08/parliament_monsoon_session_end_2026_1786622489979-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/08/parliament_monsoon_session_end_2026_1786622489979-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/08/parliament_monsoon_session_end_2026_1786622489979-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/08/parliament_monsoon_session_end_2026_1786622489979-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/08/parliament_monsoon_session_end_2026_1786622489979-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/08/parliament_monsoon_session_end_2026_1786622489979-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/08/parliament_monsoon_session_end_2026_1786622489979-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/08/parliament_monsoon_session_end_2026_1786622489979-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/08/parliament_monsoon_session_end_2026_1786622489979.jpg
+ create mode 100644 wp-content/uploads/2026/08/sensex_oil_cautious_market_2026_1786622499813-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/08/sensex_oil_cautious_market_2026_1786622499813-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/08/sensex_oil_cautious_market_2026_1786622499813-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/08/sensex_oil_cautious_market_2026_1786622499813-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/08/sensex_oil_cautious_market_2026_1786622499813-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/08/sensex_oil_cautious_market_2026_1786622499813-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/08/sensex_oil_cautious_market_2026_1786622499813-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/08/sensex_oil_cautious_market_2026_1786622499813-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/08/sensex_oil_cautious_market_2026_1786622499813.jpg
+ create mode 100644 yilin-aksiyon-filmi-haiwaandan-ilk-teaser-akshay-ve-saif-nefes-kesti/index.html
+To https://github.com/eleseles/hindistan.git
+   f6b7d4ca6..2e0b5e58e  main -> main
+
+---
