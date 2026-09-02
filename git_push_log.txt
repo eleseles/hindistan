@@ -6008,3 +6008,92 @@ To https://github.com/eleseles/hindistan.git
    6d8a7fd39..6c3ceb6da  main -> main
 
 ---
+[2026-09-01 08:05:58]
+[main 8cc24ca62] Auto-update site: 2026-09-01 08:05:35
+ 911 files changed, 33256 insertions(+), 32126 deletions(-)
+ create mode 100644 sco-zirvesinde-modiden-guclu-mesaj-terorizme-cifte-standart-kabul-edilemez/index.html
+ create mode 100644 wp-content/uploads/2026/09/assam_swimming_excellence_center_1788249214944-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/09/assam_swimming_excellence_center_1788249214944-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/09/assam_swimming_excellence_center_1788249214944-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/09/assam_swimming_excellence_center_1788249214944-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/assam_swimming_excellence_center_1788249214944-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/09/assam_swimming_excellence_center_1788249214944-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/09/assam_swimming_excellence_center_1788249214944-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/assam_swimming_excellence_center_1788249214944-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/09/assam_swimming_excellence_center_1788249214944.jpg
+ create mode 100644 wp-content/uploads/2026/09/bihar_womens_university_1788249266583-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/09/bihar_womens_university_1788249266583-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/09/bihar_womens_university_1788249266583-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/09/bihar_womens_university_1788249266583-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/bihar_womens_university_1788249266583-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/09/bihar_womens_university_1788249266583-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/09/bihar_womens_university_1788249266583-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/bihar_womens_university_1788249266583-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/09/bihar_womens_university_1788249266583.jpg
+ create mode 100644 wp-content/uploads/2026/09/erdogan_sco_summit_2026_1788249276705-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/09/erdogan_sco_summit_2026_1788249276705-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/09/erdogan_sco_summit_2026_1788249276705-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/09/erdogan_sco_summit_2026_1788249276705-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/erdogan_sco_summit_2026_1788249276705-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/09/erdogan_sco_summit_2026_1788249276705-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/09/erdogan_sco_summit_2026_1788249276705-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/erdogan_sco_summit_2026_1788249276705-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/09/erdogan_sco_summit_2026_1788249276705.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_coconut_exports_boom_1788249203143-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_coconut_exports_boom_1788249203143-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_coconut_exports_boom_1788249203143-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_coconut_exports_boom_1788249203143-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_coconut_exports_boom_1788249203143-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_coconut_exports_boom_1788249203143-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_coconut_exports_boom_1788249203143-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_coconut_exports_boom_1788249203143-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_coconut_exports_boom_1788249203143.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_monsoon_rain_forecast_1788249287008-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_monsoon_rain_forecast_1788249287008-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_monsoon_rain_forecast_1788249287008-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_monsoon_rain_forecast_1788249287008-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_monsoon_rain_forecast_1788249287008-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_monsoon_rain_forecast_1788249287008-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_monsoon_rain_forecast_1788249287008-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_monsoon_rain_forecast_1788249287008-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_monsoon_rain_forecast_1788249287008.jpg
+ create mode 100644 wp-content/uploads/2026/09/jio_bank_of_america_investment_1788249193730-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/09/jio_bank_of_america_investment_1788249193730-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/09/jio_bank_of_america_investment_1788249193730-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/09/jio_bank_of_america_investment_1788249193730-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/jio_bank_of_america_investment_1788249193730-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/09/jio_bank_of_america_investment_1788249193730-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/09/jio_bank_of_america_investment_1788249193730-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/jio_bank_of_america_investment_1788249193730-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/09/jio_bank_of_america_investment_1788249193730.jpg
+ create mode 100644 wp-content/uploads/2026/09/modi_uzbekistan_award_2026_1788249133524-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/09/modi_uzbekistan_award_2026_1788249133524-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/09/modi_uzbekistan_award_2026_1788249133524-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/09/modi_uzbekistan_award_2026_1788249133524-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/modi_uzbekistan_award_2026_1788249133524-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/09/modi_uzbekistan_award_2026_1788249133524-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/09/modi_uzbekistan_award_2026_1788249133524-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/modi_uzbekistan_award_2026_1788249133524-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/09/modi_uzbekistan_award_2026_1788249133524.jpg
+ create mode 100644 wp-content/uploads/2026/09/sco_summit_bishkek_modi_2026_1788249123227-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/09/sco_summit_bishkek_modi_2026_1788249123227-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/09/sco_summit_bishkek_modi_2026_1788249123227-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/09/sco_summit_bishkek_modi_2026_1788249123227-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/sco_summit_bishkek_modi_2026_1788249123227-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/09/sco_summit_bishkek_modi_2026_1788249123227-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/09/sco_summit_bishkek_modi_2026_1788249123227-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/sco_summit_bishkek_modi_2026_1788249123227-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/09/sco_summit_bishkek_modi_2026_1788249123227.jpg
+ create mode 100644 wp-content/uploads/2026/09/semicon_2_mission_india_2026_1788249146155-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/09/semicon_2_mission_india_2026_1788249146155-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/09/semicon_2_mission_india_2026_1788249146155-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/09/semicon_2_mission_india_2026_1788249146155-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/semicon_2_mission_india_2026_1788249146155-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/09/semicon_2_mission_india_2026_1788249146155-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/09/semicon_2_mission_india_2026_1788249146155-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/semicon_2_mission_india_2026_1788249146155-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/09/semicon_2_mission_india_2026_1788249146155.jpg
+To https://github.com/eleseles/hindistan.git
+   6c3ceb6da..8cc24ca62  main -> main
+
+---
