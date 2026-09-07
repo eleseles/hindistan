@@ -6113,3 +6113,82 @@ To https://github.com/eleseles/hindistan.git
    8cc24ca62..2244da9d1  main -> main
 
 ---
+[2026-09-02 11:11:14]
+[main 78f0b81d8] Auto-update site: 2026-09-02 11:10:40
+ 911 files changed, 52399 insertions(+), 43200 deletions(-)
+ create mode 100644 archive/page/65/index.html
+ create mode 100644 author/admin/page/52/index.html
+ create mode 100644 borsa-guclu-buyumeyi-fiyatlamadi-sensexte-dusus-devam-ediyor/index.html
+ create mode 100644 brics-hazirliklari-tum-hiziyla-suruyor-delhide-trafik-kilitlendi/index.html
+ create mode 100644 category/borsa/index.html
+ create mode 100644 hindistan-ekonomisi-beklentileri-asarak-yuzde-78-buyudu/index.html
+ create mode 100644 latest/page/52/index.html
+ create mode 100644 muson-siddetini-artiriyor-jharkhand-uzerinde-alcak-basinc-olustu/index.html
+ create mode 100644 page/52/index.html
+ create mode 100644 wp-content/uploads/2026/09/delhi_brics_summit_rehearsal_1788346913946-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/09/delhi_brics_summit_rehearsal_1788346913946-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/09/delhi_brics_summit_rehearsal_1788346913946-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/09/delhi_brics_summit_rehearsal_1788346913946-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/delhi_brics_summit_rehearsal_1788346913946-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/09/delhi_brics_summit_rehearsal_1788346913946-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/09/delhi_brics_summit_rehearsal_1788346913946-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/delhi_brics_summit_rehearsal_1788346913946-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/09/delhi_brics_summit_rehearsal_1788346913946.jpg
+ create mode 100644 wp-content/uploads/2026/09/global_coral_reef_danger_india_1788346981951-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/09/global_coral_reef_danger_india_1788346981951-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/09/global_coral_reef_danger_india_1788346981951-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/09/global_coral_reef_danger_india_1788346981951-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/global_coral_reef_danger_india_1788346981951-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/09/global_coral_reef_danger_india_1788346981951-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/09/global_coral_reef_danger_india_1788346981951-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/global_coral_reef_danger_india_1788346981951-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/09/global_coral_reef_danger_india_1788346981951.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_democracy_index_report_1788346968952-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_democracy_index_report_1788346968952-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_democracy_index_report_1788346968952-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_democracy_index_report_1788346968952-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_democracy_index_report_1788346968952-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_democracy_index_report_1788346968952-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_democracy_index_report_1788346968952-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_democracy_index_report_1788346968952-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_democracy_index_report_1788346968952.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_gdp_growth_q1_2026_1788346893121-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_gdp_growth_q1_2026_1788346893121-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_gdp_growth_q1_2026_1788346893121-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_gdp_growth_q1_2026_1788346893121-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_gdp_growth_q1_2026_1788346893121-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_gdp_growth_q1_2026_1788346893121-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_gdp_growth_q1_2026_1788346893121-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_gdp_growth_q1_2026_1788346893121-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_gdp_growth_q1_2026_1788346893121.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_weather_monsoon_jharkhand_1788346957690-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_weather_monsoon_jharkhand_1788346957690-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_weather_monsoon_jharkhand_1788346957690-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_weather_monsoon_jharkhand_1788346957690-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_weather_monsoon_jharkhand_1788346957690-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_weather_monsoon_jharkhand_1788346957690-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_weather_monsoon_jharkhand_1788346957690-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_weather_monsoon_jharkhand_1788346957690-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/09/india_weather_monsoon_jharkhand_1788346957690.jpg
+ create mode 100644 wp-content/uploads/2026/09/jk_security_forces_protest_1788347015291-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/09/jk_security_forces_protest_1788347015291-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/09/jk_security_forces_protest_1788347015291-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/09/jk_security_forces_protest_1788347015291-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/jk_security_forces_protest_1788347015291-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/09/jk_security_forces_protest_1788347015291-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/09/jk_security_forces_protest_1788347015291-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/jk_security_forces_protest_1788347015291-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/09/jk_security_forces_protest_1788347015291.jpg
+ create mode 100644 wp-content/uploads/2026/09/sensex_down_oil_prices_2026_1788346904422-150x150.jpg
+ create mode 100644 wp-content/uploads/2026/09/sensex_down_oil_prices_2026_1788346904422-300x300.jpg
+ create mode 100644 wp-content/uploads/2026/09/sensex_down_oil_prices_2026_1788346904422-480x384.jpg
+ create mode 100644 wp-content/uploads/2026/09/sensex_down_oil_prices_2026_1788346904422-480x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/sensex_down_oil_prices_2026_1788346904422-480x600.jpg
+ create mode 100644 wp-content/uploads/2026/09/sensex_down_oil_prices_2026_1788346904422-60x60.jpg
+ create mode 100644 wp-content/uploads/2026/09/sensex_down_oil_prices_2026_1788346904422-720x480.jpg
+ create mode 100644 wp-content/uploads/2026/09/sensex_down_oil_prices_2026_1788346904422-768x768.jpg
+ create mode 100644 wp-content/uploads/2026/09/sensex_down_oil_prices_2026_1788346904422.jpg
+To https://github.com/eleseles/hindistan.git
+   2244da9d1..78f0b81d8  main -> main
+
+---
